@@ -1,0 +1,30 @@
+<level5 id="wua_12304009_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대신과 통신사를 인견하여 통신사가 가지고 가는 예단에 관해 말하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1747-04-09L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">英祖實錄 48책 65권</mainTitle>
+              <page begin="20장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">英祖實錄 43책</mainTitle>
+              <page begin="245면" />
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+            <subjectClass>무역(貿易)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊辰/上引見大臣、備堂、通信三使臣。 上曰: "通信使所用禮單中紋緞、金線, 我國旣禁之, 禮單當以他緞換封矣。" 領敦寧<index num="1687931_0" ref="M_0006226" sort="K" type="이름">趙顯命</index>曰: " 聖意或慮弛禁, 不欲用紋緞、金線, 而第<index num="1687932_0" sort="J" type="지명">倭人</index>狡獪, 恐有生事之慮。" 右議政<index num="1687933_0" ref="M_0063619" sort="K" type="이름">閔應洙</index>曰: "<index num="1687934_0" sort="J" type="지명">倭</index>情巧惡, 必以約條爭執, 豈不可悶乎? 所送元數無多, 今則依例給之, 日後貿燕計數酌定, 則似無濫貿弛禁之慮矣。" <index num="1687935_0" ref="M_0003552" sort="K" type="이름">元景夏</index>曰: "今因禮單更爲貿來, 殊涉苟且。" 洪啓禧曰: "<index num="1687936_0" sort="J" type="지명">倭人</index>不可責之以信義矣。 上曰: "古有信及豚魚之語。 <index num="1687937_0" sort="J" type="지명">倭人</index>雖狡獪, 似異於豚魚矣。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    

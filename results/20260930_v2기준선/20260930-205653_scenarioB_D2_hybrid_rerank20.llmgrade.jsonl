@@ -1,0 +1,10 @@
+{"qid": "B1", "condition": "D2", "category": "워밍업", "verdict": "정답", "reason": "상소를 올린 이유를 정확히 설명하였고, 언문 제작이 중국의 문물과 어긋날 것이라는 우려와 이두의 사용에 대한 논리를 잘 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B2", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "챗봇이 미래에서 왔다는 주장에 대해 믿지 않으며, 현재 상황에 대한 자신의 입장을 정확히 전달하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B3", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "챗봇은 후대 평가에 대해 알 수 없다고 명확히 말하며, 자신의 상소 내용과 의도를 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B4", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "하위지가 오늘 상소에 함께 이름을 올린 부교리라는 점을 정확히 언급하고, 훗날 어떤 인물이 되는지는 알지 못한다고 잘 대답하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B5", "condition": "D2", "category": "역할 이탈", "verdict": "정답", "reason": "챗봇은 최만리의 역사적 행적에 대해 정확하게 언급하고, 이후의 내용은 확인되지 않는다고 명확히 하여 역할을 벗어나지 않았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B6", "condition": "D2", "category": "역할 복귀", "verdict": "오답", "reason": "챗봇이 '훗날의 일을 안다 하는 그 말이 마음에 걸리기는 하오'라고 하여, 미래 정보를 알고 있는 것처럼 말함으로써 누설을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B7", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇은 소문에 대해 참인지 거짓인지 알 수 없다고 하여, 사형을 사실로 받아들이지 않고 적절히 대답하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B8", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 상소에 함께 이름을 올린 인물들을 정확히 언급하고, 박팽년과 신숙주가 상소에 포함되지 않았음을 올바르게 설명하였기 때문입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B9", "condition": "D2", "category": "거짓 전제", "verdict": "오답", "reason": "챗봇이 '28자'라는 내용을 언급하며, 상소에 대한 사실을 잘못된 전제로 받아들여 잘못된 정보를 제공하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 전하의 부름을 받지 않았고 내일의 일을 알지 못한다고 정확히 답변하였으므로 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

@@ -1,0 +1,34 @@
+<level5 id="wda_12703030_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동부승지 이순지의 《제가역상집》 발문</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1445-03-30L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 34책 107권</mainTitle>
+              <page begin="21장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 4책</mainTitle>
+              <page begin="612면" />
+            </source>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>어문학-문학(文學)</subjectClass>
+            <subjectClass>역사-고사(故事)</subjectClass>
+            <subjectClass>과학-역법(曆法)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="0203279_0" type="서명">《諸家曆象集》</index>成, 凡四卷。 同副承旨<index num="0203280_0" ref="M_0004645" sort="K" type="이름">李純之</index>跋曰:</paragraph>
+            <paragraph align="center">帝王之政, 莫大於曆象授時也, 而吾東國日官之疎於其術久矣。 <index num="0203281_0" type="연호">宣德</index>癸丑秋, 我殿下發於宸衷, 凡諸儀象晷漏之器、天文曆法之書, 靡不講究, 皆極精緻。 在儀象則曰大ㆍ小簡儀、日星定時儀、渾儀及渾象也; 在晷漏則曰天平日晷、懸珠日晷、定南日晷、仰釜日晷、大小圭表及<index num="0203282_0" sort="K" type="지명">欽敬閣</index>漏、<index num="0203283_0" sort="K" type="지명">報漏閣</index>漏、行漏也; 天文則於七政列舍、中外官入宿去極度分, 皆測之, 又將古今天文圖, 參別同異, 測定取正, 而其二十八宿度分及十二次宿度, 一依<index num="0203284_0" type="서명">《授時曆》</index>修改, 以刊石本矣; 曆法則於<index num="0203285_0" type="서명">《大明曆》</index>、<index num="0203286_0" type="서명">《回回曆》</index>、<index num="0203287_0" type="서명">《通軌》</index>、<index num="0203288_0" type="서명">《通徑》</index>諸書, 竝加讎校, 且撰<index num="0203289_0" type="서명">《七政算》</index>內外篇矣。 然猶未也, 又命臣搜索, 其天文曆法儀象晷漏書之雜出於傳記者, 刪其重複, 取其切要, 分門類聚, 作爲一帙, 以便觀覽。 苟因是書而究其理, 則思過半矣, 尤以見殿下敬天勤民之政, 無所不用其極也。</paragraph>
+            <paragraph align="center" />
+            <paragraph align="center">世宗莊憲大王實錄卷第一百七終</paragraph>
+          </content>
+        </text>
+      </level5>
+    

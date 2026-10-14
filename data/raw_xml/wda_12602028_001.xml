@@ -1,0 +1,29 @@
+<level5 id="wda_12602028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>임금과 왕비가 청주 초수리에 거둥하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1444-02-28L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 33책 103권</mainTitle>
+              <page begin="25장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 4책</mainTitle>
+              <page begin="545면" />
+            </source>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊申/上及王妃幸<index num="0198493_0" sort="K" type="지명">淸州</index>
+              <index num="0198494_0" sort="K" type="지명">椒水里</index>, 世子隨駕。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

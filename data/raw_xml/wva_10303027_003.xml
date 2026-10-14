@@ -1,0 +1,29 @@
+<level5 id="wva_10303027_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>내각에 처음으로 검서관을 두다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1779-03-27L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">正祖實錄 7책 7권</mainTitle>
+              <page begin="39장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">正祖實錄 45책</mainTitle>
+              <page begin="104면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>신분-중인(中人)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○初置內閣檢書官, 以庶類中有文藝者差出, 置四員。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

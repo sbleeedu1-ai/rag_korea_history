@@ -1,0 +1,38 @@
+<level5 id="wda_10106009_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>상왕이 대마도 정벌할 것에 대해 중외에 교유하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1419-06-09L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 2책 4권</mainTitle>
+              <page begin="14장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 2책</mainTitle>
+              <page begin="321면" />
+            </source>
+            <subjectClass>과학-지학(地學)</subjectClass>
+            <subjectClass>역사-고사(故事)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○上王敎中外曰:</paragraph>
+            <paragraph align="center">
+              <quotation>窮兵黷武, 固聖賢之所戒; 討罪興師, 非帝王之獲已。 昔<index num="0078230_0" ref="M_0032358" sort="A" type="이름">成湯</index>舍穡事而征<index num="0078231_0" sort="K" type="지명">有夏</index>, <index num="0078232_0" ref="M_0033719" sort="A" sort2="周" type="이름">宣王</index>以六月而伐<index num="0078233_0" sort="K" type="지명">玁狁</index>。 其事雖有大小之殊, 然其皆爲討罪之擧則一而已矣。 <index num="0078234_0" sort="J" type="지명">對馬</index>爲島, 本是我國之地, 但以阻僻隘陋, 聽爲<index num="0078235_0" sort="J" type="지명">倭奴</index>所據。 乃懷狗盜鼠竊之計, 歲自庚寅, 始肆跳梁於邊徼, 虔劉軍民, 俘虜父兄, 火其室屋, 孤兒寡婦, 哭望海島, 無歲無之。 志士、仁人扼腕歎息, 思食其肉而寢其皮, 蓋有年矣。 惟我<index num="0078236_0" ref="M_0000889" sort="K" type="이름">太祖康獻大王</index>龍飛應運, 威德光被, 撫綏相信, 然其凶狠貪婪之習, 囂然未已, 歲丙子, 攘奪<index num="0078237_0" sort="K" type="지명">東萊</index>兵船二十餘隻, 殺害軍士。 予承大統, 卽位以後, 歲丙戌於<index num="0078238_0" sort="K" type="지명">全羅道</index>, 歲戊子於<index num="0078239_0" sort="K" type="지명">忠淸道</index>, 或奪漕運, 或燒兵船, 至殺萬戶, 其暴極矣, 再入<index num="0078240_0" sort="K" type="지명">濟州</index>, 殺傷亦衆。 蓋其好人怒獸、包藏姦狡之念, 神人所共憤也。</quotation>
+            </paragraph>
+            <paragraph align="center">
+              <quotation>予尙包荒含垢, 不與之校, 賑其飢饉, 通其商賈, 凡厥需索, 無不稱副, 期于竝生。 不意今又窺覘虛實, 潛入<index num="0078241_0" sort="K" type="지명">庇仁</index>之浦, 殺掠人民, 幾三百餘, 燒焚船隻, 戕害將士, 浮于<index num="0078242_0" sort="K" type="지명">黃海</index>, 以至<index num="0078243_0" sort="K" type="지명">平安</index>, 擾亂吾赤子, 將犯上國之境。 其忘恩背義, 悖亂天常, 豈不甚哉? 以予好生之心, 苟有一夫之失所, 猶恐獲戾于上下, (蚓)<annotation type="교감주">
+                  <noteTitle>〔矧〕</noteTitle>
+                </annotation>今<index num="0078244_0" sort="J" type="지명">倭寇</index>肆行貪毒, 賊殺群黎, 自速天禍, 尙且容忍, 不克往征, 猶爲國有人乎? 今當農月, 命將出師, 以正其罪, 蓋亦不得已焉爾矣。 於戲! 欲掃姦兇, 拯生靈於水火; 斯陳利害, 諭予志于臣民。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    

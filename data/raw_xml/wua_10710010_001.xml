@@ -1,0 +1,33 @@
+<level5 id="wua_10710010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경기도 양천의 군액 감소와 함경도 정평·안변의 은점 설치에 대해 논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1731-10-10L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">英祖實錄 23책 30권</mainTitle>
+              <page begin="29장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">英祖實錄 42책</mainTitle>
+              <page begin="280면" />
+            </source>
+            <subjectClass>군사-군정(軍政)</subjectClass>
+            <subjectClass>광업-채광(採鑛)</subjectClass>
+            <subjectClass>금융-화폐(貨幣)</subjectClass>
+            <subjectClass>역사-고사(故事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚子/上引見大臣備堂。 右議政<index num="1635434_0" ref="M_0006030" sort="K" type="이름">趙文命</index>言: "<index num="1635435_0" sort="K" type="지명">京圻</index>
+              <index num="1635436_0" sort="K" type="지명">陽川</index>邑至少, 而軍額之多, 反浮於元戶之數, 爲一邑難支之弊。 請移送他邑, 以減元額。" 上許之。 戶曹判書<index num="1635437_0" ref="M_0001483" sort="K" type="이름">金東弼</index>言: "地部銀貨枵竭, 儲積之道, 惟在山林川澤之利。 而我國有貨而不知用, 反爲無貨之國。 聞<index num="1635438_0" sort="K" type="지명">咸鏡道</index>之<index num="1635439_0" sort="K" type="지명">定平</index>, 有産銀處, <index num="1635440_0" sort="K" type="지명">安邊</index>有産銅處云。 請送曹郞, 設店收稅, 以補經用。" 上曰: "曾見<index num="1635441_0" ref="M_0047647" sort="K" type="이름">宣廟</index>
+              <index num="1635442_0" type="서명">《實鑑》</index>, 有不許採銀之敎。 古語曰: ‘欲法<index num="1635443_0" ref="M_0033589" sort="K" type="이름">堯</index>、<index num="1635444_0" ref="M_0033585" sort="K" type="이름">舜</index>, 當法祖宗。’ 此豈非可法者耶? 但禁其設店前奸民之潛採者可也。" 後因大臣所奏, 安邊則只許鑄錢時設店採用, 而鑄畢卽罷之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

@@ -1,0 +1,16 @@
+﻿
+== 최만리: 왜 언문 만드는 일에 반대하셨나요?
+총 18.2s
+  embed text-embedding-3-large effort=None json=False  0.5s  입력0 출력0(생각0)
+  chat  gpt-6-luna effort=low json=True  6.0s  입력4144 출력532(생각278)
+  chat  gpt-6-luna effort=medium json=False  2.6s  입력3078 출력147(생각44)
+  chat  gpt-6-luna effort=medium json=True  9.1s  입력2724 출력1128(생각780)
+  [비교] 근거 대조 low: 7.0s  출력597(생각286)  문장 5개
+
+== 수양대군: 오늘 밤 왜 이런 일을 벌이셨습니까?
+총 20.0s
+  embed text-embedding-3-large effort=None json=False  0.3s  입력0 출력0(생각0)
+  chat  gpt-6-luna effort=low json=True  8.6s  입력5701 출력817(생각412)
+  chat  gpt-6-luna effort=medium json=False  2.8s  입력2858 출력175(생각78)
+  chat  gpt-6-luna effort=medium json=True  8.2s  입력2565 출력945(생각615)
+  [비교] 근거 대조 low: 6.8s  출력690(생각297)  문장 7개

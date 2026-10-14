@@ -1,0 +1,220 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");   /* 본문 글꼴 Pretendard(OFL), 사용자 10-12 */
+/* 시안(docs/참고/역사 취재록_ 언문 논쟁 인터뷰-1.png)에 맞춘 화면 꾸밈.
+   간격·테두리·모서리 장식은 아래 변수 하나로 맞춰 패널끼리 어긋나지 않게 한다. */
+:root {
+  --night:#0b131c; --navy:#122131; --panel:rgba(12,21,32,.92); --panel-solid:#0f1b29;
+  --gold:#c9a463; --gold-2:#e2c27f; --gold-soft:#7d6642; --line:#5e4f36;
+  --paper:#efe6d2; --paper-2:#e4d7ba; --paper-line:#b39d6f; --ink:#2a2620;
+  --teal:#2f6b5e; --teal-2:#3c8270; --brown:#3a2a17;
+  --gap:10px; --pad:14px; --radius:4px;
+  --frame:1px solid var(--line);
+  /* 모서리 금색 꺾쇠(시안의 패널 장식) */
+  --corners:
+    linear-gradient(var(--gold),var(--gold)) left top/14px 2px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) left top/2px 14px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) right top/14px 2px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) right top/2px 14px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) left bottom/14px 2px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) left bottom/2px 14px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) right bottom/14px 2px no-repeat,
+    linear-gradient(var(--gold),var(--gold)) right bottom/2px 14px no-repeat;
+}
+.stApp { background:radial-gradient(ellipse at top, #172a3d 0%, var(--night) 62%); color:#e8e3d6; }
+/* 기본 머리줄은 투명해도 위 60px의 클릭을 가로채므로 아예 없앤다([359]) */
+[data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecoration"] { display:none; }
+[data-testid="stMainBlockContainer"] { max-width:1560px; padding:.7rem 1.4rem .8rem; }
+h1,h2,h3,.brand,.nb-title,.serif { font-family:"Batang","바탕","Noto Serif KR",serif!important; }
+button,textarea,input,p,div,label { font-family:"Pretendard Variable","Pretendard","Malgun Gothic","맑은 고딕",sans-serif; }
+
+/* 공통 버튼 */
+.stButton button,.stFormSubmitButton button,[data-testid="stPopover"] button {
+  border:1px solid #4a5d6a; border-radius:var(--radius); background:#142435; color:#ece5d3; min-height:40px;
+  transition:background .15s,border-color .15s,filter .15s; }
+.stButton button:hover,.stFormSubmitButton button:hover { border-color:var(--gold); color:#fff3d6; background:#1d3246; }
+.stButton button:focus-visible,.stFormSubmitButton button:focus-visible,.gl-button:focus-visible { outline:3px solid #edcb83!important; outline-offset:2px; }
+button[kind="primary"],.stFormSubmitButton button { background:var(--teal); border-color:#6fa290; color:#fff; }
+button[kind="primary"]:hover,.stFormSubmitButton button:hover { background:var(--teal-2)!important; }
+.stButton button:disabled { opacity:1; }
+.eyebrow { color:var(--gold); font-size:14px; letter-spacing:3px; font-weight:700; }
+.footer { color:#8d9ea6; font-size:12px; letter-spacing:1px; text-align:center; padding:12px 0 2px; }
+.footer.credit { font-size:11px; letter-spacing:0; padding-top:2px; }
+
+/* 맨 위: 왼쪽 제목, 오른쪽 글자 메뉴(시안의 '대화 기록 | 설정') */
+.brand { color:#f3e4c0; font-size:30px; font-weight:700; letter-spacing:4px; text-shadow:0 2px 10px #000; line-height:1.2; }
+.st-key-topbar [data-testid="stHorizontalBlock"] { align-items:center; }
+.st-key-topbar .stButton button, .st-key-topbar [data-testid="stPopover"] button {
+  background:transparent; border:0; border-left:1px solid #4b5a63; border-radius:0; min-height:30px; color:#e6dfcf; font-size:15px; }
+.st-key-topbar [data-testid="stHorizontalBlock"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:nth-child(2) button { border-left:0; }
+.st-key-topbar .stButton button:hover, .st-key-topbar [data-testid="stPopover"] button:hover { background:transparent; color:var(--gold-2); }
+
+/* 시작 화면 */
+.hero { min-height:max(520px, calc(100vh - 150px)); display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;
+  background-size:cover; background-position:center; border:var(--frame); box-shadow:inset 0 0 0 6px var(--night),inset 0 0 0 7px #6d5a3a;
+  padding:50px 24px; margin-top:8px; }
+.hero .eyebrow { letter-spacing:7px; color:#eadbb8; font-size:15px; }
+.hero .ornament { color:var(--gold); margin:14px 0; font-size:12px; }
+.hero h1 { font-size:clamp(54px,8vw,104px); letter-spacing:10px; margin:0; color:#f6e9cc; text-shadow:0 6px 26px #000; }
+.hero p { font-size:18px; color:#ece3cf; margin:0; }
+.st-key-home_actions { max-width:420px; margin:-80px auto 0; position:relative; z-index:2; padding:0 0 20px; }
+.st-key-home_actions button { min-height:84px; border:2px solid #efd9a6; background:linear-gradient(180deg,#f3e2b8,#d9c08c)!important; color:#2a2318; }
+.st-key-home_actions button p { font-size:24px; font-weight:700; font-family:"Batang",serif; }
+
+/* 사건 목록 */
+.page-head { margin:10px 0 22px; word-break:keep-all; }   /* 낱말 단위 줄바꿈(10-12) */
+.page-head h1 { font-size:clamp(28px, 3vw, 40px); color:#f0e1bf; margin:6px 0 8px; }
+.page-head p { color:#c4cfd2; margin:0; font-size:17px; line-height:1.6; }   /* 10-12 글씨 키움 */
+.event-card { border:var(--frame); background:var(--corners), linear-gradient(160deg,#1b2f44,#101c29); padding:24px 22px; min-height:150px; }
+.event-card.extra { background:var(--corners), linear-gradient(160deg,#2a2218,#15110c); }
+.event-card h3 { color:#f1e2bd; margin:0 0 8px; font-size:22px; }
+.event-card p { color:#b9c5c8; margin:0; }
+.event-badge { display:inline-block; font-size:11px; color:#f3ead6; background:var(--teal); border:1px solid #6fa290; border-radius:10px; padding:1px 9px; margin-bottom:8px; }
+.event-badge.demo { background:#5e3d1c; border-color:#b08d4f; }
+
+/* 취재 의뢰 */
+.st-key-briefing { min-height:calc(100vh - 90px); background-size:cover; background-position:center; border:var(--frame); border-radius:var(--radius);
+  justify-content:center; padding:30px 24px; box-shadow:inset 0 0 0 4px var(--night), inset 0 0 0 5px #5b4b31; }
+.brief { max-width:760px; margin:0 auto; background:var(--paper); color:var(--ink); border:1px solid var(--paper-line); border-radius:var(--radius);
+  padding:26px 32px; box-shadow:inset 0 0 0 5px #e3d6b8, inset 0 0 0 6px #bba67a, 0 10px 30px rgba(0,0,0,.5); }
+.brief .eyebrow { color:#8a6328; }
+.brief h2 { font-family:"Batang",serif; font-size:32px; color:#2b2318; margin:6px 0 12px; }
+.brief-text { font-size:17px; line-height:1.85; color:#2c2a24; margin:0 0 16px; }
+.brief-list { border-top:1px solid #c9b88f; padding-top:10px; }
+.brief-row { display:flex; gap:14px; align-items:flex-start; padding:8px 0; border-bottom:1px dashed #d2c39f; }
+.brief-no { font-family:"Batang",serif; font-size:22px; color:#8a6328; line-height:1.2; }
+.brief-row b { font-size:17px; color:#2b2318; }
+.brief-row p { margin:2px 0 0; font-size:13px; color:#6d6450; }
+.brief-note { font-size:13px; color:#6d6450; margin:12px 0 0; }
+
+/* 입력칸(시연용 함정 질문 화면) */
+.stTextInput input { background:#0f1b28 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%239aa8b0' stroke-width='1.7'%3E%3Cpath d='M4 20l4-1 11-11-3-3L5 16z'/%3E%3C/svg%3E") 12px center/16px no-repeat;
+  color:#f2ecdf; border:1px solid #4f6475; font-size:15px; min-height:42px; padding-left:38px; }
+.stTextInput input::placeholder { color:#8b9aa3; }
+
+/* ---------- 용어 도움말 창(오른쪽에서 열림) ---------- */
+.gl-radio { position:fixed; opacity:0; pointer-events:none; width:0; height:0; }
+.glossary { position:fixed; top:0; right:0; height:100vh; width:340px; z-index:1000; background:#f3ead8; color:#2a2620;
+  border-left:3px solid #8f7444; box-shadow:-10px 0 30px rgba(0,0,0,.5); padding:18px 18px 30px; overflow-y:auto;
+  transform:translateX(105%); transition:transform .2s ease; }
+body:has(.gl-radio:checked:not(#gl-close)) .glossary { transform:none; }
+.gl-head { display:flex; justify-content:space-between; align-items:center; font-family:"Batang",serif; font-size:22px; font-weight:700; }
+.gl-close { cursor:pointer; padding:2px 8px; border:1px solid #b9a77f; border-radius:3px; font-size:15px; }
+.gl-note { font-size:12px; color:#6d6553; margin:8px 0 12px; }
+.gl-item { border:1px solid #d5c6a4; background:#fbf6ea; border-radius:var(--radius); padding:8px 12px; margin-bottom:8px; transition:background .15s; }
+.gl-item b { font-size:16px; color:#3a2a10; }
+.gl-item p { margin:4px 0 0; font-size:14px; line-height:1.6; color:#3b372e; }
+
+/* ---------- 큰 창·근거 기사·기타 화면 ---------- */
+[data-testid="stDialog"] div[role="dialog"] { background:#132233; color:#e8e3d6; border:1px solid #6f5d3e; }
+[data-testid="stDialog"] div[role="dialog"] h2, [data-testid="stDialog"] div[role="dialog"] [data-testid="stHeading"] { color:#f0e1bf; }
+.ev-card { border:1px solid #c9b88f; background:#f6efdf; color:#2a2620; padding:14px 16px; border-radius:var(--radius); margin:6px 0; }
+.ev-title { font-family:"Batang",serif; font-size:19px; font-weight:700; color:#2e2414; }
+.ev-source { font-size:13px; font-weight:700; color:#8a4b2a; margin-bottom:2px; }
+.ev-meta,.ev-label { font-size:12px; color:#6f6652; margin-top:3px; }
+.ev-text { font-size:16px; line-height:1.85; margin-top:8px; }
+.ev-text mark { background:#f4d98b; padding:0 2px; }
+.hist-meta { font-size:12px; color:var(--gold); }
+[data-testid="stDialog"] .question-line { color:#b4a888; }
+[data-testid="stDialog"] .answer-text { color:#e8e3d6; }
+.finale-head { font-family:"Batang",serif; font-size:22px; color:#f0dfb8; margin:12px 0 4px; }
+[class*="st-key-finale_"] { border:var(--frame); background:var(--corners), #122031; padding:8px 18px 12px; margin-bottom:10px; border-radius:var(--radius); }
+.st-key-archive_suggest button { justify-content:flex-start; text-align:left; }
+.st-key-archive_suggest button > div { justify-content:flex-start; width:100%; }
+[class*="st-key-archive_item_"] { background:var(--paper); color:var(--ink); border:1px solid var(--paper-line); border-radius:var(--radius); padding:12px 18px; margin:10px 0; }
+[class*="st-key-archive_item_"] .stButton button { background:#f6efe0; color:#2f3a35; border-color:#8e8164; }
+
+@media(max-width:900px) {
+  [data-testid="stMainBlockContainer"] { padding:1rem .8rem; }
+  .glossary { width:86vw; }
+  .st-key-topbar .stButton button { font-size:13px; }
+}
+
+/* 취재 화면(컴포넌트, [364]): 바깥 여백을 없애고 컴포넌트가 창을 채운다 */
+body:has(.st-key-stagewrap) [data-testid="stMainBlockContainer"] { padding:.45rem .9rem 0; max-width:none; }
+@media (min-width:1000px) and (min-height:640px) {
+  body:has(.st-key-stagewrap) .stApp, body:has(.st-key-stagewrap) [data-testid="stAppViewContainer"], body:has(.st-key-stagewrap) [data-testid="stMain"] { overflow:hidden; }
+}
+@media (min-width:1000px) and (min-height:640px) {
+  .st-key-stagewrap { height:calc(100dvh - 14px); flex:0 0 auto!important; }
+  .st-key-stagewrap > [data-testid="stElementContainer"] { flex:1 1 auto; height:100%; }
+  .st-key-stagewrap [data-testid="stBidiComponentIsolated"], .st-key-stagewrap .stBidiComponent { height:100%!important; }
+}
+
+/* 답을 기다리는 동안 Streamlit이 화면 전체를 흐리게 하는 기본 표시를 끈다(사용자 10-12). 기다림은 대화창 안에 단계·시간으로 보인다 */
+[data-stale="true"], .stale-element { opacity:1 !important; transition:none !important; }
+
+/* ---------- 기출처럼 풀기(10-12) ---------- */
+.qz-dots { display:flex; gap:8px; margin:0 0 14px; }
+.qz-dot { width:30px; height:30px; display:inline-flex; align-items:center; justify-content:center; border-radius:50%;
+  border:1px solid #6d5a3a; color:#cdbf9c; font-size:14px; }
+.qz-dot.now { border-color:#e2c27f; color:#fff3d0; box-shadow:0 0 8px rgba(226,194,127,.5); }
+.qz-dot.right { background:#2d6b5c; border-color:#74a896; color:#fff; }
+.qz-dot.wrong { background:#7a2d1d; border-color:#b0584a; color:#fff; }
+.qz-card { max-width:860px; background:#efe5cf; color:#2b2620; border:1px solid #b9a479; border-radius:4px; padding:22px 26px; margin-bottom:14px; }
+.qz-label { font-size:13px; color:#8a6328; letter-spacing:.05em; margin-bottom:10px; }
+.qz-passage { border:1px solid #c2ad82; background:#f8f2e2; padding:14px 18px; font-size:17px; line-height:1.75;
+  font-family:"Gowun Batang","Batang",serif; color:#2f2618; }
+.qz-ask { margin-top:14px; font-size:18px; font-weight:700; }
+.st-key-qz_options { max-width:860px; }
+.st-key-qz_options button { justify-content:flex-start; text-align:left; }
+.st-key-qz_options button p { font-size:16px !important; }
+.qz-opts { max-width:860px; display:flex; flex-direction:column; gap:6px; }
+.qz-opt { background:#152536; border:1px solid #3e5263; color:#dfe6e8; padding:10px 14px; border-radius:4px; font-size:16px; }
+.qz-opt span { color:#e9d9a8; font-size:13px; margin-left:6px; }
+.qz-opt.right { background:#1f4d40; border-color:#74a896; color:#fff; }
+.qz-opt.wrong { background:#4a1f18; border-color:#b0584a; color:#fff; }
+.qz-explain { max-width:860px; margin:12px 0; background:#f3ead8; color:#2b2620; border-left:4px solid #2d6b5c; padding:14px 18px; border-radius:3px; }
+.qz-explain b { font-size:17px; }
+.qz-explain p { margin:6px 0 0; line-height:1.7; font-size:15px; }
+.qz-link { margin-top:8px; font-size:13px; color:#2d6b5c; font-weight:700; }
+.qz-result h2 { margin:0 0 6px; font-family:"Gowun Batang","Batang",serif; font-size:28px; color:#2b2318; }
+.qz-result p { margin:0 0 12px; color:#5d533f; }
+.qz-row { display:flex; justify-content:space-between; gap:12px; padding:8px 0; border-top:1px dashed #cdbd99; font-size:15px; }
+.qz-row span { color:#8a8170; font-size:13px; }
+.qz-row.right b::before { content:"✓ "; color:#2d6b5c; }
+.qz-row.wrong b::before { content:"✗ "; color:#a2412f; }
+.page-head.center { text-align:center; }   /* 모드·사건 고르기(10-12) */
+
+/* 위쪽 메뉴(← 사건 목록·처음으로 등): 취재 화면 메뉴와 같은 글꼴·크기로(10-12 사용자 "여기선 너무 작고 폰트도 다르게 보이네").
+   취재 화면 stage.css의 --t-sm = 기본 글자(clamp(16px, .45vw + .75vh + 4px, 20px)) × .875와 같은 값 */
+.st-key-topbar .stButton button p, .st-key-topbar [data-testid="stPopover"] button p {
+  font-family:"Pretendard Variable","Pretendard","Noto Sans KR","Malgun Gothic","맑은 고딕",sans-serif !important;
+  font-size:calc(clamp(16px, .45vw + .75vh + 4px, 20px) * .875) !important; font-weight:500; }
+
+/* 취재 의뢰 카드 글씨 키움(10-12 사용자 "글씨 너무 작다", 강의실 75% 확대 고려) */
+.brief { max-width:980px; padding:30px 40px; }
+.brief .eyebrow { font-size:16px; }
+.brief h2 { font-size:44px; margin:8px 0 16px; }
+.brief-text { font-size:21px; line-height:1.8; }
+.brief-row { padding:12px 0; gap:16px; }
+.brief-no { font-size:28px; }
+.brief-row b { font-size:22px; }
+.brief-row p { font-size:17px; margin-top:4px; }
+.brief-note { font-size:17px; margin-top:16px; }
+.st-key-start_interview button { min-height:56px; }
+.st-key-start_interview button p { font-size:20px; font-weight:700; }
+
+/* ---------- 기출처럼 풀기·실록에 묻기·마무리 화면 글씨 키움(10-12 사용자 "글씨 크기 조절") ----------
+   강의실 브라우저가 75% 확대라 화면에서는 적힌 값의 3/4 크기로 보인다. 본문 20px 안팎(= 실제 15px)을 기준으로 함 */
+.st-key-pagebody { max-width:1120px; width:100%; margin:0 auto; }
+.st-key-pagebody .page-head h1 { font-size:clamp(32px, 3.4vw, 48px); }
+.st-key-pagebody .page-head p { font-size:19px; }
+.st-key-pagebody .stButton button { min-height:52px; }
+.st-key-pagebody .stButton button p { font-size:19px; }
+.st-key-qz_options button > div, .st-key-qz_options button [data-testid="stMarkdownContainer"] { justify-content:flex-start; text-align:left; width:100%; }
+.st-key-qz_options button p { font-size:21px !important; line-height:1.5; }
+.qz-card, .st-key-qz_options, .qz-opts, .qz-explain { max-width:none; }
+button[kind="primary"]:disabled { background:#1c332d !important; border-color:#3f6157 !important; color:#a9c0b6 !important; }   /* 안 눌리는 '다음 문제'도 보이게 */
+.qz-dot { width:42px; height:42px; font-size:19px; }
+.qz-card { padding:28px 34px; }
+.qz-label { font-size:18px; } .qz-passage { font-size:23px; line-height:1.8; padding:18px 24px; } .qz-ask { font-size:24px; margin-top:18px; }
+.qz-opt { font-size:21px; padding:14px 18px; } .qz-opt span { font-size:17px; }
+.qz-explain { padding:18px 24px; } .qz-explain b { font-size:22px; } .qz-explain p { font-size:20px; line-height:1.75; } .qz-link { font-size:17px; }
+.qz-result h2 { font-size:34px; } .qz-result p { font-size:19px; }
+.qz-row { font-size:20px; padding:10px 0; } .qz-row span { font-size:17px; }
+.st-key-archive_suggest button p { font-size:19px; }
+.st-key-pagebody .stTextInput input { font-size:19px; min-height:52px; }
+.st-key-pagebody .answer-text, .st-key-pagebody .ev-text { font-size:20px; line-height:1.8; }
+[class*="st-key-finale_"] { padding:14px 26px 18px; }
+[class*="st-key-finale_"] [data-testid="stMarkdownContainer"] p { font-size:21px; line-height:1.7; }
+[class*="st-key-finale_"] [data-testid="stCaptionContainer"] { font-size:17px; color:#b9c4c7; }
+.finale-head { font-size:30px; }

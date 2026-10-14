@@ -1,0 +1,28 @@
+<level5 id="wga_11208025_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>과전을 혁파하고 직전을 설치하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1466-08-25L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世祖實錄 14책 39권</mainTitle>
+              <page begin="34장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 8책</mainTitle>
+              <page begin="37면" />
+            </source>
+            <subjectClass>농업-전제(田制)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○革科田, 置職田。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

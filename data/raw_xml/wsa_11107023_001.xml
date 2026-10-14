@@ -1,0 +1,38 @@
+<level5 id="wsa_11107023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>금위영의 설치와 전일 죄수 소결 문제을 의논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1685-07-23L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄 18책 16권</mainTitle>
+              <page begin="32장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄 39책</mainTitle>
+              <page begin="40면" />
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>군사-중앙군(中央軍)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛巳/引見大臣備局諸臣。 以<index num="1456895_0" sort="K" type="지명">禁衛營</index>別設大將事, 詢及諸臣, 諸臣皆以爲不如存舊規, 以兵判兼領大將, 上從之。 命別置提調。 右議政<index num="1456896_0" ref="M_0005890" sort="K" type="이름">鄭載嵩</index>曰: "頃日疏決, <index num="1456897_0" ref="M_0001161" sort="K" type="이름">權大運</index>、<index num="1456898_0" ref="M_0046705" sort="K" type="이름">閔熙</index>量移之事, 臣等承上命將順。 而臺疏以 ‘承順贊成縱恣無忌等語’ 加之, 此是指斥臣身也。" 辭氣頗厲, 且曰: "臺論苟有立異者, 則同爲引避, 處置請出, 然後論啓, 例也。 而其時臺官, 不爲引避, 徑先論啓, 亦涉後弊。" 左議政<index num="1456899_0" ref="M_0002116" sort="K" type="이름">南九萬</index>亦以爲非。 大司憲<index num="1456900_0" ref="M_0044924" sort="K" type="이름">李䎘</index>引避曰: "縱恣之云, 指判義禁非指大臣。 公議所在, 是非已定之事, 直爲論劾, 近事亦有可據。"</paragraph>
+            <paragraph align="center">
+              <postScript type="史論">
+                <paragraph align="center">【史臣曰: "<index num="1456901_0" ref="M_0001161" sort="K" type="이름">大運</index>、<index num="1456902_0" ref="M_0046705" sort="K" type="이름">熙</index>罪不容誅, 而因一時之旱, 遽命量移。 <index num="1456903_0" ref="M_0005890" sort="K" type="이름">載嵩</index>等居大臣之列, 旣贊成其失, 又於榻前, 面斥臺臣, 抉摘其過, 以爲陰護兇人之地, 豈非無忌憚之甚乎? <index num="1456904_0" ref="M_0002116" sort="K" type="이름">九萬</index>亦不免雷同, 指議臺官無失之失, 可勝歎哉?】</paragraph>
+              </postScript>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      

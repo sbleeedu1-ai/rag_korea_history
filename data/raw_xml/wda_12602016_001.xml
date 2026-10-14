@@ -1,0 +1,32 @@
+<level5 id="wda_12602016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>집현전 교리 최항·부교리 박팽년 등에게 언문으로 《운회》를 번역하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1444-02-16L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 33책 103권</mainTitle>
+              <page begin="19장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 4책</mainTitle>
+              <page begin="542면" />
+            </source>
+            <subjectClass>어문학-어학(語學)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丙申/命集賢殿校理<index id="p16_000057_00" num="0198319_0" ref="M_0058307" sort="K" type="이름">崔恒</index>、副校理<index id="p16_000058_00" num="0198320_0" ref="M_0002656" sort="K" type="이름">朴彭年</index>、副修撰<index id="p17_000070_00" num="0198321_0" ref="M_0003129" sort="K" type="이름">申叔舟</index>ㆍ<index num="0198322_0" ref="M_0004499" sort="K" type="이름">李善老</index>ㆍ<index id="p16_000067_00" num="0198323_0" ref="M_0000431" sort="K" type="이름">李塏</index>、敦寧府注簿<index id="p16_000080_00" num="0198324_0" ref="M_0001027" sort="K" type="이름">姜希顔</index>等, 詣議事廳, 以諺文譯<index num="0198325_0" type="서명">《韻會》</index>, 東宮與<index num="0198326_0" ref="M_0047665" sort="K" type="이름">晉陽大君</index>
+              <index num="0198327_0" ref="M_0047665" sort="K" type="이름">瑈</index>、<index num="0198328_0" ref="M_0042246" sort="K" type="이름">安平大君</index>
+              <index num="0198329_0" ref="M_0042246" sort="K" type="이름">瑢</index>監掌其事。 皆稟睿斷, 賞賜稠重, 供億優厚矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

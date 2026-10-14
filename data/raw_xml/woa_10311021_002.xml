@@ -1,0 +1,30 @@
+<level5 id="woa_10311021_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>내의원에서 《동의보감》을 간행하는 일을 가지고 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1611-11-21L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">光海君日記 16책 16권</mainTitle>
+              <page begin="88장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">光海君日記 27책</mainTitle>
+              <page begin="262면" />
+            </source>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>행정-지방행정(地方行政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○內醫院<proofreading type="광해군일기중초본_산삭">(官員以提調意,)</proofreading> 啓曰: "<proofreading type="광해군일기중초본_부기">以</proofreading>
+              <index type="서명">《東醫寶鑑》</index>分送<index sort="K" type="지명">下三道</index>, 使之刊刻事, 曾已啓下, 移文各道, 日月已久。 而卷秩甚多, 功役不貲, 故各處頉報及狀啓, 前後非一, 然猶申飭各道, 整備材料, 歲後卽爲分刊矣。 因念此書, 與他冊有異, 小註分行, 字數細密, 刊刻甚難。 藥名病方, 小有差誤, 則關係性命, 旣無本冊, 只以寫出一件飜刻, 更無憑准之路。 今若付之外方, 則非但玩愒稽遲, 完畢無期, 抑恐舛錯訛謬, 終爲無用一本。 臣等爲是之慮, 更爲商量, 則自本院, 別爲設局, 以活字印出, 醫官監校, 如頃日醫書印出時例, 則事必易就, 而又無訛誤之慮矣。 第以該司物力爲難, 竊計一朔該用料布, 則米太竝十八石、木二十餘疋, 不過一年之役, 通計不至大段, 而只令該司獨辦, 則亦恐不易。 <index sort="K" type="지명">下三道</index>業已措備材料, 量出應入木布, 各自輸送, 以助京局, 則彼此公私, 俱爲便益。 臣等百爾思之, 此計最優。 敢此仰稟。" 傳曰: "依啓。" </paragraph>
+          </content>
+        </text>
+      </level5>
+      

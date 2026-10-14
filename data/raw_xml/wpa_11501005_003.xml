@@ -1,0 +1,32 @@
+<level5 id="wpa_11501005_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전라 병사 김준룡이 치계하여 승전 소식을 전하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1637-01-05L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">仁祖實錄 34책 34권</mainTitle>
+              <page begin="4장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">仁祖實錄 34책</mainTitle>
+              <page begin="663면" />
+            </source>
+            <subjectClass>군사-전쟁(戰爭)</subjectClass>
+            <subjectClass>외교-야(野)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1247306_0" sort="K" type="지명">全羅</index>兵使<index num="1247307_0" ref="M_0017792" sort="K" type="이름">金俊龍</index>, 領兵入援軍<index num="1247308_0" sort="K" type="지명">光敎山</index>,<annotation type="원주">
+                <noteContent>【<index num="1247309_0" sort="K" type="지명">京圻</index>
+                  <index num="1247310_0" sort="K" type="지명">水原</index>、<index num="1247311_0" sort="K" type="지명">龍仁</index>之間。】</noteContent>
+              </annotation>馳啓戰勝前進之狀。 時, <index num="1247312_0" sort="K" type="지명">南漢</index>被圍已久, 內外隔絶。 至是, 援兵聲息繼至, 城中恃以爲固。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

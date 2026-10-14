@@ -1,0 +1,34 @@
+<level5 id="wda_11610002_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>처음으로 앙부일구를 혜정교와 종묘 앞에 설치하여 일영을 관측하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1434-10-02L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 21책 66권</mainTitle>
+              <page begin="1장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 3책</mainTitle>
+              <page begin="592면" />
+            </source>
+            <subjectClass>과학-역법(曆法)</subjectClass>
+            <subjectClass>어문학-문학(文學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○初置仰釜日晷於<index num="0153250_0" sort="K" type="지명">惠政橋</index>與宗廟前, 以測日影。 集賢殿直提學<index id="p16_000027_00" num="0153251_0" ref="M_0000261" sort="K" type="이름">金墩</index>爲銘曰:</paragraph>
+            <paragraph align="center">
+              <quotation>凡所設施, 莫大時也。 夜有更漏, 晝難知也。 鑄銅爲器, 形似釜也。 (經)<annotation type="교감주">
+                  <noteTitle>〔徑〕</noteTitle>
+                </annotation>設圓距, 子對午也。 窾隨拗回, 點芥然也。 畫度於內, 半周天也。 圖畫神身, 爲愚氓也。 刻分昭昭, 透日明也。 置于路傍, 觀者聚也。 自今伊始, 民知作也。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    

@@ -1,0 +1,419 @@
+{
+ "retriever": "hybrid-avgtie-keep10-date-glosskeep5_rerank20_gloss",
+ "usage": {
+  "prompt": 348950,
+  "completion": 3688,
+  "reasoning": 2442,
+  "calls": 25
+ },
+ "rows": [
+  {
+   "set": "v3",
+   "qid": "T03",
+   "run": 1,
+   "cand_pos": [
+    2,
+    6
+   ],
+   "n_cand": 28,
+   "model_ids": [
+    "wga_10206002_002-02",
+    "wga_10206002_002-03",
+    "wga_10206002_002-05",
+    "wga_10206002_002-06"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "v3",
+   "qid": "T03",
+   "run": 2,
+   "cand_pos": [
+    2,
+    6
+   ],
+   "n_cand": 28,
+   "model_ids": [
+    "wga_10206002_002-03",
+    "wga_10206002_002-05",
+    "wga_10206002_002-06",
+    "wga_10206002_002-04"
+   ],
+   "fallback": false,
+   "gold_picked": false
+  },
+  {
+   "set": "v3",
+   "qid": "T03",
+   "run": 3,
+   "cand_pos": [
+    2,
+    6
+   ],
+   "n_cand": 28,
+   "model_ids": [
+    "wga_10206002_002-03",
+    "wga_10206002_002-05",
+    "wga_10206002_002-06",
+    "wga_10206002_002-04"
+   ],
+   "fallback": false,
+   "gold_picked": false
+  },
+  {
+   "set": "v3",
+   "qid": "T03",
+   "run": 4,
+   "cand_pos": [
+    2,
+    6
+   ],
+   "n_cand": 28,
+   "model_ids": [
+    "wga_10206002_002-02",
+    "wga_10206002_002-03",
+    "wga_10206002_002-05",
+    "wga_10206002_002-06"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "v3",
+   "qid": "T03",
+   "run": 5,
+   "cand_pos": [
+    2,
+    6
+   ],
+   "n_cand": 28,
+   "model_ids": [
+    "wga_10206002_002-03",
+    "wga_10206002_002-05",
+    "wga_10206002_002-06",
+    "wga_10206002_002-04"
+   ],
+   "fallback": false,
+   "gold_picked": false
+  },
+  {
+   "set": "holdout_v1_20260930",
+   "qid": "HF04",
+   "run": 1,
+   "cand_pos": [
+    25
+   ],
+   "n_cand": 29,
+   "model_ids": [
+    "wga_10706016_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1_20260930",
+   "qid": "HF04",
+   "run": 2,
+   "cand_pos": [
+    25
+   ],
+   "n_cand": 29,
+   "model_ids": [
+    "wga_10706016_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1_20260930",
+   "qid": "HF04",
+   "run": 3,
+   "cand_pos": [
+    25
+   ],
+   "n_cand": 29,
+   "model_ids": [
+    "wga_10706016_002-01",
+    "wva_10009025_002-01",
+    "wva_10009025_002-03",
+    "wva_10009025_002-02"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1_20260930",
+   "qid": "HF04",
+   "run": 4,
+   "cand_pos": [
+    25
+   ],
+   "n_cand": 29,
+   "model_ids": [
+    "wga_10706016_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1_20260930",
+   "qid": "HF04",
+   "run": 5,
+   "cand_pos": [
+    25
+   ],
+   "n_cand": 29,
+   "model_ids": [
+    "wga_10706016_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF04",
+   "run": 1,
+   "cand_pos": [
+    18
+   ],
+   "n_cand": 32,
+   "model_ids": [
+    "wga_10706016_002-01",
+    "wfa_10110010_001-18",
+    "wva_10009025_002-02",
+    "woa_10311021_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF04",
+   "run": 2,
+   "cand_pos": [
+    18
+   ],
+   "n_cand": 32,
+   "model_ids": [
+    "wga_10706016_002-01",
+    "wfa_10110010_001-18",
+    "wfa_10110010_001-17",
+    "wva_10009025_002-02"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF04",
+   "run": 3,
+   "cand_pos": [
+    18
+   ],
+   "n_cand": 32,
+   "model_ids": [
+    "wga_10706016_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF04",
+   "run": 4,
+   "cand_pos": [
+    18
+   ],
+   "n_cand": 32,
+   "model_ids": [
+    "wga_10706016_002-01",
+    "wfa_10110010_001-18",
+    "wfa_10110010_001-17"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF04",
+   "run": 5,
+   "cand_pos": [
+    18
+   ],
+   "n_cand": 32,
+   "model_ids": [
+    "wga_10706016_002-01"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF13",
+   "run": 1,
+   "cand_pos": [
+    6
+   ],
+   "n_cand": 30,
+   "model_ids": [
+    "wwa_11904008_005-01",
+    "wva_10511001_002-02",
+    "wva_10511001_002-03"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF13",
+   "run": 2,
+   "cand_pos": [
+    6
+   ],
+   "n_cand": 30,
+   "model_ids": [
+    "wwa_11904008_005-01",
+    "wva_10511001_002-02",
+    "wva_10511001_002-03",
+    "wsa_11506003_002-03"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF13",
+   "run": 3,
+   "cand_pos": [
+    6
+   ],
+   "n_cand": 30,
+   "model_ids": [
+    "wwa_11904008_005-01",
+    "wva_10511001_002-02",
+    "wsa_11506003_002-03",
+    "wsa_10401023_001-02"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF13",
+   "run": 4,
+   "cand_pos": [
+    6
+   ],
+   "n_cand": 30,
+   "model_ids": [
+    "wwa_11904008_005-01",
+    "wva_10511001_002-02",
+    "wva_10511001_002-03"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "holdout_v1b_20260930",
+   "qid": "HF13",
+   "run": 5,
+   "cand_pos": [
+    6
+   ],
+   "n_cand": 30,
+   "model_ids": [
+    "wwa_11904008_005-01",
+    "wva_10511001_002-02",
+    "wva_10511001_002-03",
+    "wsa_11506003_002-03"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "scenarioA",
+   "qid": "A4",
+   "run": 1,
+   "cand_pos": [
+    2
+   ],
+   "n_cand": 26,
+   "model_ids": [
+    "wda_12602020_001-05",
+    "wda_12602020_001-04",
+    "wda_12602020_001-13"
+   ],
+   "fallback": false,
+   "gold_picked": false
+  },
+  {
+   "set": "scenarioA",
+   "qid": "A4",
+   "run": 2,
+   "cand_pos": [
+    2
+   ],
+   "n_cand": 26,
+   "model_ids": [
+    "wda_12602020_001-08",
+    "wda_12602020_001-05",
+    "wda_12602020_001-04",
+    "wda_12602020_001-07"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "scenarioA",
+   "qid": "A4",
+   "run": 3,
+   "cand_pos": [
+    2
+   ],
+   "n_cand": 26,
+   "model_ids": [
+    "wda_12602020_001-08",
+    "wda_12602020_001-04",
+    "wda_12602020_001-05",
+    "wda_12602020_001-07"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "scenarioA",
+   "qid": "A4",
+   "run": 4,
+   "cand_pos": [
+    2
+   ],
+   "n_cand": 26,
+   "model_ids": [
+    "wda_12602020_001-08",
+    "wda_12602020_001-13",
+    "wda_12602020_001-04",
+    "wda_12602020_001-07"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  },
+  {
+   "set": "scenarioA",
+   "qid": "A4",
+   "run": 5,
+   "cand_pos": [
+    2
+   ],
+   "n_cand": 26,
+   "model_ids": [
+    "wda_12602020_001-08",
+    "wda_12602020_001-13",
+    "wda_12602020_001-07",
+    "wda_12602020_001-06"
+   ],
+   "fallback": false,
+   "gold_picked": true
+  }
+ ]
+}

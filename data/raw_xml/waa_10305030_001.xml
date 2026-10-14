@@ -1,0 +1,31 @@
+<level5 id="waa_10305030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정도전이 《조선경국전》을 저술하여 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1394-05-30L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">太祖實錄 2책 5권</mainTitle>
+              <page begin="21장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">太祖實錄 1책</mainTitle>
+              <page begin="63면" />
+            </source>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○戊辰/判三司事<index num="0005840_0" ref="M_0005761" sort="K" type="이름">鄭道傳</index>撰進<index num="0005841_0" type="서명">《朝鮮經國典》</index>, 上觀覽嘆美, 賜廐馬、綺絹、白銀。</paragraph>
+            <paragraph align="center" />
+            <paragraph align="center">太祖康獻大王實錄卷第五</paragraph>
+          </content>
+        </text>
+      </level5>
+    

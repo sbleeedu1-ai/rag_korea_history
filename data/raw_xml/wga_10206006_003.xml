@@ -1,0 +1,30 @@
+<level5 id="wga_10206006_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>집현전을 파하고 경연을 정지하며, 소장하던 책을 예문관으로 옮기게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1456-06-06L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世祖實錄 2책 4권</mainTitle>
+              <page begin="14장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+              <page begin="136면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>왕실-경연(經筵)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命罷集賢殿, 停經筵, 其所藏書冊, 竝付藝文館掌之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

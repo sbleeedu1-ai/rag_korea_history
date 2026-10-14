@@ -1,0 +1,34 @@
+<level5 id="wua_11803026_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>반수교 위에 당습을 일삼지 말 것을 적은 비를 세우다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1742-03-26L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">英祖實錄 41책 55권</mainTitle>
+              <page begin="19장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">英祖實錄 43책</mainTitle>
+              <page begin="53면" />
+            </source>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>정론-간쟁(諫諍)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○上御<index num="1673675_0" sort="K" type="지명">映花堂</index>, 命王世子以儒服進見。 又命將命以下諸執事入侍, 以勿事黨習之意, 諄諄面飭, 以御筆書一紙授儒生, 使歸傳大司成曰: "使後世, 當知予心也。" 其文曰:</paragraph>
+            <paragraph align="center">
+              <quotation>周而不比, 乃君子之公心, 比而不周, 寔小人之私意。</quotation>
+            </paragraph>
+            <paragraph align="center">其下書年月, 仍命刻碑, 立之<index num="1673676_0" sort="K" type="지명">泮水橋</index>上。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

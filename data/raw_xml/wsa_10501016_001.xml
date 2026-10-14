@@ -1,0 +1,29 @@
+<level5 id="wsa_10501016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>좌참찬 오정위가 동전 주조를 계속하도록 건의하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1679-01-16L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄 7책 8권</mainTitle>
+              <page begin="2장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄 38책</mainTitle>
+              <page begin="402면" />
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>금융-화폐(貨幣)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬子/引見大臣、備局堂上。 左參贊<index num="1428692_0" ref="M_0003500" sort="K" type="이름">吳挺緯</index>言: "自通錢貨, 民得厚生之道, 鑄錢之役, 不可遽停。 自內若下銅鐵於鑄廳, 則似有聳動之擧矣。" 時, <index num="1428693_0" ref="M_0003500" sort="K" type="이름">挺緯</index>行過街路, 小兒指謂銅臭公卿。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

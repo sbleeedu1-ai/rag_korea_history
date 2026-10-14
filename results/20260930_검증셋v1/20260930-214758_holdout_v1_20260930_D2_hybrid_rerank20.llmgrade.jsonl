@@ -1,0 +1,24 @@
+{"qid": "HF01", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 태실의 칸 수를 정확히 7칸이라고 답하였으며, 이는 채점 기준과 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF02", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 태종이 주자소를 만든 이유를 정확히 설명하고 있으며, 구리와 쇠를 마련해 책을 찍는 데 쓰도록 했다는 내용도 포함되어 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF03", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "김종서가 경원부를 소다로로 옮기자고 한 이유를 정확히 설명하였고, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF04", "condition": "D2", "category": "사실", "verdict": "부적절한 보류", "reason": "세조가 불경을 펴내기 위해 간경도감을 만든 사실이 명확히 기록되어 있음에도 불구하고, 챗봇이 이를 모른다고 하여 부적절한 보류로 판정함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF05", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 연산군이 문제 삼은 홍귀달의 말을 정확히 인용하였고, 그에 대한 연산군의 판단도 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF06", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 연산군이 이세좌의 죄를 불경죄라고 언급한 내용을 정확히 전달하였고, 신하의 죄 중 불경보다 큰 것이 없다는 점도 올바르게 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF07", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇의 답변은 사건의 시작과 경과를 정확히 설명하고 있으며, 채점 기준의 핵심 내용을 잘 반영하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF08", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 정문부가 기병 200명을 4대로 나누어 단천에서 왜적을 무찌른 과정을 정확히 설명하였고, 적의 사망자 수에 대한 내용도 올바르게 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF09", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 비변사의 요구 사항과 광해군의 반응을 정확히 전달하였으며, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF10", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 허적과 윤휴의 입장을 정확히 설명하였고, 두 사람의 다툼에 대한 언급도 포함되어 있어 채점 기준의 핵심을 잘 맞추었다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF11", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "영조가 나라를 세우거나 중흥한 임금의 너그럽고 큰 것을 숭상한 점과 가혹한 법이 빨리 망한 나라의 원인이라는 내용을 정확히 전달하고, 이를 《속대전》 편찬자들에게 유념하라고 한 점을 잘 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF12", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 영조의 발언을 정확히 요약하였고, 대동법 이후 공인들의 상황을 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF13", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 임업이 벼슬과 과거에 대한 비판 내용을 정확히 전달하였고, 뇌물이 지름길이라는 점과 권세 있는 집과의 연관성을 잘 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF14", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 송시열의 유언 내용을 정확하게 전달하였고, 핵심적인 내용인 학문과 사업에 대한 주자의 가르침과 여덟 글자를 올바르게 언급하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT01", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 송시열이 한양 의금부에서 국문을 받다가 사약을 받은 것이 아니라는 점을 정확히 지적하였고, 숙종이 사사하라고 명한 경위를 잘 설명하였다. 또한 송시열이 어떤 죄목으로 사사되었는지는 구체적으로 적혀 있지 않다고 언급하여 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT02", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 권대운이 인현왕후 폐출에 찬성하지 않았음을 정확히 설명하고, 그의 차자 내용을 올바르게 인용하여 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT03", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 헌종이 이재학에게 간삭의 법을 시행하라고 한 사실을 정확히 언급하며, 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT04", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "정답", "reason": "챗봇이 질문의 잘못된 전제를 바로잡고, 관련 기록이 없음을 정확히 언급하여 올바른 답변을 제공하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN01", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 1915년 경복궁에서 열린 조선 물산 공진회에 대한 내용이 없음을 정확히 언급하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN02", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 없는 내용을 정확히 언급하며, 강희안의 다른 활동에 대한 내용을 올바르게 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN03", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 정선이나 진경산수화의 방식에 대한 내용이 없음을 정확히 언급하고, 기록에서 확인되지 않는다고 한 점이 적절합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN04", "condition": "D2", "category": "자료 없음", "verdict": "적절한 보류", "reason": "신윤복의 풍속화에 대한 내용은 자료에 없으므로 모른다고 한 것은 적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HP01", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "챗봇이 《징비록》의 내용을 정확히 설명하고, 권수에 대한 정보가 없음을 올바르게 지적하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HP02", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "정조가 화성 쌓는 비용이 경용을 번거롭게 하지 않았다고 한 부분과 저울추 안에서 나온 것이라고 한 부분을 정확히 언급하였고, 거중기를 누가 만들었는지에 대한 정보가 없다는 점도 올바르게 지적하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}

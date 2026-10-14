@@ -1,0 +1,18 @@
+# 푸시·PR마다 테스트를 돌린다. 테스트는 API 키·검색 DB 없이 돌아서 비용이 들지 않는다.
+name: 테스트
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q

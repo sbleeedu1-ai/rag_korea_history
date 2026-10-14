@@ -1,0 +1,29 @@
+<level5 id="wva_11902112_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>현륭원에 참배하고 성조와 야조를 살펴본 뒤 화성의 축성공사에 대해 하교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1795-02-12L1" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">正祖實錄 42책 42권</mainTitle>
+              <page begin="33장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">正祖實錄 46책</mainTitle>
+              <page begin="557면" />
+            </source>
+            <subjectClass>왕실(王室)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○甲午/上陪<index num="1845668_0" ref="M_0024667" sort="K" type="이름">惠慶宮</index>, 詣<index num="1845669_0" sort="K" type="지명">顯隆園</index>, 行展拜禮, 還御<index num="1845670_0" sort="K" type="지명">華城</index>
+              <index num="1845671_0" sort="K" type="지명">西將臺</index>, 閱城操、夜操。 下御製五言四韻律, 命諸臣賡進。 敎曰: "<index num="1845672_0" sort="K" type="지명">華城</index>城役之決意築斯, 其費不煩於經用, 昨冬以後之亦欲姑徐, 而鳩財復始者, 皆自以爲秤錘中出來, 而今行見南北城樓、水閣、將臺等處, 翬飛輪奐, 雉譙崢嶸, 豈特三輔關防之重? 稍待事功之告竣, 竪碑記其實, 列書蕫功諸人姓名, 以爲萬年不朽之資。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    

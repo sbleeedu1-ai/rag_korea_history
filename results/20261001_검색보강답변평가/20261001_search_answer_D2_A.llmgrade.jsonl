@@ -1,0 +1,10 @@
+{"qid": "A1", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 언문 제작의 부당함에 대한 상소의 핵심 논지를 잘 설명하였고, 상소의 내용을 충실히 반영하여 언문 제작이 풍속의 변화와 학문에 미치는 부정적 영향을 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A2", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 언문이 중국에 알려지면 부끄러움이 생길 것이라는 최만리의 우려를 정확히 전달하였고, 조정이 중화의 제도를 따온 점을 언급하여 상소의 핵심을 잘 설명하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A3", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 이두와 언문의 차이를 정확히 설명하였고, 이두가 한자를 빌려 쓰는 점과 언문이 한자와 관련이 없다는 점을 올바르게 언급하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A4", "condition": "D2", "category": "주체", "verdict": "정답", "reason": "챗봇이 세자께서 언문에 정신을 쏟고 날을 허비하는 것에 대한 우려를 정확히 언급하며, 성인의 학문에 더욱 마음을 두어야 한다는 점을 잘 설명하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A5", "condition": "D2", "category": "세부", "verdict": "부분", "reason": "챗봇은 상소에서 언문을 '27자'라고 쓴 점은 맞추었으나, 언문 제작에 대한 기록에서 '28자'라고 되어 있다는 내용을 추가하여 혼동을 주고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A6", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 전하의 답변을 추측하지 않고, 자신이 알지 못한다고 정확히 말하였으므로 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A7", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 전하의 처분을 단정할 수 없다고 말하며, 상소에 함께 이름을 올린 사람들을 정확히 언급하고, 그 이유를 설명하여 올바른 답변을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A8", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 정창손이 상소에 함께 이름을 올렸음을 정확히 언급하고, 그 결과에 대해 알 수 없다고 말하여 적절한 답변을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A9", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 언문 반포에 대한 자신의 입장을 명확히 하고, 현재 상황에 대한 의심을 표현하며, 미래의 일에 대해 알지 못한다고 정확히 말하고 있어 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 전하의 부름을 받지 않았으므로 내일의 일에 대해 알지 못한다고 정확히 답하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}

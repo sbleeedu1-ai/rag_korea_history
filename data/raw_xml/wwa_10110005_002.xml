@@ -1,0 +1,30 @@
+<level5 id="wwa_10110005_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>좌포장 임율이 세 조항이 기록된 황사영의 백서를 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1801-10-05L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">純祖實錄 3책 3권</mainTitle>
+              <page begin="43장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純祖實錄 47책</mainTitle>
+              <page begin="408면" />
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>외교(外交)</subjectClass>
+            <subjectClass>사상-서학(西學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○左捕將<index num="1875305_0" sort="K" type="이름">任嵂</index>、右捕將<index num="1875306_0" ref="M_0049115" sort="K" type="이름">申應周</index>, 持邪學罪人<index num="1875307_0" ref="M_0006731" sort="K" type="이름">黃嗣永</index>凶書, 來詣閣外, 命入之省覽後, 下鞫廳。 罪人<index num="1875308_0" ref="M_0006731" sort="K" type="이름">黃嗣永</index>, 士族而蠱惑邪術之最甚者也, 知機亡命, 於金吾逮捕之初, 或衣衰麻而變姓, 或隱土窟而潛蹤, 至過半載。 捕廳譏詗, 現捉於<index num="1875309_0" sort="K" type="지명">堤川</index>地, 搜其文書有帛書, 而將通於<index num="1875310_0" sort="K" type="지명">北京</index>之天主堂者也。 滿幅凶憯, 以<index num="1875311_0" ref="M_0056800" sort="A" type="이름">周文謨</index>以下諸罪人伏法之事, 細報於西洋人, 而中有三條凶言, 一, 則圖得皇旨, 敎諭<index num="1875312_0" sort="K" type="지명">朝鮮</index>, 使之容接西洋人也。 一, 則開撫按司於<index num="1875313_0" sort="K" type="지명">安州</index>, 命親王監國生聚敎訓, 乘釁而動也。 一, 則通于西洋國, 裝送大舶數百艘, 精兵五、六萬, 多載大砲等利害兵器, 震駭東國, 使之行敎也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

@@ -1,0 +1,29 @@
+<level5 id="wca_10501015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>의정부·육조·승정원 등의 관제를 개정하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1405-01-15L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">太宗實錄 3책 9권</mainTitle>
+              <page begin="1장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">太宗實錄 1책</mainTitle>
+              <page begin="318면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>군사(軍事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬子/改官制。 國初, 承前朝之舊, 議政府專總各司, 司平府掌錢穀, 承樞府掌甲兵, 尙瑞司掌銓注, 以左右政丞兼判事, 六曹不得與聞朝政。 至是革司平府, 歸之戶曹; 承樞府歸之兵曹; 以東西班銓選, 歸之吏兵曹; 分政府庶務, 歸之六曹。 六曹各置判書一員, 秩正二品; 罷典書議郞各二人, 置左右參議各一, 階通政; 增置正佐郞各一。 尙瑞司始以文武官交差, 但掌寶璽符信而已, 不置兼判事; 三軍都摠制府, 各置經歷都事, 增置同副代言一人。 前此, 以代言五人, 知吏兵戶禮工曹事; 以他官從三品以上, 知刑曹事, 坐都官決奴婢訴訟, 謂之知部。 至是始以代言, 知刑曹事, 使刑曹右參議專掌都官訴訟。 嘉善雖爲從二品散官, 然以爲六曹典書之階銜; 外方守令官至正三品者, 亦得以爲階銜。 是日悉革之, 皆以通政改下。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

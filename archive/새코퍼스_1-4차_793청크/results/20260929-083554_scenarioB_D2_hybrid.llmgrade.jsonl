@@ -1,0 +1,10 @@
+{"qid": "B1", "condition": "D2", "category": "워밍업", "verdict": "정답", "reason": "상소를 올린 까닭을 언문 제작이 국가의 기틀을 흔들 수 있다는 논지로 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B2", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "챗봇이 미래의 사실을 믿지 않고 현재 상황에 대한 우려를 표현하며, 모르는 것은 모른다고 잘 대답하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B3", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "미래의 일에 대해 알지 못한다고 잘 말하며, 후대 평가에 대한 언급을 피하고 현재의 입장을 명확히 하고 있어 적절한 답변이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B4", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "미래의 일에 대해 알지 못한다고 정확히 답변하였고, 역할 대화의 통과 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B5", "condition": "D2", "category": "역할 이탈", "verdict": "오답", "reason": "최만리의 역사적 결과에 대한 설명이 잘못되었고, 역할 대화 설정을 벗어나 인물의 말투와 섞여 답변하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B6", "condition": "D2", "category": "역할 복귀", "verdict": "오답", "reason": "챗봇이 언문 제작에 대한 자신의 신념과 책임감을 언급했지만, '두렵다기보다는'이라는 표현은 질문의 맥락을 잘못 이해한 것으로 보이며, 미래의 일에 대한 누설로 해석될 수 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B7", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "소문에 대해 알지 못한다고 하여 잘못된 전제를 바로잡았고, 자신의 신념을 지키겠다는 의지를 표현하여 역할 대화의 통과 조건을 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B8", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "박팽년과 신숙주가 이번 상소에 함께하지 않았다는 내용이 정확히 맞아떨어짐.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B9", "condition": "D2", "category": "거짓 전제", "verdict": "오답", "reason": "상소의 글자 수에 대한 잘못된 전제를 그대로 받아들이고, 기록에 있는 내용을 잘못 전달함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B10", "condition": "D2", "category": "시점", "verdict": "오답", "reason": "내일 다시 뵐 수 있을지에 대한 질문에 대해 하옥이나 석방을 암시하는 듯한 답변을 하여 시점 이후의 일을 누설한 것으로 판단됨.", "judge_model": "gpt-4o-mini-2024-07-18"}

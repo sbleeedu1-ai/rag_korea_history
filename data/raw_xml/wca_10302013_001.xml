@@ -1,0 +1,30 @@
+<level5 id="wca_10302013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>주자소를 설치하고, 이직·민무질·박석명·이응을 제조로 삼다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1403-02-13L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">太宗實錄 2책 5권</mainTitle>
+              <page begin="7장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">太宗實錄 1책</mainTitle>
+              <page begin="257면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/新置鑄字所。 上慮本國書籍鮮少, 儒生不能博觀, 命置所, 以藝文館大提學<index num="0020558_0" ref="M_0000712" sort="K" type="이름">李稷</index>、摠制<index num="0020559_0" ref="M_0002307" sort="K" type="이름">閔無疾</index>、知申事<index num="0020560_0" ref="M_0002499" sort="K" type="이름">朴錫命</index>、右代言<index num="0020561_0" ref="M_0008618" sort="K" type="이름">李膺</index>爲提調。 多出內府銅鐵, 又命大小臣僚自願出銅鐵, 以支其用。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

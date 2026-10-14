@@ -1,0 +1,82 @@
+{
+  "answer_rows": 148,
+  "scored": 145,
+  "unique_queries": 147,
+  "cache_missing": 49,
+  "database": {
+    "corpus_fp": "619d757005d4",
+    "stored_corpus_fp": "619d757005d4",
+    "embed_model": "text-embedding-3-large",
+    "dimension": 3072,
+    "stored_chunks": 803,
+    "missing_ids": 0,
+    "extra_ids": 0,
+    "text_mismatches": 0,
+    "time_mismatches": 0,
+    "matches": true
+  },
+  "baseline": {
+    "v3": "results\\20260930-204130_single_D2_hybrid_rerank20.jsonl",
+    "holdout_v1_20260930": "results\\20260930-214337_holdout_v1_20260930_D2_hybrid_rerank20.jsonl",
+    "holdout_v1b_20260930": "results\\20260930-214535_holdout_v1b_20260930_D2_hybrid_rerank20.jsonl",
+    "A": "results\\20260930-204635_scenarioA_D2_hybrid_rerank20.jsonl",
+    "B": "results\\20260930-204745_scenarioB_D2_hybrid_rerank20.jsonl",
+    "C": "results\\20260930-204851_scenarioC_D2_hybrid_rerank20.jsonl"
+  },
+  "budget_usd": 0.5,
+  "code_commit": "5de3dde84d777199887a06cb6a6a52ea70bf0af8",
+  "settings": {
+    "condition": "D2",
+    "prompt": "v4",
+    "answer_model": "gpt-6-luna",
+    "rerank_model": "gpt-6-luna",
+    "effort": "low",
+    "judge_model": "gpt-4o-mini-2024-07-18",
+    "top_k": 4,
+    "keep_each": 10,
+    "output_limit_changed": false
+  },
+  "file_sha256": {
+    "data\\corpus.jsonl": "505345732c38a286a97dc31f12466ed154e580c74bbd61acca7c3fbac88c84ae",
+    "data\\eval\\v3_20260929_다회차_훈민정음.json": "b18f54c916ebd21813f1a0d8782a8b852ab75b57d5514dae001e180c656aef19",
+    "data\\eval\\v3_20260929_한능검코퍼스+함정보강.jsonl": "014d75d93ab899d5f733390f4efc381d95cea82fea4b1f39caff901c5811d896",
+    "data\\eval\\holdout_v1_20260930.jsonl": "178371e9418609f73ef3badebefdf8c7f21a5740fcca7a844b34c4165ac1f641",
+    "data\\eval\\holdout_v1b_20260930.jsonl": "78b5fc36c7e298cc124c7cab006630f0fb7c72fb0fd84f88035211fea7063070",
+    "results\\20260930-204130_single_D2_hybrid_rerank20.jsonl": "b777bac1ae2739d50d7385a426877b8039244f34d233b56ce4eeadbc09f7dfd5",
+    "results\\20260930-214337_holdout_v1_20260930_D2_hybrid_rerank20.jsonl": "1d0353107ecbb2fb2e1e3418ef41ba010110dc4c0e9f385f059f6ca3f30869a2",
+    "results\\20260930-214535_holdout_v1b_20260930_D2_hybrid_rerank20.jsonl": "afb81b325d71b8eda9828d2cf30110001b26be8392699d0f332b14a2a3ab6030",
+    "results\\20260930-204635_scenarioA_D2_hybrid_rerank20.jsonl": "569c41df5d44381b8660047ef9dcf913d9331a6ee09c8e2c05d05329bd6f3e7e",
+    "results\\20260930-204745_scenarioB_D2_hybrid_rerank20.jsonl": "f22e3c3bf9b3cba9bec69f5d52a031fd81f0144416d69c21928af849373cd704",
+    "results\\20260930-204851_scenarioC_D2_hybrid_rerank20.jsonl": "a3832b55bb00d5ad48650690735744157cd5ddae57385a73fdd22b0064f72b65"
+  },
+  "new_results": {
+    "v3": "results\\20261001_search_answer_D2_v3.jsonl",
+    "holdout_v1_20260930": "results\\20261001_search_answer_D2_holdout_v1_20260930.jsonl",
+    "holdout_v1b_20260930": "results\\20261001_search_answer_D2_holdout_v1b_20260930.jsonl",
+    "A": "results\\20261001_search_answer_D2_A.jsonl",
+    "B": "results\\20261001_search_answer_D2_B.jsonl",
+    "C": "results\\20261001_search_answer_D2_C.jsonl"
+  },
+  "usage": {
+    "answer": {
+      "prompt": 268659,
+      "completion": 19633,
+      "reasoning": 6096,
+      "calls": 148
+    },
+    "rerank": {
+      "prompt": 1221457,
+      "completion": 22108,
+      "reasoning": 14994,
+      "calls": 148
+    },
+    "judge": {
+      "prompt": 671631,
+      "completion": 16012,
+      "reasoning": 0,
+      "calls": 290
+    }
+  },
+  "calculated_usd": 0.28046938,
+  "completed": true
+}

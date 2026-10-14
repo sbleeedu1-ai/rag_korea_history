@@ -1,0 +1,29 @@
+<level5 id="wra_11410019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왜관의 초량항으로의 이전을 허락하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1673-10-19L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">顯宗實錄 21책 21권</mainTitle>
+              <page begin="43장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">顯宗實錄 37책</mainTitle>
+              <page begin="51면" />
+            </source>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙卯/<index num="1351656_0" sort="J" type="지명">對馬州</index>
+              <index num="1351657_0" sort="J" type="지명">差倭</index>, 尙留<index num="1351658_0" sort="K" type="지명">釜山館</index>, 固請移館, 朝廷不許。 <index num="1351659_0" sort="J" type="지명">差倭</index>等見回答書契, 牢塞所請, 發怒跳踉, 聲言上京。 懇乞治其行具, 有欲發之色, 朝廷亦勿禁止, 任其所爲。 <index num="1351660_0" sort="J" type="지명">差倭</index>等計無奈何, 一日求見接慰官<index num="1351661_0" ref="M_0006056" sort="K" type="이름">趙師錫</index>曰: "雖<index num="1351662_0" sort="K" type="지명">多大</index>、<index num="1351663_0" sort="K" type="지명">草梁</index>等浦, 亦願許移。" <index num="1351664_0" ref="M_0006056" sort="K" type="이름">師錫</index>以聞。 廷議以爲, <index num="1351665_0" sort="K" type="지명">熊川</index>決不可許, 而<index num="1351666_0" sort="K" type="지명">草梁</index>許之無妨。 上始命許之, 而使<index num="1351667_0" sort="J" type="지명">差倭</index>, 自擇<index num="1351668_0" sort="K" type="지명">多大</index>牧場、<index num="1351669_0" sort="K" type="지명">草梁</index>中一處, 俾無後言。 <index num="1351670_0" sort="J" type="지명">差倭</index>願移<index num="1351671_0" sort="K" type="지명">草梁項</index>, 許之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

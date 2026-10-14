@@ -1,0 +1,29 @@
+<level5 id="wwa_11112022_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>평안 병사가 가산 군수의 살해와 정주 목사가 달아난 사실을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1811-12-22L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">純祖實錄 14책 14권</mainTitle>
+              <page begin="59장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純祖實錄 47책</mainTitle>
+              <page begin="702면" />
+            </source>
+            <subjectClass>사법-치안(治安)</subjectClass>
+            <subjectClass>변란-민란(民亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○土賊犯<index num="1894491_0" sort="K" type="지명">嘉山郡</index>, 郡守<index num="1894492_0" sort="K" type="이름">鄭蓍</index>死之。 <index num="1894493_0" sort="K" type="지명">平安</index>兵使啓言: "<index num="1894494_0" sort="K" type="지명">嘉山</index>郡守<index num="1894495_0" sort="K" type="이름">鄭蓍</index>, 已被賊鋒所害, 而賊徒因向南路, 至<index num="1894496_0" sort="K" type="지명">博川</index>境津頭屯聚, 距臣營不過三十里云。" 又啓言: "<index num="1894497_0" sort="K" type="지명">定州</index>牧使<index num="1894498_0" ref="M_0040006" sort="K" type="이름">李近冑</index>, 單身來投言, ‘昨日二更, 賊兵來迫<index num="1894499_0" sort="K" type="지명">定州城</index>下, 吏隷內應, 開門納賊, 印、符見失, 從間路馳到’ 云。 請該牧使, 先罷後勘罪。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

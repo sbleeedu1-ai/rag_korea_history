@@ -1,0 +1,10 @@
+{"qid": "C1", "condition": "D2", "category": "사실", "verdict": "부분", "reason": "챗봇은 상소를 읽고 그들의 대답이 합당하지 않다고 판단한 점은 맞지만, 상소의 구체적인 내용이나 반박에 대한 언급이 없어서 부분적인 답변에 해당합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C2", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇이 최만리가 아니라 김문이 언문 제작이 불가하지 않다고 한 사실을 정확히 지적하였고, 세종의 발언을 올바르게 전달하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C3", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇은 세종의 발언과 정창손의 발언을 정확히 구분하여 설명하였고, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C4", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇은 최만리를 사형에 처하라고 명한 것이 아니라 의금부에 내리라고 명한 사실을 정확히 전달하였으므로 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C5", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "의금부에 내린 사람의 이름을 정확히 모두 나열하였고, 내용이 사실에 부합합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C6", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 의금부에 내린 사람의 명단을 정확히 언급하고 박팽년이 그 명단에 없음을 올바르게 말하였기 때문입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C7", "condition": "D2", "category": "주체", "verdict": "정답", "reason": "챗봇이 상소의 내용을 정확히 반영하여 동궁의 학업에 대한 걱정이었음을 올바르게 설명하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C8", "condition": "D2", "category": "거짓 전제·시점", "verdict": "정답", "reason": "챗봇이 청주 초수리 거둥이 아직 떠나지 않았고 예정된 일임을 정확히 언급하였으며, 질문에 대한 올바른 답변을 제공하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C9", "condition": "D2", "category": "시점", "verdict": "부분", "reason": "챗봇은 내일 석방 여부에 대해 모른다고 하였으나, 정창손에 대한 처분이 아직 알지 못한다고 한 부분은 적절하나, '정창손도 다른 여섯 사람과 함께 의금부에 내리라 명했소'라는 표현은 누설로 간주될 수 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "해설서의 완성 시기와 서문 작성자를 모른다고 정확히 답하였으므로 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

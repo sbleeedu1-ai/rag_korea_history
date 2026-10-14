@@ -1,0 +1,10 @@
+{"qid": "C1", "condition": "D2", "category": "사실", "verdict": "부분", "reason": "상소를 읽고 느낀 감정과 반박의 이유는 언급했으나, 설총 이두·편민, 운서, '新奇一藝' 반박 등 구체적인 내용이 빠져있어 부분적인 답변으로 평가됨.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C2", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇은 김문이 언문 제작이 불가하지 않다고 한 사실을 정확히 언급하며, 최만리와 김문의 발언을 구별하여 설명하였으므로 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C3", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇이 세종의 발언과 정창손의 발언을 정확히 구분하여 설명하였고, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C4", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇은 최만리 등을 의금부에 내리라는 세종의 명령을 정확히 언급하고, 사형에 처하라는 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C5", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "의금부에 내린 사람의 이름을 정확히 모두 나열하였으므로 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C6", "condition": "D2", "category": "사실", "verdict": "부분", "reason": "박팽년이 의금부에 내린 사람 목록에 없다는 점은 맞지만, '그 명단에 있다고 단정할 수 없다'는 표현은 잘못된 전제를 받아들인 것으로 보인다. 또한, 의금부에 내린 사람의 명단이 확인되지 않는다고 한 부분은 부적절한 보류에 해당한다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C7", "condition": "D2", "category": "주체", "verdict": "오답", "reason": "상소 끝에서 걱정한 것은 동궁의 학업이 아니라 전하의 학업에 관한 것이므로 잘못된 내용을 말함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C8", "condition": "D2", "category": "거짓 전제·시점", "verdict": "정답", "reason": "챗봇이 청주 초수리 거둥이 아직 떠나지 않은 예정된 일임을 정확히 언급하였고, 질문에 대한 답변이 올바릅니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C9", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 내일 석방 여부와 정창손의 처분에 대해 확정하지 않고, 현재 상황을 정확히 설명하였으므로 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 해설서의 완성 시기와 서문 작성을 모른다고 정확히 답하였고, 주어진 시점에 맞는 정보를 제공하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

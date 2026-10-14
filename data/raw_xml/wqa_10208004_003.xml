@@ -1,0 +1,28 @@
+<level5 id="wqa_10208004_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이완을 특별히 서용하여 어영 대장에 임명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1651-08-04L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">孝宗實錄 7책 7권</mainTitle>
+              <page begin="15장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">孝宗實錄 35책</mainTitle>
+              <page begin="502면" />
+            </source>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○特敍<index num="1285621_0" ref="M_0000613" sort="K" type="이름">李浣</index>, 復拜御營大將。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

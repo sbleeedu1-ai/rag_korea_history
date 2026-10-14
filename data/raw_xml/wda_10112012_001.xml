@@ -1,0 +1,32 @@
+<level5 id="wda_10112012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>집현전을 설치하여 유사 10여 인을 뽑아 날마다 강론하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1419-12-12L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 3책 6권</mainTitle>
+              <page begin="13장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 2책</mainTitle>
+              <page begin="350면" />
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>사법-탄핵(彈劾)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬午/視事。 司諫院上疏請<index num="0080882_0" ref="M_0009432" sort="K" type="이름">金陽俊</index>罪, 上曰: "狀辭是矣, 然姑留之。" 上又曰: "曾有設集賢殿之議, 何不更啓? 其擇取儒士十餘人, 日會講論可也。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

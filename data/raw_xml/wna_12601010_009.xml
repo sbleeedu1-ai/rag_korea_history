@@ -1,0 +1,31 @@
+<level5 id="wna_12601010_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이 제독이 왕진을 보내 평양을 수복하였음을 전하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">009</docNo>
+            <date>
+              <dateOccured date="1593-01-10L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖實錄 17책 34권</mainTitle>
+              <page begin="11장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖實錄 21책</mainTitle>
+              <page begin="600면" />
+            </source>
+            <subjectClass>외교-명(明)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+            <subjectClass>군사-전쟁(戰爭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="0951266_0" ref="M_0031755" sort="A" type="이름">李提督</index>使夜不收名<index num="0951267_0" sort="K" type="이름">王眞</index>者來報曰: "<index num="0951268_0" sort="K" type="지명">平壤</index>
+              <index num="0951269_0" sort="J" type="지명">倭賊</index>, 已盡殺退, 願國王安心。" 且言: "<index num="0951270_0" sort="J" type="지명">倭</index>中, 有<index num="0951271_0" sort="K" type="지명">南京</index>人跪請曰: ‘願活性命, 千萬年更不作賊。’ 提督叱曰: ‘奴輩, 前者令<index num="0951272_0" ref="M_0034032" sort="A" type="이름">沈遊擊</index>退兵, 淹留至此, 使大軍遠勞苦, 汝罪當死。’ 盡殺之。 <index num="0951273_0" sort="J" type="지명">倭賊</index>四五千, 逃走登山, 而卽發人馬, 時方圍住, 今明間當盡殺云。 拿得<index num="0951274_0" sort="J" type="지명">倭</index>將一人, 所奪環刀積於倉, <index num="0951275_0" sort="J" type="지명">倭</index>衣亦多棄置, 軍糧只餘三千餘石。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

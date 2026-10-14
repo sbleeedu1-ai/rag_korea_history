@@ -1,0 +1,6 @@
+openai>=1.40
+chromadb>=1.5  # 1.5에서 확인
+streamlit>=1.64  # 화면 컴포넌트(st.components.v2)·컨테이너 키. 1.64에서 확인
+pytest>=8
+python-dotenv>=1.0
+openpyxl>=3.1  # 데이터 표(scripts/data_table.py) 엑셀 출력

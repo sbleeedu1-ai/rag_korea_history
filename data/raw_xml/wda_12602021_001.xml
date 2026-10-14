@@ -1,0 +1,28 @@
+<level5 id="wda_12602021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>언문 제작에 불가함이 없다 말하고 다시 이를 반대한 직전 김문에 장 1백 대를 속바치게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1444-02-21L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 33책 103권</mainTitle>
+              <page begin="22장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 4책</mainTitle>
+              <page begin="544면" />
+            </source>
+            <subjectClass>사법-행형(行刑)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○辛丑/義禁府劾啓: "<index id="p16_000031_00" num="0198390_0" ref="M_0000271" sort="K" type="이름">金汶</index>, 律該對制上書詐不以實, 杖一百徒三年。" 只贖杖一百。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

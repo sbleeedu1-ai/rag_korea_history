@@ -1,0 +1,29 @@
+<level5 id="wqa_10507002_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>북우후의 변급이 러시아를 격파하고 영고탑으로 귀환하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1654-07-02L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">孝宗實錄 13책 13권</mainTitle>
+              <page begin="1장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">孝宗實錄 35책</mainTitle>
+              <page begin="680면" />
+            </source>
+            <subjectClass>외교-야(野)</subjectClass>
+            <subjectClass>군사-군정(軍政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○北虞候<index num="1296861_0" ref="M_0065687" sort="K" type="이름">邊岌</index>, 與<index num="1296862_0" sort="K" type="지명">淸</index>兵擊破<index num="1296863_0" sort="K" type="지명">羅禪</index>, 領兵還到<index num="1296864_0" sort="K" type="지명">寧古塔</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

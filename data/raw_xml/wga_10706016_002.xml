@@ -1,0 +1,30 @@
+<level5 id="wga_10706016_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>처음으로 간경 도감을 설치하고, 도제조·제조·사·부사·판관을 두다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1461-06-16L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世祖實錄 9책 24권</mainTitle>
+              <page begin="25장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世祖實錄 7책</mainTitle>
+              <page begin="469면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>사상(思想)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○初設刊經都監, 置都提調、提調、使、副使、判官。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

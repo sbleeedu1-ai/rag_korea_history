@@ -1,0 +1,29 @@
+<level5 id="wya_11302029_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>진주의 난민이 병사를 협박하고 인명을 살상한 일에 대한 조처를 품처하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1862-02-29L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">哲宗實錄 8책 14권</mainTitle>
+              <page begin="2장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">哲宗實錄 48책</mainTitle>
+              <page begin="648면" />
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>변란(變亂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1942313_0" sort="K" type="지명">慶尙</index>監司<index num="1942314_0" ref="M_0026017" sort="K" type="이름">李敦榮</index>, 以<index num="1942315_0" sort="K" type="지명">晋州</index>亂民, 脅逼兵使, 燒殺人命, 馳啓, 敎曰: "亂民悖習, 從古何限, 而未有若玆之極, 世變眞無所不有矣。 雖以帥臣倅臣言之, 苟於平日, 克存撫摩, 安有是也? 其酌處之方, 令廟堂稟處。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

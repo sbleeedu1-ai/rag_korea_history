@@ -1,0 +1,30 @@
+<level5 id="wnb_13009001_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>통제사 이순신이 진도 벽파정 아래에서 적을 격파하여 왜장을 죽이다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1597-09-01L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 7책 31권</mainTitle>
+              <page begin="6장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="663면" />
+            </source>
+            <subjectClass>군사-전쟁(戰爭)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○統制使<index num="1106844_0" ref="M_0004641" sort="K" type="이름">李舜臣</index>破賊于<index num="1106845_0" sort="K" type="지명">珍島</index>
+              <index num="1106846_0" sort="K" type="지명">碧波亭</index>下, 殺其將<index num="1106847_0" sort="J" type="이름">馬多時</index>。 <index num="1106848_0" ref="M_0004641" sort="K" type="이름">舜臣</index>至<index num="1106849_0" sort="K" type="지명">珍島</index>, 收拾兵舡, 得十餘艘。 時, 沿海士民之乘船避亂者, 聞<index num="1106850_0" ref="M_0004641" sort="K" type="이름">舜臣</index>至, 莫不喜悅。 <index num="1106851_0" ref="M_0004641" sort="K" type="이름">舜臣</index>分道招集, 使在軍後, 以助兵勢。 賊將<index num="1106852_0" sort="J" type="이름">馬多時</index>號善水戰, 率其船二百餘艘, 欲犯西海, 相遇於<index num="1106853_0" sort="K" type="지명">碧波亭</index>下, <index num="1106854_0" ref="M_0004641" sort="K" type="이름">舜臣</index>以十二船, 載大砲, 乘潮至順流攻之, 賊敗走, 軍聲大振。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

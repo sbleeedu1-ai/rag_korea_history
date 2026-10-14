@@ -1,0 +1,30 @@
+<level5 id="wna_12510006_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>비변사가 왜장을 사로잡은 진주 목사 김시민에게 중상을 내리라고 청하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1592-10-06L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖實錄 15책 31권</mainTitle>
+              <page begin="5장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖實錄 21책</mainTitle>
+              <page begin="551면" />
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+            <subjectClass>군사-전쟁(戰爭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○備邊司啓曰: "<index num="0948198_0" sort="K" type="지명">晋州</index>牧使<index num="0948199_0" ref="M_0001715" sort="K" type="이름">金時敏</index>, 前以本州判官, 陞授本職。 厥後南來文報力戰之中, <index num="0948200_0" ref="M_0001715" sort="K" type="이름">時敏</index>之功居多。 所捕之中, <index num="0948201_0" sort="K" type="지명">鎭海</index>賊將<index num="0948202_0" sort="J" type="이름">小平太</index>者, 雖非大將, 其爲<index num="0948203_0" sort="J" type="지명">倭</index>將則無疑。 似當各別重賞。" 上命陞通政。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

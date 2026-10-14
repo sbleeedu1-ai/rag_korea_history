@@ -1,0 +1,30 @@
+<level5 id="wda_12512030_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>훈민정음을 창제하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1443-12-30L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 33책 102권</mainTitle>
+              <page begin="42장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 4책</mainTitle>
+              <page begin="533면" />
+            </source>
+            <subjectClass>어문학-어학(語學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○是月, 上親制諺文二十八字, 其字倣古篆, 分爲初中終聲, 合之然後乃成字, 凡干文字及本國俚語, 皆可得而書, 字雖簡要, 轉換無窮, 是謂<index num="0197592_0" type="서명">訓民正音</index>。</paragraph>
+            <paragraph align="center" />
+            <paragraph align="center">世宗莊憲大王實錄卷第一百二終</paragraph>
+          </content>
+        </text>
+      </level5>
+    

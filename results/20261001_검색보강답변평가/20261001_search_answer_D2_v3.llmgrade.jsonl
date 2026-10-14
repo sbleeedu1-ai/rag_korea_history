@@ -1,0 +1,67 @@
+{"qid": "F01", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "이성계가 반대한 네 가지 이유를 정확하게 나열하였으며, 내용이 실록의 근거와 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F02", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 이성계의 경계 내용을 정확히 전달하였고, 잘못된 전제를 지적하지 않았습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F03", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 정몽주를 처음 공격한 사람과 실제로 죽인 사람을 정확히 언급하였고, 사건의 경과도 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F04", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "정도전이 민부의 집에 숨어 있다가 잡힌 사실을 정확히 언급하였고, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F05", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 권근과 김약채가 사병 혁파를 청하는 상소를 올렸다고 정확히 언급하였으며, 채점 기준의 핵심을 맞게 말했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F06", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 의정부에 남은 일로 사대문서와 중죄수의 재심을 정확히 언급하였으며, 내용이 채점 기준과 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F07", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "정도전이 '경복'이라는 궁궐 이름을 《시경》 주아의 구절에서 따왔다고 정확히 언급하였기 때문에 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F08", "condition": "D2", "category": "사실(수치)", "verdict": "부분", "reason": "찬성과 반대 수치는 정확하지만, 세종이 황희 등의 의논을 따르라고 명한 부분에서 '다수인 찬성 쪽을 따랐다'는 잘못된 해석이 포함되어 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F09", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 앙부일구가 처음 설치된 장소인 혜정교와 종묘 앞을 정확히 언급하였으므로 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F10", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 임어을운이 김종서를 철퇴로 친 사실을 정확히 언급하였으며, 채점 기준의 핵심을 맞추었습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F11", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 전 안이 좁아 별운검을 없애라는 명이 내려 성승·유응부 등이 들어가지 못해 거사를 이루지 못한 이유를 정확히 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F12", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 의제(義帝)를 노산(단종)에 빗댄 것으로 정확히 풀이하였으며, 잘못된 전제를 포함하지 않았습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F13", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 금표의 정의와 연산군의 조치를 정확히 설명하였으며, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F14", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 조광조가 유자광에게 정국공신 책봉의 책임이 있다고 언급한 내용을 정확히 전달하고 있으며, 유자광이 자제와 인척을 귀하게 하려고 주장했다는 점도 올바르게 설명하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F15", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 익명서의 비판 대상을 정확히 언급하였고, 내용도 올바르게 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F16", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 질문에 대해 이황이 편액과 서적을 내려 달라고 청한 사실을 정확히 언급하였고, 전제도 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F17", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 송상현이 부채에 쓴 내용을 정확히 전달하였으며, 핵심을 맞게 말했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F18", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 한산 앞바다 싸움에서 조선 수군이 펼친 진형인 학익진을 정확히 언급하였고, 내용이 채점 기준과 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F19", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 신경희의 발언을 정확히 전달하며, 돌이 가장 쓸모 있었다고 한 내용을 올바르게 언급했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F20", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 질문에 대한 정확한 답변을 하였고, 채점 기준의 핵심 내용을 올바르게 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F21", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 김상헌이 국서를 찢은 사실을 정확히 언급하였고, 그 과정도 올바르게 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F22", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 인조가 삼전도에서 청 황제에게 행한 예로 삼배구고두례를 정확히 언급하였으며, 내용이 채점 기준과 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F23", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 자의왕대비의 기년복 결정 근거를 정확히 설명하였고, 관련된 제도와 예를 올바르게 언급하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F24", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 영조의 비석에 새겨진 내용을 정확히 전달하고 있으며, 핵심적인 의미를 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F25", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "영조가 백성에게 약속한 내용인 '한 필을 줄이겠다'는 핵심을 정확히 전달하였고, 전제도 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F26", "condition": "D2", "category": "사실", "verdict": "부분", "reason": "육전 밖에서 시민들이 서로 사고팔 수 있도록 허락한 것은 맞지만, 채소·어물의 전을 혁파하거나 전의 이름만 남기고 난전을 단속하는 방안은 채제공의 건의가 아닌 정조의 하교에서 나온 내용이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F27", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 내노비와 시노비의 수치 및 노비 장부를 불태운 장소를 정확히 언급하였으며, 채점 기준의 핵심을 맞게 말했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F28", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 환향(還餉)을 민란의 원인으로 정확히 언급하였고, 삼정 가운데 가장 심한 폐단으로서의 맥락도 잘 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T01", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 하륜이 한양 천도를 주장하지 않고 반대했다는 내용을 정확히 전달하였으며, 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T02", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 교서를 내린 사람을 정확히 상왕 태종으로 언급하고, 왜구의 행동을 문제 삼은 내용을 올바르게 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T03", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 성삼문이 스스로 자수한 것이 아니라 김질의 고발로 드러났음을 정확히 설명하고, 이후의 경과도 올바르게 서술하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T04", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 국서를 찢은 사람과 인조의 반응을 정확히 설명하였고, 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T05", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 영조가 신문고를 처음 만든 것이 아니라 다시 설치한 것임을 정확히 언급하고, 설치 장소도 올바르게 제시했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N01", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 자료에 안견의 〈몽유도원도〉에 대한 내용이 없음을 정확히 언급하며, 답을 확인할 수 없다고 말했기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N02", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 없음을 정확히 언급하며, 관련 내용을 모른다고 잘 대답했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N03", "condition": "D2", "category": "자료 없음(근접)", "verdict": "정답", "reason": "챗봇이 정약용의 여전론 내용이 자료에 없음을 정확히 언급하고, 관련된 다른 의견들을 언급하여 답변하였기 때문에 정답으로 판별합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N04", "condition": "D2", "category": "자료 없음(근접)", "verdict": "정답", "reason": "챗봇이 비변사를 혁파한 시기가 자료에 없음을 정확히 언급하고, 관련된 다른 기록을 제시하여 올바른 답변을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N05", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 홍대용이나 《의산문답》에 대한 내용이 없음을 정확히 언급하며, 모른다고 잘 대답했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "P01", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "어진 초본에 대한 설명이 정확하고, 풍속화에 대한 내용이 자료에 없음을 잘 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "P02", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "챗봇은 정조의 대응을 정확히 설명하고, 세책가에 대한 부분은 자료에 없음을 올바르게 언급했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "P03", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "챗봇은 백운동서원에 대한 이황의 청원 내용을 정확히 전달하였고, 예안 향약에 대한 부분은 기록에 없다고 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F29", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 김준룡이 광교산에서 싸워 이겼고, 구원병 소식이 성안에 전해져 사람들의 마음이 굳게 되었다고 정확히 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F30", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 질문에 대한 정확한 답변을 하였고, 채점 기준의 핵심을 맞게 말했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F31", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 이완이 1651년에 어영대장에 임명되었다고 정확히 답하였으며, 채점 기준의 핵심을 맞추었습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F32", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 김정과 조광조가 과거 출신에만 의존하지 않고 천거로 인재를 뽑자고 했다는 핵심 내용을 정확히 전달하였으며, 두 인물의 주장을 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F33", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 승정원을 밤낮으로 문서를 출납하는 곳이자 계판을 두는 곳이라고 정확히 설명하였고, 사헌부의 언급도 포함하여 올바른 내용을 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F34", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 유향소의 좌수·색장을 고르는 주체와 인원 수를 정확히 언급하였으며, 채점 기준의 핵심을 잘 전달하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F35", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 축성사의 원래 이름을 정확히 언급하고, 1517년에 비변사로 고쳐졌다는 내용을 올바르게 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F36", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 선조가 훈련도감을 설치한 이유와 그곳에서 가르치려던 내용을 정확히 설명하였으며, 전제도 올바르게 정리하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F37", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 충청병사 정걸이 화살을 날라와 급한 상황을 구했다고 정확히 언급하였으며, 질문에 대한 핵심을 맞추었습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F38", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 돈 400문을 은 1냥으로 정한 내용을 정확히 언급하였고, 전제도 올바르게 이해하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F39", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 황사영 백서의 내용과 목적을 정확히 설명하였으며, 채점 기준에 부합하는 정보를 모두 포함하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F40", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 《농사직설》의 저자와 편찬 과정을 정확히 설명하였고, 옛 농서와의 차이점도 잘 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F41", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 정답 기준에 맞게 서얼 가운데 문예가 있는 사람 중에서 4명을 뽑았다고 정확히 답변하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F42", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 정조가 젊은 문신을 뽑아 공부시킨 이유를 정확히 설명하였고, 문풍 쇠퇴의 원인과 그에 대한 대책을 잘 전달하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F43", "condition": "D2", "category": "사실", "verdict": "오답", "reason": "챗봇은 1466년 세조 때의 토지 제도 변화에 대한 질문에 대해 1430년의 논의로 잘못된 전제를 세우고 있으며, 1466년의 변화인 과전 혁파와 직전 설치를 언급하지 않아 오답이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F44", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 집현전이 소장하던 책을 예문관에 맡겼다는 내용을 정확히 전달하였으며, 채점 기준의 핵심을 맞추었습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F45", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 초량항으로의 이전을 허락한 사실을 정확히 전달하고 있으며, 조정의 의논 내용도 올바르게 반영하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F46", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇의 답은 채점 기준의 핵심을 정확히 반영하고 있으며, 《경국대전》에 싣지 않은 조항이 《속록》이라 이름하여 반포되었다고 올바르게 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F47", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 김종서 등이 《고려사》를 바쳤고, 그 구성에 대한 내용을 정확히 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T06", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "부적절한 보류", "reason": "자료에 건원중보에 대한 내용이 없으므로 모른다고 한 것은 적절하지만, 태종이 의정부 일을 육조에 나누어 맡기는 개혁과 관련된 내용이 포함되어 있어 부적절한 보류로 판단됨.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T07", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "정답", "reason": "챗봇이 동시전 설치에 대한 잘못된 전제를 바로잡고, 관련된 내용을 정확히 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T08", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "정답", "reason": "챗봇은 순조 때 활구(은병)에 대한 잘못된 전제를 바로잡고, 자료에 기반하여 상평통보 주조에 대한 내용을 정확히 설명하였으며, 활구를 만든 이유는 확인할 수 없다고 명확히 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T09", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "부적절한 보류", "reason": "조선 후기 벽란도에서 송나라 상인과의 무역이 없다는 사실은 맞지만, '기록에서 확인되지 않는다'고 한 것은 부적절합니다. 채점 기준에 따르면 벽란도에서 송 상인과의 교역은 고려 때 있었고, 조선 후기에는 다른 교역 자료가 있다는 점을 명확히 해야 합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T10", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 전제의 배 수를 바로잡고, 이순신의 전투 방식과 승리의 비결을 정확히 설명하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N06", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 이익의 《곽우록》이나 한전론에 관한 내용이 없음을 정확히 언급하고, 관련된 다른 주장을 언급하여 답변의 적절성을 높였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N07", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 해당 내용이 없음을 정확히 언급하며, 질문에 대한 답변을 적절히 처리하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}

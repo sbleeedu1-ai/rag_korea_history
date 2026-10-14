@@ -1,0 +1,29 @@
+<level5 id="wva_10509003_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>익선관에 곤룡포를 입고 김홍도에게 어용을 그리게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1781-09-03L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">正祖實錄 12책 12권</mainTitle>
+              <page begin="27장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">正祖實錄 45책</mainTitle>
+              <page begin="263면" />
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>예술-미술(美術)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○御<index num="1789389_0" sort="K" type="지명">喜雨亭</index>, 召見承旨、閣臣, 則翼善冠、袞龍袍, 命畫師<index num="1789390_0" ref="M_0002035" sort="K" type="이름">金弘道</index>畫御容初本。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

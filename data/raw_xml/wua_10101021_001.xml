@@ -1,0 +1,33 @@
+<level5 id="wua_10101021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>비망기로 당습을 논박하고 탕평을 논하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1725-01-21L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">英祖實錄 3책 3권</mainTitle>
+              <page begin="31장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">英祖實錄 41책</mainTitle>
+              <page begin="465면" />
+            </source>
+            <subjectClass>과학(科學)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○庚申/備忘記略曰:</paragraph>
+            <paragraph align="center">
+              <quotation>予以否德忝位, 皇天警告, 無月無之。 昨冬雷異, 于今虹貫, 咎實在予, 曷勝悚惕? 廊廟殆空, 百事盡廢, 君勞於上, 民困於下, 尙未見一事之效。 是豈臣僚不能奉承而然? 此亦孤無自修之故也。 <index num="1594829_0" sort="K" type="이름">徐積</index>曰: "父母欲之, 鄕人榮之, 諸君何不爲君子?" 正今日之謂也。 不思盡瘁之義, 睦婣之道, 惟恐黨習之或違, 是乃忠耶? 孝耶? 予所痛心者, 三百年列聖相守之宗社, 不能振起, 則他日何面, 歸拜於祖宗在天之靈乎? 蕩平者, 公也, 染黨者, 私也。 群臣欲爲公乎? 欲爲私乎? 予雖否德, 言由肺腑。 若托求言, 而傾軋之類, 當施投裔之典。 近密之臣, 代予草敎, 自政府, 廣布中外。</quotation>
+            </paragraph>
+            <paragraph align="center">政院再啓, 請直爲頒布, 從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

@@ -1,0 +1,67 @@
+{"qid": "F01", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "정답 근거에 명확히 언급된 내용이 있는데도 모른다고 하여 부적절한 보류로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F02", "condition": "D1", "category": "사실", "verdict": "오답", "reason": "챗봇은 이성계의 경계 내용을 잘못 인용하고 있으며, 백성의 물건에 대한 경계 내용이 기록에 명확히 존재함에도 이를 부정하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F03", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "정몽주를 처음 공격한 사람은 조영규이고, 실제로 죽인 사람은 고여 등이라는 사실이 기록에 명확히 나와 있으므로 모른다고 할 수 없다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F04", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "정답 근거에 명확히 언급된 내용이 있는데도 모른다고 하여 부적절한 보류로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F05", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 채점 기준의 핵심을 정확히 맞추고 있으며, 상소를 올린 인물들을 올바르게 언급하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F06", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "채점 기준의 핵심을 정확히 맞추었고, 잘못된 전제를 바로잡았습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F07", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "정도전이 '경복'이라는 궁궐 이름을 《시경》 주아에서 따왔다고 정확히 언급하였고, 그 의미에 대한 설명도 포함되어 있어 채점 기준을 잘 반영하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F08", "condition": "D1", "category": "사실(수치)", "verdict": "오답", "reason": "챗봇이 제시한 찬성과 반대 수치가 모두 틀리며, 세종이 찬성 의견을 따랐다는 내용도 잘못된 정보입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F09", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "채점 기준의 핵심을 맞게 말하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F10", "condition": "D1", "category": "사실", "verdict": "오답", "reason": "김종서를 철퇴로 친 사람은 임어을운으로 명시되어 있으며, 챗봇은 이를 잘못된 전제로 받아들이고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F11", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 사육신이 거사하려던 연회에서 계획이 틀어진 이유를 정확히 설명하고 있으며, 채점 기준과 정답 근거에 부합합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F12", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "정답 근거에 명확히 언급된 내용이 있는데도 모른다고 하여 부적절한 보류로 판정함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F13", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇은 연산군이 도성 둘레에 세운 금표에 대한 내용을 정확히 설명하고 있으며, 기록의 핵심을 잘 전달하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F14", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 조광조의 발언을 정확히 인용하며 유자광이 정국공신 책봉에 대한 책임이 있다고 한 내용을 잘 전달하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F15", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 익명서의 내용을 정확히 인용하며 여주와 간신 이기를 비판하고 있다고 올바르게 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F16", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇은 질문에 대한 정확한 답변을 제공하였으며, 이황이 청한 사실을 올바르게 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F17", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "송상현이 부채에 쓴 글의 내용은 명확히 기록되어 있으며, 임금과 신하의 의리는 무겁고 아비와 자식의 은혜는 가볍다는 내용이 포함되어 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F18", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇은 한산 앞바다 싸움에서 조선 수군이 벌인 진형이 '학익진(鶴翼陣)'임을 정확히 언급하였고, 그에 따른 성과도 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F19", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 신경희의 발언을 정확히 전달하고 있으며, 싸움에서 돌이 쓸모 있었다는 핵심 내용을 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F20", "condition": "D1", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇의 답은 채점 기준의 핵심 내용을 정확히 반영하고 있으며, 밭 1결에서 1년에 쌀을 봄·가을 두 번 각 8말씩 거두어 총 16말이라는 사실을 올바르게 전달하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F21", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "김상헌이 국서를 찢은 사실이 명확히 기록되어 있음에도 불구하고 모른다고 한 것은 부적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F22", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "삼전도에서 인조가 청 황제에게 행한 예는 삼배구고두례라는 사실이 명확히 기록되어 있음에도 불구하고 모른다고 한 것은 부적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F23", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "채점 기준의 핵심을 맞게 말하고, 자의왕대비가 대행대왕을 위해 기년복을 입는 것으로 정해진 근거를 정확히 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F24", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇이 비석에 새겨진 내용을 정확히 전달하고 있으며, 그 의미에 대해서도 올바르게 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F25", "condition": "D1", "category": "사실", "verdict": "부분", "reason": "영조가 약속한 핵심 내용인 '양역을 한 필 줄이겠다'는 언급이 없고, 다른 내용이 포함되어 있어 일부만 맞는 답변이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F26", "condition": "D1", "category": "사실", "verdict": "오답", "reason": "채제공의 건의에 따라 육전 밖에서 매매할 수 있도록 허락한 조치가 있었으나, 챗봇은 이를 잘못 이해하고 구체적인 조치가 없다고 잘못된 내용을 말함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F27", "condition": "D1", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇은 내노비와 시노비의 수치를 정확히 언급하고, 노비안을 불태우라는 명령도 올바르게 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F28", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇은 박규수가 민란의 가장 큰 원인으로 환향(환곡)을 정확히 언급하였고, 관련된 내용을 잘 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T01", "condition": "D1", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 하륜이 한양 천도를 주장하지 않고 반대했다는 사실을 정확히 설명하였으며, 전제의 오류를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T02", "condition": "D1", "category": "잘못된 전제", "verdict": "부적절한 보류", "reason": "세종이 아닌 태종이 교서를 내린 사실이 명확히 기록되어 있으므로, 모른다고 할 수 없다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T03", "condition": "D1", "category": "잘못된 전제", "verdict": "오답", "reason": "성삼문이 스스로 자수한 것이 아니라 김질과 정창손의 고변으로 드러났다는 사실을 잘못된 전제로 받아들여 틀린 내용을 말하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T04", "condition": "D1", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 김상헌이 국서를 찢은 사실을 정확히 언급하고, 인조의 반응을 올바르게 인용하여 상황의 어려움을 잘 설명하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T05", "condition": "D1", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇의 답변은 영조가 신문고를 다시 설치한 장소와 그 이유를 정확히 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N01", "condition": "D1", "category": "자료 없음", "verdict": "정답", "reason": "자료에 없는 질문에 대해 '기록에서 확인되지 않는다'고 답변하여 적절히 대처했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N02", "condition": "D1", "category": "자료 없음", "verdict": "적절한 보류", "reason": "자료에 없는 질문에 대해 적절히 모른다고 답변하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N03", "condition": "D1", "category": "자료 없음(근접)", "verdict": "정답", "reason": "자료에 없는 질문에 대해 적절히 '기록에서 확인되지 않는다'고 답변하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N04", "condition": "D1", "category": "자료 없음(근접)", "verdict": "정답", "reason": "자료에 없는 질문에 대해 '기록에서 확인되지 않는다'고 답변하여 적절한 보류를 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N05", "condition": "D1", "category": "자료 없음", "verdict": "정답", "reason": "자료에 없는 질문에 대해 적절히 '기록에서 확인되지 않는다'고 답변하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "P01", "condition": "D1", "category": "일부만 있음", "verdict": "정답", "reason": "어진 초본에 대한 내용은 정확히 언급하였고, 풍속화에 대한 부분은 기록에 확인되지 않는다고 잘 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "P02", "condition": "D1", "category": "일부만 있음", "verdict": "부적절한 보류", "reason": "정조의 소설에 대한 대응 조치는 실록에 명확히 기록되어 있으며, 세책가에 대한 정보는 없지만 이를 모른다고 하는 것은 부적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "P03", "condition": "D1", "category": "일부만 있음", "verdict": "정답", "reason": "서원에 대한 내용은 정확히 맞추었고, 예안 향약에 대한 부분은 기록에 확인되지 않는다고 잘 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F29", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 채점 기준의 핵심을 정확히 반영하고 있으며, 김준룡이 광교산에서 싸워 이겼고 그 소식이 성안에 긍정적인 영향을 미쳤다는 내용을 올바르게 전달하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F30", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 채점 기준의 핵심을 정확히 맞추고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F31", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇이 이완이 1651년에 특별히 서용되어 어영대장에 임명되었다고 정확히 언급하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F32", "condition": "D1", "category": "사실", "verdict": "부분", "reason": "김정과 조광조가 주장한 천거과에 대한 내용은 언급되었으나, 과거 출신만 쓰는 길이 좁다는 점과 반대 의견이 있었다는 핵심 내용이 빠져있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F33", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "실록에 은대가 승정원으로서의 기능이 명확히 설명되어 있으므로, 모른다고 할 수 없다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F34", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답변은 유향소의 좌수와 색장을 정한 기준을 정확히 설명하고 있으며, 고른 사람과 그 이유도 잘 언급하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F35", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇이 비변사의 원래 이름이 축성사였음을 정확히 언급하고, 기록 내용을 올바르게 인용하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F36", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답변은 선조가 훈련도감을 따로 두자고 한 이유와 가르치려던 내용을 정확히 설명하고 있으며, 채점 기준에 부합합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F37", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답이 채점 기준의 핵심을 정확히 전달하고 있으며, 정답 근거와 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F38", "condition": "D1", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 돈과 은의 값을 정확히 언급하였고, 채점 기준의 핵심 내용을 잘 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F39", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "황사영 백서의 내용과 목적을 정확히 설명하고 있으며, 채점 기준에 맞게 세 가지 조목을 모두 포함하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F40", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답변은 《농사직설》의 저자와 제작 과정, 그리고 옛 농서와의 차이점을 정확히 설명하고 있어 채점 기준에 부합합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F41", "condition": "D1", "category": "사실(수치)", "verdict": "정답", "reason": "채점 기준의 핵심을 정확히 맞추었고, 잘못된 전제가 없었습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F42", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답변은 정조가 젊은 문신을 따로 뽑아 공부시킨 이유를 정확히 설명하고 있으며, 채점 기준의 핵심 내용을 잘 반영하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F43", "condition": "D1", "category": "사실", "verdict": "부적절한 보류", "reason": "정답 근거에 명확히 언급된 사실이 있음에도 불구하고 모른다고 답변하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F44", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답변은 세조가 집현전을 없앤 뒤 집현전에 있던 책이 예문관에 맡겨졌다는 내용을 정확히 전달하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F45", "condition": "D1", "category": "사실", "verdict": "오답", "reason": "챗봇은 왜관의 이전이 허락되지 않았다고 잘못된 내용을 말하고 있으며, 조정의 의논을 잘못 이해하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F46", "condition": "D1", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇의 답이 채점 기준의 핵심을 정확히 반영하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "F47", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 채점 기준의 핵심을 정확히 맞추고 있으며, 잘못된 전제가 없습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T06", "condition": "D1", "category": "잘못된 전제(다른 시대)", "verdict": "부적절한 보류", "reason": "자료에 없는 질문에 대해 모른다고 한 것은 적절하지만, 건원중보가 고려 시대의 화폐라는 사실을 언급하지 않아 부적절한 보류로 판단됨.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T07", "condition": "D1", "category": "잘못된 전제(다른 시대)", "verdict": "부적절한 보류", "reason": "동시전은 신라의 시장 감독 관청으로, 정조와 관련된 내용이 아닌데도 모른다고 하여 부적절한 보류로 판정함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T08", "condition": "D1", "category": "잘못된 전제(다른 시대)", "verdict": "부적절한 보류", "reason": "활구(은병)는 고려 숙종 때의 화폐로, 순조 때와 관련이 없다는 사실이 명확히 기록되어 있음에도 불구하고 모른다고 한 것은 부적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T09", "condition": "D1", "category": "잘못된 전제(다른 시대)", "verdict": "부적절한 보류", "reason": "조선 후기 벽란도에서 송나라 상인과의 무역은 사실이 아니며, 이와 관련된 교역 자료가 없다는 점을 명확히 하지 않았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "T10", "condition": "D1", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 잘못된 전제를 바로잡고, 이순신이 배 12척으로 싸운 사실과 전술을 정확히 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N06", "condition": "D1", "category": "자료 없음", "verdict": "정답", "reason": "자료에 없는 질문에 대해 '기록에서 확인되지 않는다'고 답변하여 적절한 보류를 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "N07", "condition": "D1", "category": "자료 없음", "verdict": "정답", "reason": "자료에 없는 질문에 대해 '기록에서 확인되지 않는다'고 답변하여 적절히 대처하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}

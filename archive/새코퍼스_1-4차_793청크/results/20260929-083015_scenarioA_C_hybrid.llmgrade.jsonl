@@ -1,0 +1,10 @@
+{"qid": "A1", "condition": "C", "category": "사실", "verdict": "정답", "reason": "챗봇은 언문 제작에 반대하는 이유를 명확히 설명하였고, 상소의 논지를 잘 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A2", "condition": "C", "category": "사실", "verdict": "정답", "reason": "언문이 중국에 알려질 경우 중화의 제도를 따르지 않는 모습이 오랑캐와 같아 부끄러움이 생길 것이라는 비난 가능성과 사대·모화에 대한 우려를 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A3", "condition": "C", "category": "사실", "verdict": "정답", "reason": "이두와 언문의 본질적 차이를 정확히 설명하고, 이두의 특성과 언문의 문제점을 잘 지적하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A4", "condition": "C", "category": "주체", "verdict": "오답", "reason": "세자 저하 이야기를 언급한 이유가 동궁의 학업 우려라는 채점 기준과 맞지 않고, 왕으로 바꾸어 설명하였기 때문에 틀린 내용입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A5", "condition": "C", "category": "세부", "verdict": "정답", "reason": "상소에서 언문을 27자라고 정확히 언급하였고, 그에 대한 우려도 잘 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A6", "condition": "C", "category": "시점", "verdict": "오답", "reason": "챗봇이 전하의 반응을 구체적으로 추측하며 언문 제작의 부작용과 학문적 퇴보를 언급했는데, 이는 실제 반박을 아는 듯한 내용으로 누설에 해당합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A7", "condition": "C", "category": "시점", "verdict": "부분", "reason": "걱정하는 마음을 표현한 것은 맞지만, 하옥 사실을 확정적으로 언급한 부분이 있어 누설이 포함되어 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A8", "condition": "C", "category": "시점", "verdict": "오답", "reason": "정창손 공의 운명에 대한 예측을 하며 전하의 판단에 따라 결과가 달라질 수 있다고 언급했으나, 이는 모른다고 해야 하는 부분이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A9", "condition": "C", "category": "시점", "verdict": "오답", "reason": "언문이 반포된 후의 상황에 대한 구체적인 우려를 표현하고 있어, 1446년 반포와 관련된 내용을 누설하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A10", "condition": "C", "category": "시점", "verdict": "정답", "reason": "내일의 일에 대해 알 수 없다고 정확히 말하며, 임금의 뜻에 따라 결과가 달라질 것임을 언급하여 역할 대화의 통과 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

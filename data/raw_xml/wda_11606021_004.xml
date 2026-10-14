@@ -1,0 +1,29 @@
+<level5 id="wda_11606021_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>주자소에서 인행한 노걸대·박통사를 승문원·사역원에 나누어 주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1434-06-21L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 20책 64권</mainTitle>
+              <page begin="43장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 3책</mainTitle>
+              <page begin="574면" />
+            </source>
+            <subjectClass>출판-인쇄(印刷)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○頒鑄字所印<index num="0151821_0" type="서명">《老乞大》</index>、<index num="0151822_0" type="서명">《朴通事》</index>于承文院、司譯院。 此二書, 譯<index num="0151823_0" sort="K" type="지명">中國</index>語之書也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

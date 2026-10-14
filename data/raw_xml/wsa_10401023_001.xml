@@ -1,0 +1,32 @@
+<level5 id="wsa_10401023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대신과 비변사의 제신을 인견하다. 돈을 만들어 사용하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1678-01-23L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">肅宗實錄 6책 7권</mainTitle>
+              <page begin="2장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">肅宗實錄 38책</mainTitle>
+              <page begin="379면" />
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>금융-화폐(貨幣)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙未/引見大臣、備局諸臣。 始以用錢定奪。 錢爲天下通行之貨, 而惟我國, 自祖宗朝, 累欲行之而不得者, 蓋以銅鐵非土産, 而且民俗與<index num="1426694_0" sort="K" type="지명">中國</index>有異, 有窒礙難行之弊也。 至是, 大臣<index num="1426695_0" ref="M_0060422" sort="K" type="이름">許積</index>、<index num="1426696_0" ref="M_0001161" sort="K" type="이름">權大運</index>等, 請行之。 上問于群臣, 群臣入侍者皆言其便, 上從之。 命戶曹、常平廳、賑恤廳、御營廳、司僕寺、訓鍊都監, 鑄常平通寶, 定以錢四百文, 直銀一兩, 行于市。 擢前別檢<index num="1426697_0" ref="M_0006225" sort="K" type="이름">趙顯期</index>、別檢<index num="1426698_0" ref="M_0042357" sort="K" type="이름">李雲徵</index>、參奉<index num="1426699_0" ref="M_0000214" sort="K" type="이름">權歆</index>, 直陞六品職。 <index num="1426700_0" ref="M_0006225" sort="K" type="이름">顯期</index>, <index num="1426701_0" ref="M_0001625" sort="K" type="이름">金錫冑</index>之姊夫也。 <index num="1426702_0" ref="M_0000417" sort="K" type="이름">尹鑴</index>薦其才, 上問于<index num="1426703_0" ref="M_0060292" sort="K" type="이름">許穆</index>, 對曰: "臣雖未見其人, 而人多稱其能文有才, 臣嘗記認之矣。 得見甲寅封事, 則其所設施, 果有見識, 非大言無實者比也, 實合擢用。 此外又有<index num="1426704_0" ref="M_0042357" sort="K" type="이름">李雲徵</index>、<index num="1426705_0" ref="M_0000214" sort="K" type="이름">權歆二</index>人, <index num="1426706_0" ref="M_0042357" sort="K" type="이름">雲徵</index>則文才操行卓異, 智慮勇力過人, <index num="1426707_0" ref="M_0000214" sort="K" type="이름">歆</index>則周詳謹厚, 且有才局。 竝宜勿拘常例, 而陞出六品也。" 從之。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

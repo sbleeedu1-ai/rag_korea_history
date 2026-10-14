@@ -1,0 +1,34 @@
+<level5 id="wnb_10205001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경상 감사가 남의 집을 헐어버린 진주 유생에 대해 죄줄 것을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1569-05-01L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 1책 3권</mainTitle>
+              <page begin="5장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="415면" />
+            </source>
+            <subjectClass>사법(司法)</subjectClass>
+            <subjectClass>윤리-사회기강(社會紀綱)</subjectClass>
+            <subjectClass>교육-인문교육(人文敎育)</subjectClass>
+            <subjectClass>역사-사학(史學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○朔甲辰/<index num="1088830_0" sort="K" type="지명">慶尙</index>監司啓<index num="1088831_0" sort="K" type="지명">晋州</index>儒生毁人家斷罪事。 先是, <index num="1088832_0" sort="K" type="지명">晋州</index>故進士<index num="1088833_0" ref="M_0059229" sort="K" type="이름">河宗岳</index>後妻寡居, 以淫行聞於鄕里。 處士<index num="1088834_0" ref="M_0055907" sort="K" type="이름">曺植</index>, 偶與門人<index num="1088835_0" ref="M_0005885" sort="K" type="이름">鄭仁弘</index>、<index num="1088836_0" ref="M_0059261" sort="K" type="이름">河沆</index>等言其事。 <index num="1088837_0" ref="M_0005885" sort="K" type="이름">仁弘</index>等通于監司, 按治起獄, 死者數人。 <index num="1088838_0" ref="M_0055907" sort="K" type="이름">植</index>又以其友人<index num="1088839_0" ref="M_0000677" sort="K" type="이름">李楨</index>, 以<index num="1088840_0" ref="M_0059261" sort="K" type="이름">河</index>妻姻黨, 陰庇其事, 發書絶交, 歷數其罪。 <index num="1088841_0" ref="M_0059261" sort="K" type="이름">河沆</index>等憤其獄事不成, 率倡朋徒, 破毁<index num="1088842_0" ref="M_0059261" sort="K" type="이름">河</index>家, 監司仍繫囚<index num="1088843_0" ref="M_0059261" sort="K" type="이름">沆</index>等。 弘文館上箚伸救, 又以獄不成故, 推官被臺劾坐罷者多, 朝論亦相左右。 上御經筵, 問於入侍諸臣, 大司憲<index num="1088844_0" ref="M_0002583" sort="K" type="이름">朴應男</index>等啓: "毁家儒生, 便是無賴, 非儒生也。 若不治罪, 恐後日復然。" 大臣<index num="1088845_0" ref="M_0060988" sort="K" type="이름">洪暹</index>亦是其議, 事竟不行。 嶺南士人, 毁家黜鄕之習始此。<annotation type="원주">
+                <noteContent>【<index num="1088846_0" ref="M_0000796" sort="K" type="이름">李滉</index>答<index num="1088847_0" ref="M_0000677" sort="K" type="이름">李楨</index>書問以: "朋儕間仍小事相失不解, 爲不可曉。" 云。 後, 其書傳於世, <index num="1088848_0" ref="M_0005885" sort="K" type="이름">鄭仁弘</index>追咎<index num="1088849_0" ref="M_0000796" sort="K" type="이름">滉</index>, 著書攻斥, 終身不已。 嶺南分黨之禍, 亦始於此矣。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      

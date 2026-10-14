@@ -1,0 +1,29 @@
+<level5 id="woa_10005007_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>선혜청을 설치하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1608-05-07L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">光海君日記 2책 2권</mainTitle>
+              <page begin="13장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">光海君日記 26책</mainTitle>
+              <page begin="88면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>재정-공물(貢物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○設宣惠廳。 初, 領議政<index ref="M_0004850" sort="K" type="이름">李元翼</index>議: "以各邑進上貢物爲各司防納人所搪阻, 一物之價倍蓰數十百, 其弊已痼, 而畿甸尤甚。 今宜別設一廳, 每歲春秋收米於民, 每田一結兩等例收八斗, 輸納于本廳, 本廳視時物價, 從優勘定, 以其米給防納人, 逐時貿納, 以絶刁蹬之路。 又就十六斗中兩等, 各減一斗, 給與本邑, 爲守令公私供費, 又以路傍邑多使客, 減給加數, 兩收米外, 不許一升加徵於民。 惟山陵、詔使之役, 不拘此限, 請劃一施行。" 從之。 以傳敎中有宣惠之語, 以名其廳。 以議政爲都提調, 戶判兼爲副提調, 置郞廳二員。 是後守令不得人, 則法外加收, 亦不能禁, 或侵及煙戶, 不能盡行法意。 然畿甸田結之役, 賴此少蘇矣。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

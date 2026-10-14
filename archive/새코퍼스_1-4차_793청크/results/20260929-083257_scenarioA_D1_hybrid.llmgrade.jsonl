@@ -1,0 +1,10 @@
+{"qid": "A1", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "상소의 논지를 잘 설명하고 있으며, 언문 제작이 정치에 이롭지 않다는 주장을 명확히 하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A2", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "언문이 중국에 알려질 경우 비난 가능성과 사대·모화에 대한 부끄러움이 발생할 수 있다는 점을 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A3", "condition": "D1", "category": "사실", "verdict": "정답", "reason": "이두와 언문의 차이를 정확히 설명하였고, 이두의 특성과 언문의 문제점을 잘 지적하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A4", "condition": "D1", "category": "주체", "verdict": "부분", "reason": "세자 저하의 학업 우려를 언급했으나, 언문 사용이 바람직하지 않다는 점을 강조한 것은 잘못된 전제이다. 세자 저하의 학업 우려에 대한 언급은 맞지만, 언문 사용의 부적절함을 강조한 것은 오답이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A5", "condition": "D1", "category": "세부", "verdict": "정답", "reason": "상소에서 언문을 '27자'라고 정확히 언급하였고, 그 이유도 적절히 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A6", "condition": "D1", "category": "시점", "verdict": "정답", "reason": "전하의 답변에 대한 확신이 없다는 점을 잘 표현하였고, 전하의 판단을 존중하는 태도를 보였습니다. 또한, 언문 제작에 대한 깊은 고찰이 이루어지기를 바라는 내용이 적절합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A7", "condition": "D1", "category": "시점", "verdict": "정답", "reason": "걱정과 각오를 표현하며, 하옥 사실을 확정적으로 언급하지 않고 자신의 신념을 강조하고 있어 적절한 답변입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A8", "condition": "D1", "category": "시점", "verdict": "오답", "reason": "응교 정창손 공의 운명에 대한 확신을 표현하며 결과를 예측하는 내용이 포함되어 있어, 시점 설정에 어긋나고 누설이 발생했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A9", "condition": "D1", "category": "시점", "verdict": "정답", "reason": "언문 반포에 대한 우려를 표현하며, 언문 제작의 부당함을 주장하는 내용이 가정으로만 답변되어 적절합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A10", "condition": "D1", "category": "시점", "verdict": "정답", "reason": "내일의 일에 대해 확신할 수 없다는 답변이 적절하며, 이후의 일을 누설하지 않고 자신의 소신을 표현한 점이 올바릅니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

@@ -1,0 +1,30 @@
+<level5 id="wnb_14005001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>풍원부원군 유성룡의 졸기</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1607-05-01L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖修正實錄 8책 41권</mainTitle>
+              <page begin="2장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖修正實錄 25책</mainTitle>
+              <page begin="701면" />
+            </source>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="1110097_0" ref="M_0003630" sort="K" type="이름">豐原府院君</index>
+              <index num="1110098_0" ref="M_0003630" sort="K" type="이름">柳成龍</index>卒。 <index num="1110099_0" ref="M_0003630" sort="K" type="이름">成龍</index>, <index num="1110100_0" sort="K" type="지명">安東</index>人, 號<index num="1110101_0" ref="M_0003630" sort="K" type="이름">西厓</index>, 從學於<index num="1110102_0" ref="M_0000796" sort="K" type="이름">李滉</index>之門, 早負重望。 丙寅擢第, 敭歷華顯, 出入經幄二十五年, 遂入相。 癸巳以首相, 獨當中外機務, 天將咨揭, 日夕旁午, 諸道奏牘, 東西交集, <index num="1110103_0" ref="M_0003630" sort="K" type="이름">成龍</index>左右酬應, 敏速如流。 時, <index num="1110104_0" ref="M_0049454" sort="K" type="이름">申欽</index>爲備局郞, 輒使<index num="1110105_0" ref="M_0049454" sort="K" type="이름">欽</index>操筆, 口呼書之, 文如宿搆, 未嘗點綴。 <index num="1110106_0" ref="M_0049454" sort="K" type="이름">欽</index>每語人曰: "其才未易得也。" 然局量狹小, 持論不弘, 不能去朋黨之心, 稍涉異己, 則不容於朝, 君擧得失, 亦不敢抗言正告, 無大臣風節。 嘗追記壬辰事, 名曰<index num="1110107_0" type="서명">《懲毖錄》</index>, 行于世, 識者以其伐己而掩人譏之。 <index num="1110108_0" ref="M_0004454" sort="K" type="이름">李山海</index>與其子<index num="1110109_0" ref="M_0004036" sort="K" type="이름">慶全</index>, 久在廢斥, 銜<index num="1110110_0" ref="M_0003630" sort="K" type="이름">成龍</index>, 謀欲去之。 戊戌以主和誤國, 厭避辨誣之行, 被劾而去, 在野十年而卒, 年六十六。 <index num="1110111_0" ref="M_0003630" sort="K" type="이름">成龍</index>於壬辰亂後建議, 始置訓鍊都監, 倣<index num="1110112_0" ref="M_0033959" sort="A" sort2="명" type="이름">戚繼光</index>
+              <index num="1110113_0" type="서명">《紀效新書》</index>, 抄選砲、射、殺三手, 以爲軍容, 修繕外方山城, 修鎭管法, 以爲備禦之策, <index num="1110114_0" ref="M_0003630" sort="K" type="이름">成龍</index>去位, 皆廢不行, 獨訓鍊都監仍存, 至今賴之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

@@ -1,0 +1,22 @@
+file	condition	kind	n	leak_turns	must_missing	fabricated_quotes	retrieval_hit	dry_run
+20260928-115754_single_A.jsonl	A	single	25	0	13	0	-	False
+20260928-115842_scenarioA_A.jsonl	A	scenarioA	10	0	0	0	-	False
+20260928-115916_scenarioB_A.jsonl	A	scenarioB	10	0	0	0	-	False
+20260928-115935_scenarioC_A.jsonl	A	scenarioC	10	1	0	0	-	False
+20260928-115958_single_B.jsonl	B	single	25	0	6	0	-	False
+20260928-120048_scenarioA_B.jsonl	B	scenarioA	10	0	0	0	-	False
+20260928-120119_scenarioB_B.jsonl	B	scenarioB	10	0	0	0	-	False
+20260928-120139_scenarioC_B.jsonl	B	scenarioC	10	1	0	0	-	False
+20260928-120209_single_C.jsonl	C	single	25	0	9	0	16/21	False
+20260928-120300_scenarioA_C.jsonl	C	scenarioA	10	0	0	0	-	False
+20260928-120331_scenarioB_C.jsonl	C	scenarioB	10	0	0	0	-	False
+20260928-120355_scenarioC_C.jsonl	C	scenarioC	10	1	0	0	-	False
+20260928-120421_single_D1.jsonl	D1	single	25	0	10	0	16/21	False
+20260928-120505_scenarioA_D1.jsonl	D1	scenarioA	10	0	0	0	-	False
+20260928-120536_scenarioB_D1.jsonl	D1	scenarioB	10	0	0	0	-	False
+20260928-120557_scenarioC_D1.jsonl	D1	scenarioC	10	0	0	0	-	False
+20260928-120628_single_D2.jsonl	D2	single	25	0	9	0	16/21	False
+20260928-120708_scenarioA_D2.jsonl	D2	scenarioA	10	0	0	0	-	False
+20260928-120740_scenarioB_D2.jsonl	D2	scenarioB	10	0	0	0	-	False
+20260928-120803_scenarioC_D2.jsonl	D2	scenarioC	10	0	0	0	-	False
+※ 자동 점검은 힌트입니다. 최종 판정은 채점용 CSV에 사람이 기록하세요.

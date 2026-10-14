@@ -1,0 +1,30 @@
+<level5 id="wia_10511015_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>신숙주가 특송왜로부터 들은 말과 일본국의 사정을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1474-11-15L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">成宗實錄 7책 49권</mainTitle>
+              <page begin="7장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">成宗實錄 9책</mainTitle>
+              <page begin="166면" />
+            </source>
+            <subjectClass>왕실-경연(經筵)</subjectClass>
+            <subjectClass>외교-왜(倭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○御經筵。 講訖, 領事<index id="p17_000070_00" num="0411730_0" ref="M_0003129" sort="K" type="이름">申叔舟</index>啓曰: "昨見通事, 問於特送<index num="0411731_0" sort="J" type="지명">倭</index>曰: ‘我國欲通信<index num="0411732_0" sort="J" type="지명">日本</index>, 三浦恒居<index num="0411733_0" sort="J" type="지명">倭</index>, 有可帶行者歟?’ 對曰: ‘有曾往來知道路者, 將告島主報道’, 通事曰: ‘非謂卽今使人, 將後日通信, 聊相問耳’, <index num="0411734_0" sort="J" type="지명">倭</index>云: ‘聞<index num="0411735_0" sort="J" type="지명">日本國</index>
+              <index num="0411736_0" sort="J" type="이름">大內殿</index>欲還本土, 聚所管兵船三百八十艘, 泊<index num="0411737_0" sort="K" type="지명">京江</index>, 國王遣人, 取船盡殺其兵, 仍囚<index num="0411738_0" sort="J" type="이름">大內</index>、<index num="0411739_0" sort="J" type="이름">畠山</index>等於山寺, 兵亂殆未戢, 須細聞聲息, 乃可遣之’, 其言似是傳聞於國王使也。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

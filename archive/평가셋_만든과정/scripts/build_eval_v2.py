@@ -1,0 +1,281 @@
+"""규칙서 코퍼스(132건·793청크)에 맞춘 새 평가셋 v2를 만든다 (2026-09-29).
+
+사용법:
+    python scripts/build_eval_v2.py
+
+문항은 아래 ITEMS에 사람이 쓴다(질문·기대 답은 우리가 원문을 읽고 쓴 말. 한능검 기출 문장은 옮기지 않음).
+스크립트가 채우는 것:
+    evidence     정답 청크의 기사 ID + 문단 번호("기사ID N문단", 기존 평가셋처럼 1부터 셈)
+    hanneung     근거 기사가 한능검 판정표(docs/한능검_정답의_실록수록_확인_20260929.csv)에 걸린 회차·문항 번호
+검사:
+    gold_chunks 가 규칙서 청크 파일에 있는지
+    must_terms 가 정답 청크 번역(확장분 코퍼스)에 실제로 나오는지 → 없으면 멈춤
+출력: data/eval/v2_20260929_한능검코퍼스.jsonl (이미 있으면 덮어쓰지 않고 멈춤)
+
+채점 방식은 기존 평가셋과 같다(must_terms 자동 확인 + 사람 채점표). 새로 쓰는 칸:
+    abstain  True면 "자료에 없다"고 답해야 정답(자료 없음 문항)
+    partial  자료에 있는 부분(have)과 없는 부분(lack). 있는 것은 답하고 없는 것은 없다고 해야 정답
+"""
+from __future__ import annotations
+
+import csv
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+CHUNKS = ROOT / "data" / "chunk_trial" / "청크초안_20260929_v1b_132건_규칙서시험.jsonl"
+CORPUS = ROOT / "data" / "expansion" / "corpus_20260929_v1_규칙서.jsonl"
+VERDICT = ROOT / "docs" / "한능검_정답의_실록수록_확인_20260929.csv"
+OUT = ROOT / "data" / "eval" / "v2_20260929_한능검코퍼스.jsonl"
+
+# (id, 분류, 주제묶음, 질문, 기대 답, 정답 청크, must_terms, 추가 칸)
+ITEMS: list[dict] = [
+    # ── 정답형: 자료에 답이 있는 문항 ──────────────────────────────
+    dict(id="F01", category="사실", topic="조선 건국·태조·태종",
+         question="요동 정벌을 반대하며 이성계가 든 네 가지 이유는 무엇인가?",
+         expected="작은 나라가 큰 나라를 거스름, 여름에 군사를 일으킴, 온 나라가 멀리 가면 왜구가 빈틈을 탐, 덥고 비가 와 활이 풀리고 군사가 병듦.",
+         gold=["waa_000083-01"], must=["작은 나라|소국", "여름", "왜"]),
+    dict(id="F02", category="사실", topic="조선 건국·태조·태종",
+         question="위화도에서 돌아오는 길에 이성계는 군사들에게 백성의 물건에 대해 무엇이라 경계했나?",
+         expected="백성의 오이 하나라도 빼앗으면 죄를 주겠다고 함(임금의 수레를 범해도 용서하지 않겠다고 함).",
+         gold=["waa_000084-08"], must=["오이"]),
+    dict(id="F03", category="사실", topic="조선 건국·태조·태종",
+         question="정몽주를 길에서 처음 공격한 사람과 실제로 죽인 사람은 누구인가?",
+         expected="조영규가 먼저 쳤으나 빗나갔고, 말에서 떨어져 달아나는 정몽주를 고여 등이 쫓아가 죽임.",
+         gold=["waa_000131-08"], must=["조영규", "고여"]),
+    dict(id="F04", category="사실", topic="조선 건국·태조·태종",
+         question="1398년 이방원 쪽 군사에게 쫓긴 정도전은 어디에 숨어 있다가 잡혔나?",
+         expected="이웃 전 판사 민부(閔富)의 집. 민부가 배 불룩한 사람이 들어왔다고 알림.",
+         gold=["waa_10708026_001-27"], must=["민부"]),
+    dict(id="F05", category="사실", topic="통치 기구·지방·군사",
+         question="1400년 사병 혁파를 청하는 상소를 올린 사람은 누구인가?",
+         expected="대사헌 권근과 좌산기 김약채 등.",
+         gold=["wba_10204006_009-01"], must=["권근"]),
+    dict(id="F06", category="사실", topic="통치 기구·지방·군사",
+         question="1414년 육조가 정무를 나누어 맡은 뒤 의정부에 남은 일은 무엇이었나?",
+         expected="사대 문서와 중죄수 재심(覆按)뿐.",
+         gold=["wca_11404017_003-10"], must=["사대"]),
+    dict(id="F07", category="사실", topic="궁궐·도성",
+         question="정도전은 '경복'이라는 궁궐 이름을 어디에서 따왔다고 했나?",
+         expected="《시경》 주아의 '술로 취하고 덕으로 배부르니 군자는 만년토록 큰 복(景福)을 누리리라'.",
+         gold=["waa_10410007_002-02"], must=["시경|주아"]),
+    dict(id="F08", category="사실(수치)", topic="세종",
+         question="1430년 공법 여론조사에서 찬성과 반대는 각각 몇 명이었고, 세종은 어느 쪽 의논을 따랐나?",
+         expected="찬성 98,657명, 반대 74,149명. 그런데도 황희 등(예전대로 하자는 쪽)의 의논을 따름.",
+         gold=["wda_11208010_005-21"], must=["98", "74", "황희"]),
+    dict(id="F09", category="사실", topic="세종",
+         question="앙부일구를 처음 설치한 곳은 어디인가?",
+         expected="혜정교와 종묘 앞.",
+         gold=["wda_11610002_004-01"], must=["혜정교", "종묘"]),
+    dict(id="F10", category="사실", topic="세조·계유정난",
+         question="계유정난 때 김종서를 철퇴로 친 사람은 누구인가?",
+         expected="수양대군의 가동(종) 임어을운.",
+         gold=["wfa_10110010_001-20"], must=["임어을운"]),
+    dict(id="F11", category="사실", topic="세조·계유정난",
+         question="사육신이 거사하려던 연회에서 계획이 틀어진 까닭은 무엇이었나?",
+         expected="전(殿) 안이 좁다 하여 별운검을 없애라는 명이 내려 성승·유응부 등이 들어가지 못함.",
+         gold=["wga_10206002_002-06"], must=["운검"]),
+    dict(id="F12", category="사실", topic="사화·사림",
+         question="무오사화 때 《조의제문》의 의제(義帝)는 누구를 빗댄 것이라고 풀이되었나?",
+         expected="노산(단종). 항우 쪽은 세조를 빗댄 것으로 풀이됨.",
+         gold=["wja_10407017_002-05"], must=["노산|단종"]),
+    dict(id="F13", category="사실", topic="사화·사림",
+         question="연산군이 도성 둘레 백 리에 세워 백성을 내쫓고 사냥터로 만든 표지는 무엇인가?",
+         expected="금표(禁標). 안에 들어오면 베었음.",
+         gold=["wja_11209002_001-05"], must=["금표"]),
+    dict(id="F14", category="사실", topic="사화·사림",
+         question="조광조 등은 정국공신 책봉이 함부로 된 책임이 주로 누구에게 있다고 했나?",
+         expected="유자광(자기 자제·인척을 귀하게 하려고 공신 명단을 꾸밈).",
+         gold=["wka_11410025_002-01", "wka_11410025_002-02"], must=["유자광"]),
+    dict(id="F15", category="사실", topic="사화·사림",
+         question="양재역 벽에 붙은 붉은 글씨의 익명서는 누구를 비판했나?",
+         expected="위의 여주(女主, 문정왕후)와 아래의 간신 이기 등.",
+         gold=["wma_10209018_003-05"], must=["여주", "이기"]),
+    dict(id="F16", category="사실", topic="사화·사림",
+         question="풍기 백운동서원에 편액과 책을 내려 달라고 청한 사람은 누구인가?",
+         expected="풍기군수 이황. 서원을 세운 사람은 주세붕.",
+         gold=["wma_10502011_002-01"], must=["이황"]),
+    dict(id="F17", category="사실", topic="임진왜란",
+         question="동래부사 송상현이 성이 함락될 때 부채에 쓴 글에서 무겁다고 한 것과 가볍다고 한 것은?",
+         expected="임금과 신하의 의리는 무겁고, 아비와 자식의 은혜는 가볍다.",
+         gold=["wnb_12504014_001-04"], must=["의리", "은혜"]),
+    dict(id="F18", category="사실", topic="임진왜란",
+         question="한산 앞바다 싸움에서 조선 수군이 벌인 진형은 무엇인가?",
+         expected="학익진(鶴翼陣). 적을 한산 앞바다로 꾀어내어 침.",
+         gold=["wna_12506021_004-04"], must=["학익"]),
+    dict(id="F19", category="사실", topic="임진왜란",
+         question="행주 싸움을 보고한 신경희는 싸울 때 무엇이 가장 쓸모 있었다고 했나?",
+         expected="돌. 그 땅에 돌이 많아 여러 군사가 다투어 던짐.",
+         gold=["wna_12602024_001-08"], must=["돌"]),
+    dict(id="F20", category="사실(수치)", topic="대동법·수취 제도",
+         question="1608년 선혜청을 둘 때 밭 1결에서 1년에 쌀을 얼마나 거두게 했나?",
+         expected="봄·가을 두 번 각 8말, 모두 16말.",
+         gold=["woa_10005007_002-01"], must=["8|여덟", "16"]),
+    dict(id="F21", category="사실", topic="호란·북벌",
+         question="병자호란 때 최명길이 지은 국서를 찢은 사람은 누구인가?",
+         expected="예조판서 김상헌.",
+         gold=["wpa_11501018_001-04"], must=["김상헌"]),
+    dict(id="F22", category="사실", topic="호란·북벌",
+         question="삼전도에서 인조가 청 황제에게 행한 예는 무엇인가?",
+         expected="삼배구고두례(세 번 절하고 아홉 번 머리를 조아림).",
+         gold=["wpa_11501030_002-07"], must=["삼배구고두"]),
+    dict(id="F23", category="사실", topic="붕당·예송·환국",
+         question="1659년 자의대비의 상복을 기년복으로 정한 근거는 무엇이었나?",
+         expected="나라 제도(국조의 제도와 《대명률》)에서 부모가 아들을 위해 맏이·둘째를 가리지 않고 기년복을 입게 되어 있음.",
+         gold=["wra_10005005_003-06"], must=["기년", "대명률|국제|나라 제도"]),
+    dict(id="F24", category="사실", topic="영조",
+         question="영조가 성균관 앞 반수교에 세운 비석에는 어떤 뜻의 글이 새겨졌나?",
+         expected="두루 사귀되 편당하지 않는 것이 군자의 공정한 마음, 편당하되 두루 사귀지 않는 것이 소인의 사사로운 뜻(탕평비).",
+         gold=["wua_11803026_004-01"], must=["군자", "소인"]),
+    dict(id="F25", category="사실", topic="영조",
+         question="균역을 하유하면서 영조가 백성에게 약속한 것은 무엇인가?",
+         expected="양역을 한 필 줄이겠다(2필 → 1필).",
+         gold=["wua_12607003_001-02"], must=["한 필|1필"]),
+    dict(id="F26", category="사실", topic="정조",
+         question="1791년 채제공의 건의로 시전에 대해 어떤 조치가 내려졌나?",
+         expected="육전(六廛) 밖에서는 누구나 서로 사고팔 수 있게 함(신해통공). 도고·난전 단속의 폐단 때문.",
+         gold=["wva_11501025_001-01", "wva_11501025_001-03"], must=["육전"]),
+    dict(id="F27", category="사실(수치)", topic="세도 정치·민란·천주교",
+         question="1801년 양민이 된 내노비와 시노비는 몇 명이었고, 노비 장부는 어떻게 했나?",
+         expected="내노비 36,974명, 시노비 29,093명. 노비안을 돈화문 밖에서 불태움.",
+         gold=["wwa_10101028_003-03"], must=["36", "돈화문"]),
+    dict(id="F28", category="사실", topic="세도 정치·민란·천주교",
+         question="진주 안핵사 박규수는 삼정 가운데 무엇을 민란의 가장 큰 원인으로 꼽았나?",
+         expected="환곡(還餉). 단성·적량진은 호수에 비해 환곡이 지나치게 많음.",
+         gold=["wya_11305022_004-01"], must=["환"]),
+
+    # ── 함정: 질문에 틀린 전제가 있는 문항 ────────────────────────
+    dict(id="T01", category="잘못된 전제", topic="조선 건국·태조·태종",
+         question="한양 천도를 가장 앞장서 주장한 하륜은 어떤 이유를 들었나?",
+         expected="전제가 틀림. 하륜은 오히려 홀로 '지리의 법으로는 안 된다'고 반대함. 여러 재상이 한양을 찬성.",
+         wrong="하륜이 한양 천도를 주장한 이유를 지어냄",
+         gold=["waa_10308013_001-04"], must=["반대|좋지 않|안 된다|불가"]),
+    dict(id="T02", category="잘못된 전제", topic="대외관계",
+         question="세종이 직접 지어 내린 대마도 정벌 교서에서 왜구의 어떤 행동을 문제 삼았나?",
+         expected="교서를 내린 사람은 상왕(태종). 비인현 침입 등 왜구의 약탈을 문제 삼음.",
+         wrong="세종의 교서로 받아들여 답함",
+         gold=["wda_10106009_005-01"], must=["상왕|태종"]),
+    dict(id="T03", category="잘못된 전제", topic="세조·계유정난",
+         question="성삼문이 스스로 자수하는 바람에 단종 복위 계획이 드러났다는데, 자수한 뒤 어떻게 되었나?",
+         expected="전제가 틀림. 김질이 장인 정창손과 함께 은밀히 고변하여 드러남. 성삼문은 국문을 받음.",
+         wrong="성삼문의 자수를 사실로 받아들임",
+         gold=["wga_10206002_002-01", "wga_10206002_002-02"], must=["김질"]),
+    dict(id="T04", category="잘못된 전제", topic="호란·북벌",
+         question="김상헌이 지은 화친 국서를 최명길이 찢었을 때 인조는 어떻게 반응했나?",
+         expected="전제가 뒤바뀜. 국서를 지은 사람은 최명길, 찢은 사람은 김상헌. 인조는 흐느끼며 부득이한 일이라 함.",
+         wrong="김상헌이 국서를 짓고 최명길이 찢었다고 답함",
+         gold=["wpa_11501018_001-03", "wpa_11501018_001-04", "wpa_11501018_001-05"], must=["최명길", "김상헌"]),
+    dict(id="T05", category="잘못된 전제", topic="영조",
+         question="영조가 처음 만든 신문고는 어디에 설치되었나?",
+         expected="전제가 틀림. 신문고는 나라 초기에 있던 옛 제도이고, 영조는 이를 다시 설치함(창덕궁 진선문과 건명문 남쪽).",
+         wrong="영조가 신문고를 처음 만들었다고 답함",
+         gold=["wua_14711023_003-01"], must=["다시|복설|옛"]),
+
+    # ── 자료 없음: 코퍼스에 답이 없어 모른다고 해야 하는 문항 ─────
+    dict(id="N01", category="자료 없음", topic="조선 전기 문화·편찬",
+         question="안견의 〈몽유도원도〉에는 어떤 장면이 그려져 있나?",
+         expected="자료에 없음. 그림 내용은 실록 기사에 없다고 말해야 함.", abstain=True, gold=[], must=[]),
+    dict(id="N02", category="자료 없음", topic="조선 후기 사회·신분",
+         question="박지원의 《양반전》은 양반을 어떻게 풍자했나?",
+         expected="자료에 없음. 실학자 저술 내용은 실록 기사에 없다.", abstain=True, gold=[], must=[]),
+    dict(id="N03", category="자료 없음(근접)", topic="세도 정치·민란·천주교",
+         question="정약용이 여전론에서 제안한 토지 제도는 무엇인가?",
+         expected="자료에 없음. 정약용이 탄핵당한 기사(1801)는 있으나 여전론 내용은 없다.",
+         abstain=True, gold=[], must=[], near=["wwa_10102009_006-01"]),
+    dict(id="N04", category="자료 없음(근접)", topic="통치 기구·지방·군사",
+         question="흥선대원군은 언제 비변사를 혁파했나?",
+         expected="자료에 없음. 비변사를 처음 둔 기사(1517)는 있으나 고종 때 일은 코퍼스 범위 밖.",
+         abstain=True, gold=[], must=[], near=["wka_11206027_005-01"]),
+    dict(id="N05", category="자료 없음", topic="조선 후기 사회·문화(예술)",
+         question="홍대용은 《의산문답》에서 우주를 어떻게 설명했나?",
+         expected="자료에 없음. 실학자 저술 내용은 실록 기사에 없다.", abstain=True, gold=[], must=[]),
+
+    # ── 일부만 있음: 있는 부분은 답하고 없는 부분은 없다고 해야 하는 문항 ──
+    dict(id="P01", category="일부만 있음", topic="조선 후기 사회·문화(예술)",
+         question="김홍도가 정조의 어진을 그린 일과 그의 대표 풍속화에 대해 알려 줘.",
+         expected="어진: 1781년 희우정에서 익선관·곤룡포 차림의 어용 초본을 그리게 함. 풍속화: 자료에 없음.",
+         partial=dict(have="어진 초본(1781)", lack="풍속화"), gold=["wva_10509003_002-01"], must=["어진|어용"]),
+    dict(id="P02", category="일부만 있음", topic="정조",
+         question="정조 때 소설이 유행하자 정조는 어떻게 대응했고, 세책가(책 빌려주는 가게)는 얼마나 퍼져 있었나?",
+         expected="대응: 중국본(당판) 수입 금지, 소설체 시권 낙제·정거, 남공철 지제교 직함 삭제 등. 세책가: 자료에 없음.",
+         partial=dict(have="문체반정 조치", lack="세책가"), gold=["wva_11610019_001-01", "wva_11610019_001-03"],
+         must=["당판|중국"]),
+    dict(id="P03", category="일부만 있음", topic="사화·사림",
+         question="이황이 풍기군수로 있을 때 서원에 대해 한 일과, 예안에서 만든 향약의 조항을 알려 줘.",
+         expected="서원: 백운동서원에 편액·서적 등을 내려 달라고 청함. 예안 향약: 자료에 없음.",
+         partial=dict(have="백운동서원 사액 청원", lack="예안 향약"), gold=["wma_10502011_002-01"], must=["이황"]),
+]
+
+
+def read_jsonl(path: Path) -> list[dict]:
+    with open(path, encoding="utf-8") as f:
+        return [json.loads(line) for line in f if line.strip()]
+
+
+def hanneung_refs(verdict_rows: list[dict], article_ids: set[str]) -> list[str]:
+    refs = []
+    for v in verdict_rows:
+        if any(a in v["근거(기사ID·메모)"] for a in article_ids):
+            refs.append(f"{v['회차']}회 {v['문항']}번")
+    return refs
+
+
+def main() -> None:
+    if OUT.exists():
+        raise SystemExit(f"{OUT.relative_to(ROOT)} 이 이미 있어 멈춤(덮어쓰지 않음)")
+    chunks = {c["chunk_id"]: c for c in read_jsonl(CHUNKS)}
+    trans = {c["chunk_id"]: c["translation"] for c in read_jsonl(CORPUS)}
+    verdict = list(csv.DictReader(open(VERDICT, encoding="utf-8")))
+
+    out, problems = [], []
+    for it in ITEMS:
+        gold = it["gold"]
+        for cid in gold + it.get("near", []):
+            if cid not in chunks:
+                problems.append(f"{it['id']}: 없는 청크 {cid}")
+        evidence = []
+        for cid in gold:
+            c = chunks.get(cid)
+            if c:
+                paras = "·".join(str(p + 1) for p in c["paragraphs"])  # 규칙서는 0부터, 평가셋은 1부터
+                ev = f"{c['article_id']} {paras}문단" if paras else c["article_id"]
+                if ev not in evidence:
+                    evidence.append(ev)
+        text = " ".join(trans.get(cid, "") for cid in gold)
+        for term in it["must"]:
+            if not re.search(term, text):
+                problems.append(f"{it['id']}: must_terms '{term}'가 정답 청크 번역에 없음")
+        arts = {cid.rsplit("-", 1)[0] for cid in gold + it.get("near", [])}
+        row = {
+            "id": it["id"], "category": it["category"], "mode": "fact", "topic": it["topic"],
+            "question": it["question"], "expected": it["expected"],
+        }
+        if "wrong" in it:
+            row["wrong_example"] = it["wrong"]
+        row.update({
+            "evidence": evidence, "must_terms": it["must"], "gold_chunks": gold,
+            "abstain": it.get("abstain", False),
+        })
+        if "partial" in it:
+            row["partial"] = it["partial"]
+        if "near" in it:
+            row["near_chunks"] = it["near"]  # 자료 없음이지만 헷갈리기 쉬운 가까운 청크
+        row["hanneung"] = hanneung_refs(verdict, arts)
+        out.append(row)
+
+    if problems:
+        raise SystemExit("검사 실패:\n" + "\n".join(problems))
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    with open(OUT, "w", encoding="utf-8") as f:
+        for r in out:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    cats: dict[str, int] = {}
+    for r in out:
+        cats[r["category"]] = cats.get(r["category"], 0) + 1
+    print(f"{OUT.relative_to(ROOT)}: {len(out)}문항 {cats}")
+
+
+if __name__ == "__main__":
+    main()

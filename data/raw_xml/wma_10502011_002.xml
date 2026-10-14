@@ -1,0 +1,45 @@
+<level5 id="wma_10502011_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이기 등이 풍기의 백운동 서원에 편액과 책을 내려 보낼 것을 아뢰다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1550-02-11L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">明宗實錄 8책 10권</mainTitle>
+              <page begin="6장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">明宗實錄 19책</mainTitle>
+              <page begin="682면" />
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>정론(政論)</subjectClass>
+            <subjectClass>사상-유학(儒學)</subjectClass>
+            <subjectClass>사상-불교(佛敎)</subjectClass>
+            <subjectClass>교육(敎育)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○領議政<index num="0879055_0" ref="M_0000473" sort="K" type="이름">李芑</index>、左議政<index num="0879056_0" ref="M_0003233" sort="K" type="이름">沈連源</index>、右議政<index num="0879057_0" ref="M_0066220" sort="K" type="이름">尙震</index>、禮曹判書<index num="0879058_0" ref="M_0000338" sort="K" type="이름">尹漑</index>、禮曹參議<index num="0879059_0" ref="M_0066270" sort="K" type="이름">徐固</index>議: "<index num="0879060_0" sort="K" type="지명">豐基</index>
+              <index num="0879061_0" sort="K" type="지명">白雲洞書院</index>, <index num="0879062_0" sort="K" type="지명">黃海道</index>觀察使<index num="0879063_0" ref="M_0014418" sort="K" type="이름">周世鵬</index>所創立,<annotation type="원주">
+                <noteContent>【<index num="0879064_0" ref="M_0014418" sort="K" type="이름">世鵬</index>, <index num="0879065_0" sort="K" type="지명">豐基</index>郡守時, 創此書院。】</noteContent>
+              </annotation>其基乃<index num="0879066_0" ref="M_0032753" sort="K" type="이름">文成公</index>
+              <index num="0879067_0" ref="M_0032753" sort="K" type="이름">安裕</index>
+              <annotation type="원주">
+                <noteContent>【名<index num="0879068_0" ref="M_0032658" sort="K" type="이름">珦</index>, 避諱稱<index num="0879069_0" ref="M_0032753" sort="K" type="이름">裕</index>。】</noteContent>
+              </annotation>所居之洞, 其制度規模, 蓋倣<index num="0879070_0" ref="M_0033766" sort="A" type="이름">朱文公</index>
+              <index num="0879071_0" sort="K" type="지명">白鹿洞</index>之規也。 凡所以立學令置書籍, 田糧供給之具, 無不該盡, 可以成就人才也。 <index num="0879072_0" ref="M_0000796" sort="K" type="이름">李滉</index>
+              <annotation type="원주">
+                <noteContent>【作宰<index num="0879073_0" sort="K" type="지명">豐基</index>, 嘉<index num="0879074_0" ref="M_0014418" sort="K" type="이름">世鵬</index>之志, 恐傳守難久, (移)<annotation type="교감주">
+                    <noteTitle>〔稱〕</noteTitle>
+                  </annotation>病將歸, 具辭啓聞, 故命議三公、該曹。】</noteContent>
+              </annotation>之請賜扁額, 書籍、土田、臧獲, 不可盡從, 而扁額及書籍二三件, 特命下送, 則遠方儒生, 必皷舞欣感而興起也。 土田則<index num="0879075_0" ref="M_0014418" sort="K" type="이름">周世鵬</index>措置, 不爲不足, 仍而不改, 雖不給臧獲, 使喚之人, 出於其中。 且儒生讀書, 貴寂寞之境。 若監司、守令欲爲勸課, 煩其敎令而檢束之, 則人不自由, 恐乖藏修游藝之道, 莫若勿撓之而已。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

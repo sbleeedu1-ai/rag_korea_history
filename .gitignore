@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# 로컬 벡터 DB는 corpus.jsonl에서 다시 만들 수 있다
+chroma_db/
+# 키 없이 돌린 점검용 결과
+results/**/*_dry.jsonl
+results/**/*_dry.grade.csv
+# 실행이 중간에 멈춰 끝까지 쓰지 못한 결과(evaluate.write_when_done)
+results/**/*.part
+.env
+# 저장소 안에 만든 파이썬 가상환경(PC마다 다시 만든다)
+.venv/
+# 질문 임베딩 캐시(진단 코드가 읽는 로컬 데이터, API 호출 비용 절약)
+data/cache/
+# 화면 그림 원본(GPT Image 생성, 장마다 2MB 안팎, 작업기록 [358]). 저장소 밖에 보관한다.
+# 화면 크기로 줄인 그림 ui/assets/sized/(약 7MB)는 저장소에 넣는다(2026-10-14)
+ui/assets/*.png
+# 공개 저장소에 올리지 않는 것(2026-10-14 사용자 결정): 강사 제출물·발표 자료, 공유 폴더에서 온 참고 자료,
+# Claude Code 전용 설정(작업 규칙은 AGENTS.md에 있음). 파일은 각자 PC에 그대로 둔다.
+docs/기록/제출/
+docs/참고/
+CLAUDE.md
+.claude/
+# ChatGPT 웹 검색 켬 답에는 실록 사이트의 국역 번역문 인용이 섞여 있어 공개하지 않는다(점수는 문서에 남음, 2026-10-14)
+results/20261008_GPT빈손/GPT검색켬_*_답과채점_*.csv

@@ -1,0 +1,29 @@
+<level5 id="wca_10107013_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>관제 개편</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1401-07-13L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">太宗實錄 1책 2권</mainTitle>
+              <page begin="1장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">太宗實錄 1책</mainTitle>
+              <page begin="208면" />
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+            <subjectClass>군사(軍事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○改門下府左右政丞爲議政府左右政丞, 門下侍郞贊成事爲議政府贊成事, 參贊門下府事爲參贊議政府事, 政堂文學爲議政府文學。 增置參知議政府事二人, 秩從二品。 革門下府之號, 改郞舍爲司諫院。 革散騎常侍, 陞諫議大夫爲左右司諫大夫, 階通政。 直門下爲知司諫院事, 補闕爲獻納, 拾遺爲正言, 內史舍人爲內書舍人, 三司爲司平府, 義興三軍府爲承樞府, 學士爲提學。 分藝文春秋爲二館, 藝文爲祿官, 春秋爲兼官。 藝文館, 大提學一、提學一、直提學二、直館二。 供奉爲奉敎, 修撰爲待敎, 直館爲檢閱, 奉敎以下, 皆兼春秋館記事官。 殿中寺爲宗簿寺, 內府寺爲內資寺, 司農寺爲典農寺, <index num="0016774_0" sort="K" type="지명">料物庫</index>爲<index num="0016775_0" sort="K" type="지명">供正庫</index>, 成均祭酒爲司成, 樂正爲司藝, 典簿爲注簿, 降爲正六品。 司憲中丞爲執義, 侍史爲掌令, 雜端爲持平, 都承旨爲承樞府知申事, 承旨爲代言, 承宣房爲代言司置印信, 奉常博士爲注簿。 改校書監爲校書館, 革少監以上官, 置校理一、從五品, 副校理一、從六品, 參外依舊。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

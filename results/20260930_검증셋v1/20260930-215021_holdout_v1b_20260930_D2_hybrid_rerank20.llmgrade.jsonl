@@ -1,0 +1,24 @@
+{"qid": "HF01", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "종묘의 태실이 7칸이라는 핵심 내용을 정확히 언급하였고, 추가적인 부속 건물에 대한 설명도 포함되어 있어 올바른 정보를 제공하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF02", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 주자소 설치의 이유와 임금의 의도를 정확히 설명하고 있으며, 구리와 쇠를 마련한 내용도 포함되어 있어 채점 기준에 부합합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF03", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 김종서가 경원부를 소다로로 옮기자고 한 이유와 성의 둘레를 정확히 언급하였으며, 내용이 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF04", "condition": "D2", "category": "사실", "verdict": "부적절한 보류", "reason": "챗봇이 간경도감에 대한 내용을 언급하지 않고, 불교 책을 찍기 위한 기관에 대한 질문에 대해 모른다고 답변하여 부적절한 보류로 판정됨.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF05", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 손녀를 궁에 보내지 않으려 한 것이 아니라, 아들을 감싸려는 행동으로 문제 삼았다는 내용을 정확히 설명하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF06", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 이세좌가 임금이 내린 술을 기울여 쏟아 옷에 튀게 한 불경죄로 벌을 받았음을 정확히 언급하였고, 연산군이 그를 귀양 보냈다는 내용도 올바르게 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF07", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 사건의 시작과 경과를 정확하게 설명하였고, 조식의 제자라는 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF08", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 정문부의 전투 방식과 결과를 정확하게 설명하였으며, 채점 기준의 핵심 내용을 모두 포함하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF09", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 비변사의 건의 내용과 광해군의 반응을 정확히 설명하였으며, 핵심 내용을 잘 전달하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF10", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 허적과 윤휴의 의견 차이를 정확히 설명하고, 두 사람의 주장을 올바르게 인용하였으며, 관련된 사건도 잘 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF11", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "영조가 《속대전》 편찬 시 너그럽고 큰 정치를 숭상해야 한다고 당부한 내용과 형벌을 함부로 되살리지 말라는 내용이 정확히 포함되어 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF12", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 대동법의 혜택이 있었지만 형편이 완전히 좋아지지 않았음을 정확히 설명하고, 영조의 발언을 인용하여 공인의 폐단을 지적한 내용을 잘 전달했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF13", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 실록의 내용을 정확히 요약하고, 뇌물로 벼슬을 샀다는 폐단에 대한 비판을 잘 설명하였다. 또한, 실록의 내용을 바탕으로 매관 사례나 규모에 대한 한계를 명확히 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF14", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 송시열의 유언 내용을 정확히 전달하였고, 주자의 여덟 글자와 곧을 직(直) 한 글자에 대한 언급도 포함되어 있어 채점 기준의 핵심을 잘 맞추었다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT01", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 송시열이 서울로 끌려와 고문받지 않았고, 제주에서 돌아오던 중 정읍현에서 사사하라는 교지를 받았다는 내용을 정확히 전달하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT02", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 인현왕후 폐출 시 영의정 권대운이 찬성하지 않았음을 정확히 언급하고, 그의 차자 내용과 숙종의 반응을 올바르게 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT03", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 헌종이 이지연 형제를 즉각적으로 처벌하지 않았음을 정확히 설명하고, 관련된 상소와 헌종의 비답 내용을 잘 전달하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT04", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "정답", "reason": "챗봇이 질문의 잘못된 전제를 바로잡고, 자료에 해당 내용이 없음을 정확히 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN01", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 없는 내용을 정확히 지적하며, 일제강점기 경복궁에서 열린 박람회에 대한 정보가 없음을 올바르게 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN02", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 고사관수도에 대한 내용이 없음을 정확히 언급하며, 확인되지 않는다고 잘 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN03", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 자료에 정선의 그림이나 화풍에 관한 내용이 없음을 정확히 언급하였고, 질문에 대한 적절한 답변을 제공하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN04", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "자료에 신윤복이나 그의 그림에 관한 내용이 없다는 점을 정확히 언급하였고, 질문에 대한 적절한 답변을 제공하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HP01", "condition": "D2", "category": "일부만 있음", "verdict": "부적절한 보류", "reason": "징비록의 내용에 대한 설명은 채점 기준에 명시되어 있으나, 권수에 대한 정보는 자료에 없다고 하여 모른다고 한 것은 부적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HP02", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "비용 마련에 대한 설명과 거중기 제작자에 대한 언급이 정확하게 이루어졌습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

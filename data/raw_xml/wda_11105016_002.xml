@@ -1,0 +1,33 @@
+<level5 id="wda_11105016_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>《농사직설》의 서문</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1429-05-16L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 14책 44권</mainTitle>
+              <page begin="16장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 3책</mainTitle>
+              <page begin="181면" />
+            </source>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+            <subjectClass>출판-인쇄(印刷)</subjectClass>
+            <subjectClass>역사-고사(故事)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命摠制<index num="0121085_0" ref="M_0054815" sort="K" type="이름">鄭招</index>等, 撰<index num="0121086_0" type="서명">《農事直說》</index>。 其序曰:</paragraph>
+            <paragraph align="center">
+              <quotation>農者, 天下國家之大本也, 自古聖王, 莫不以是爲務焉。 <index num="0121087_0" ref="M_0033585" sort="A" type="이름">帝舜</index>之命九官十二牧也, 首曰: "食哉惟時。" 誠以粢盛之奉、生養之資, 捨是, 無以爲也。 恭惟<index num="0121088_0" sort="K" type="이름">太宗</index>恭定大王, 嘗命儒臣, 掇取古農書切用之語, 附註鄕言, 刊板頒行, 敎民力本。 及我主上殿下, 繼明圖治, 尤留意於民事, 以五方風土不同, 樹藝之法, 各有其宜, 不可盡同古書, 乃命諸道監司, 逮訪州縣老農, 因地已試之驗具聞。 又命臣<index num="0121089_0" ref="M_0054815" sort="K" type="이름">招</index>, 就加詮次, 臣與宗簿少尹臣<index num="0121090_0" ref="M_0002767" sort="K" type="이름">卞孝文</index>, 披閱參考, 祛其重複, 取其切要, 撰成一編, 目曰<index num="0121091_0" type="서명">《農事直說》</index>。 農事之外, 不雜他說, 務爲簡直, 使山野之民曉然易知。 旣進, 下鑄字所, 印若干本, 將以頒諸中外, 導民厚生, 以至於家給人足也。 臣竊觀<index num="0121092_0" sort="K" type="지명">周</index>詩, <index num="0121093_0" sort="K" type="지명">周</index>家以農事爲國, 歷八百餘年之久。 今我殿下惠養斯民, 爲國長慮, 豈不與<index num="0121094_0" ref="M_0034369" sort="A" sort2="周" type="이름">后稷</index>、<index num="0121095_0" sort="K" type="이름">成王</index>同一揆範乎? 是書雖小, 其爲利益, 可勝言哉</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      

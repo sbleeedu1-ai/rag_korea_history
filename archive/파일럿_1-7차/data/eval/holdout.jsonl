@@ -1,0 +1,5 @@
+{"id": "H1", "category": "검증(holdout)", "mode": "fact", "question": "최만리 상소는 이두가 얼마나 오래 쓰였다고 했나?", "expected": "수천 년", "evidence": ["wda_12602020_001 5문단"], "must_terms": ["수천"], "gold_chunks": ["c06"]}
+{"id": "H2", "category": "검증(holdout)", "mode": "fact", "question": "상소에 따르면 언문을 갑자기 익히게 한 서리는 몇 명인가?", "expected": "10여 명", "evidence": ["wda_12602020_001 7문단"], "must_terms": ["10여|십여"], "gold_chunks": ["c09"]}
+{"id": "H3", "category": "검증(holdout)", "mode": "fact", "question": "상소는 초수 행차의 호종을 이전보다 얼마나 줄였다고 했나?", "expected": "열에 여덟아홉", "evidence": ["wda_12602020_001 7문단"], "must_terms": ["여덟|8"], "gold_chunks": ["c09"]}
+{"id": "H4", "category": "검증(holdout)", "mode": "fact", "question": "정인지 서문에서 해설 작업에 참여한 수찬은 누구인가?", "expected": "성삼문", "evidence": ["wda_12809029_004"], "must_terms": ["성삼문"], "gold_chunks": ["c23"]}
+{"id": "H5", "category": "검증(holdout)", "mode": "fact", "question": "세종은 언문 작업이 옛것을 싫어하고 새것을 좋아해서 하는 일이 아니라며 어떤 이유를 들었나?", "expected": "늘그막에 날을 보내기 어려워 서적을 벗 삼을 뿐이라고 함", "evidence": ["wda_12602020_001 9문단"], "must_terms": ["서적|책"], "gold_chunks": ["c11"]}

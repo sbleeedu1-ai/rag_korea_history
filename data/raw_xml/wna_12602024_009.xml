@@ -1,0 +1,29 @@
+<level5 id="wna_12602024_009">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>함경북도 평사 정문부가 왜적을 소탕한 일을 치계하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">009</docNo>
+            <date>
+              <dateOccured date="1593-02-24L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">宣祖實錄 18책 35권</mainTitle>
+              <page begin="51장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">宣祖實錄 21책</mainTitle>
+              <page begin="646면" />
+            </source>
+            <subjectClass>외교-왜(倭)</subjectClass>
+            <subjectClass>군사-전쟁(戰爭)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○<index num="0954499_0" sort="K" type="지명">咸鏡北道</index>評事<index num="0954500_0" ref="M_0005775" sort="K" type="이름">鄭文孚</index>馳啓曰: "前年十二月, 臣北行六鎭, 今年正月十三日, 回還<index num="0954501_0" sort="K" type="지명">吉州</index>。 <index num="0954502_0" sort="K" type="지명">端川</index>郡守<index num="0954503_0" ref="M_0000044" sort="K" type="이름">姜燦</index>, 親到軍中云: ‘<index num="0954504_0" sort="K" type="지명">端川</index>留賊, 恣意橫行。’ 欲分軍致討。 卽抄精騎二百分四隊, 一隊將訓鍊正<index num="0954505_0" sort="K" type="이름">具滉</index>, 二隊將訓鍊僉正<index num="0954506_0" sort="K" type="이름">朴銀柱</index>, 三隊將訓鍊判官<index num="0954507_0" ref="M_0054422" sort="K" type="이름">鄭元忱</index>, 四隊將訓鍊判官<index num="0954508_0" ref="M_0001046" sort="K" type="이름">高敬民</index>, 各率五十名, 本月二十日, 由山路, 二十二日到<index num="0954509_0" sort="K" type="지명">端川</index>。 翌朝, 四隊藏兵於城外二十里許, 使<index num="0954510_0" sort="K" type="지명">端川</index>軍三十名, 進次城外五里許挑戰, 城中留賊, 狃於屢勝, 略不顧忌, 二百餘名, 一時出城直進。 端軍佯敗還走之際, 疲馬二卒, 爲賊所殺, 賊尤乘勝遠追, 直至伏盧。 四隊伏兵, 一時突出, 或遮其前, 或截其腰, 或斷其後, 射矢如雨, 而<index num="0954511_0" sort="J" type="지명">倭</index>賊猝遇突騎, 倉黃失措, 多放銃筒, 皆爲虛放不中, 奔走無暇, 莫敢相抗。 追至城底, 幾盡射斬, 僅餘三十餘名, 太半中箭入城。 大槪殺賊之數, 小不下百餘名, 轉戰二十餘里云云。"</paragraph>
+          </content>
+        </text>
+      </level5>
+    

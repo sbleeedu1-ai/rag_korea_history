@@ -1,0 +1,24 @@
+{"qid": "HF01", "condition": "D2", "category": "사실(수치)", "verdict": "정답", "reason": "챗봇이 태실의 칸 수를 정확히 7칸이라고 답하였고, 이는 채점 기준과 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF02", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 태종이 주자소를 설치한 이유를 정확히 설명하였고, 잘못된 전제 없이 올바른 내용을 전달했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF03", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "김종서는 경원부를 소다로로 옮기자고 했고, 그 이유를 땅이 넓고 기름지며 동·서·북쪽이 모두 적의 길과 통하는 요해처라고 정확히 설명했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF04", "condition": "D2", "category": "사실", "verdict": "오답", "reason": "챗봇이 불경을 펴내려고 새로 만든 관청의 이름을 '규장각'으로 잘못 언급하였고, 간경도감에 대한 언급이 없어서 틀린 내용을 말함.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF05", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 연산군이 홍귀달의 말을 문제 삼은 이유를 정확히 설명하였고, '패역한 말'이라는 표현도 올바르게 인용하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF06", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 연산군이 이세좌의 죄를 불경죄로 언급한 내용을 정확히 전달하였고, 신하의 죄 중 불경보다 큰 것이 없다는 점도 올바르게 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF07", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 사건의 시작과 경과를 정확하게 설명하였고, 잘못된 전제를 바로잡아 옳은 내용을 전달했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF08", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "정문부가 기병 200명을 4대로 나누어 단천에 보낸 경과와 단천 군사가 왜적을 유인하여 복병으로 공격한 내용을 정확히 설명하고 있으며, 적의 사상자 수 또한 맞게 언급하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF09", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 비변사가 명나라 차관에게 요구한 내용을 정확히 전달하였고, 광해군의 반응도 올바르게 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF10", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 허적과 윤휴의 입장을 정확히 설명하고, 두 사람의 다툼이 있었음을 잘 전달했습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF11", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 영조의 발언을 정확하게 요약하였고, 핵심 내용을 잘 전달하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF12", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 영조의 발언을 정확히 요약하였고, 대동법 이후 공인들의 상황을 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF13", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇은 임업의 비판 내용을 정확히 전달하였고, 벼슬을 얻기 위한 조건과 뇌물의 문제를 올바르게 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HF14", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇의 답은 송시열이 권상하에게 남긴 말을 정확히 전달하고 있으며, 핵심 내용을 잘 반영하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT01", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 송시열이 국문을 받지 않았고, 제주에서 돌아오던 중 정읍현에서 사사하라는 교지를 받았다는 사실을 정확히 전달하였다. 또한 숙종의 판단에 대한 설명도 적절하다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT02", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇은 권대운이 인현왕후를 폐하는 데 찬성하지 않았음을 정확히 설명하고, 그의 차자의 내용을 올바르게 전달하며 숙종의 반응도 잘 언급했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT03", "condition": "D2", "category": "잘못된 전제", "verdict": "정답", "reason": "챗봇이 헌종이 이재학에게 내린 벌이 간삭의 법 시행임을 정확히 언급하고, 이재학의 탄핵 내용과 헌종의 반응을 올바르게 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HT04", "condition": "D2", "category": "잘못된 전제(다른 시대)", "verdict": "정답", "reason": "챗봇이 질문의 잘못된 전제를 바로잡고, 자료에 해당 내용이 없음을 정확히 언급하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN01", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 없음을 정확히 언급하며, 확인할 수 없다고 잘 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN02", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 없는 내용을 정확히 인지하고, 확인되지 않는다고 잘 답변하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN03", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 없음을 정확히 언급하며, 정선이나 진경산수화에 대한 내용이 없다고 잘 설명하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HN04", "condition": "D2", "category": "자료 없음", "verdict": "정답", "reason": "챗봇이 질문에 대해 자료에 내용이 없음을 정확히 언급하며, 모른다고 답변하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HP01", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "챗봇이 임진년의 일을 기록한 내용은 정확히 맞추었고, 권수에 대한 부분은 확인되지 않는다고 잘 지적하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "HP02", "condition": "D2", "category": "일부만 있음", "verdict": "정답", "reason": "비용에 대한 설명은 정확하고, 거중기와 만든 사람에 대한 부분은 기록에 없다고 잘 언급했다.", "judge_model": "gpt-4o-mini-2024-07-18"}

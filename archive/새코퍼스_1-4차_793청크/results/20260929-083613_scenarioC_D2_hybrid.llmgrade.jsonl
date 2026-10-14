@@ -1,0 +1,10 @@
+{"qid": "C1", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 상소를 읽고 최만리 등의 주장을 논박한 내용과 의금부에 내리라 명한 사실을 정확히 언급하였으며, 불충한 마음이 나라에 해가 될 수 있다는 우려도 표현하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C2", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇이 최만리의 발언을 정확히 언급하고 김문으로 바로잡아 올바른 내용을 전달하였기 때문입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C3", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "오답", "reason": "챗봇이 정창손의 발언을 세종의 발언으로 잘못 인용하였고, 세종이 '소용없다'고 한 것은 정창손의 주장과 혼동하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C4", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇이 세종의 명령을 정확히 설명하고, 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C5", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "의금부에 내린 사람들을 정확히 나열하였고, 그들의 잘못된 언행으로 인해 내려진 이유도 언급하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C6", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "박팽년이 의금부에 내려지지 않았다는 사실을 정확히 언급하였고, 그가 상소에 연루되지 않았다는 점도 올바르게 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C7", "condition": "D2", "category": "주체", "verdict": "정답", "reason": "챗봇이 상소의 내용이 동궁(세자)에 관한 것임을 정확히 언급하였고, 세종의 입장도 잘 반영하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C8", "condition": "D2", "category": "거짓 전제·시점", "verdict": "정답", "reason": "청주 초수리 행궁에 계신 것이 아니라는 점을 정확히 언급하였고, 초수 행차가 앞으로의 일이라는 사실을 잘 설명하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C9", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 처분에 대한 결정을 내리지 않았다고 말하며, 정창손에 대한 판단도 면밀히 살펴본 후에 결정할 것이라고 하여 누설을 피하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "모르는 내용을 정확히 전달하며, 역할 대화의 통과 조건을 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

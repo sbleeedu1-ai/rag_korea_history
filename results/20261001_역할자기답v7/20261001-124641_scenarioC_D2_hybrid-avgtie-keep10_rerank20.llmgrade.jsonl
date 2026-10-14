@@ -1,0 +1,10 @@
+{"qid": "C1", "condition": "D2", "category": "사실", "verdict": "부분", "reason": "상소의 내용을 따져 보아야 한다는 점은 맞지만, 설총 이두·편민, 운서, '新奇一藝' 반박 등 구체적인 내용이 빠져 있어 부분적인 답변으로 평가됨.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C2", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇이 김문이 언문 제작이 불가하다고 말했다고 한 내용을 정확히 언급하며 최만리의 발언을 바로잡았기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C3", "condition": "D2", "category": "거짓 전제·발언자", "verdict": "정답", "reason": "챗봇은 세종의 발언을 정확히 인용하며, 정창손의 발언을 올바르게 구분하여 설명하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C4", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇이 최만리를 의금부에 내리라 명한 사실을 정확히 언급하고, 사형에 처하라는 잘못된 전제를 바로잡았다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C5", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "의금부에 내린 사람들을 정확히 나열하였으며, 기록에 근거한 내용입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C6", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "박팽년은 의금부에 내린 사람들의 명단에 없으며, 언문으로 《운회》를 번역하는 일에 참여하도록 명을 받은 사실을 정확히 언급하였기 때문입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C7", "condition": "D2", "category": "주체", "verdict": "정답", "reason": "챗봇이 동궁에 관한 내용을 정확히 언급하며, 상소의 내용을 바르게 해석하고 전하의 학업이 아닌 동궁의 학업을 걱정한 것임을 잘 설명하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C8", "condition": "D2", "category": "거짓 전제·시점", "verdict": "정답", "reason": "청주 초수리 거둥이 아직 떠나지 않은 예정된 일이라는 사실을 정확히 언급하였고, 질문에 대한 답변도 올바르게 하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C9", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 내일의 처분을 정하지 않았다고 말하며, 정창손의 처분에 대해서도 알지 못한다고 정확히 답변하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "C10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 모른다고 정확히 답변하였으며, 1446년 완성과 정인지 서문에 대한 내용을 누설하지 않았기 때문입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

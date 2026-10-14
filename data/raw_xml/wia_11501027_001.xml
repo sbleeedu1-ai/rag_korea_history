@@ -1,0 +1,35 @@
+<level5 id="wia_11501027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>직전·사사전·공신전 등에 대한 조세를 논의하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1484-01-27L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">成宗實錄 24책 162권</mainTitle>
+              <page begin="13장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">成宗實錄 10책</mainTitle>
+              <page begin="562면" />
+            </source>
+            <subjectClass>재정-전세(田稅)</subjectClass>
+            <subjectClass>재정-국용(國用)</subjectClass>
+            <subjectClass>농업-전제(田制)</subjectClass>
+            <subjectClass>농업-농작(農作)</subjectClass>
+            <subjectClass>군사-병참(兵站)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○乙卯/戶曹啓: "軍資、國用不敷, 限周足, 職田及先王陵寢所在水陸位田、<index num="0490499_0" sort="K" type="지명">圓覺寺</index>兩宗外寺社田全收, 功臣田、別賜田半收爲便。 然去年之稅, 已受者多, 還徵爲難。 自今年, 始收何如?" 命議于領敦寧以上。 <index num="0490500_0" ref="M_0006441" sort="K" type="이름">韓明澮</index>、<index num="0490501_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>、<index num="0490502_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>議: "依所啓何如?" 傳曰: "近來連年凶歉, 重以天使再來, 且有國恤, 廩用頗憂匱竭, 不得已有此擧, 然未安於心。 待今秋, 觀豐歉, 施行何如? 儲蓄, 雖國家長遠之計, 但寺社田, 先王所賜, 今若革之, 還復無期。 其更議之。" <index id="p17_000042_00" num="0490503_0" ref="M_0005922" sort="K" type="이름">鄭昌孫</index>、<index num="0490504_0" ref="M_0006441" sort="K" type="이름">韓明澮</index>、<index num="0490505_0" ref="M_0058896" sort="K" type="이름">沈澮</index>、<index num="0490506_0" ref="M_0003959" sort="K" type="이름">尹弼商</index>、<index num="0490507_0" ref="M_0002221" sort="K" type="이름">盧思愼</index>、<index num="0490508_0" ref="M_0004163" sort="K" type="이름">李克培</index>、<index num="0490509_0" ref="M_0000410" sort="K" type="이름">尹壕</index>議: "誠如上敎。" <index id="p16_000099_00" num="0490510_0" ref="M_0061186" sort="K" type="이름">洪應</index>議: "近來國用頗煩, 將有不足之歎, 不可不預圖。 然時不至空乏, 如臣等厚祿者, 固無所恨, 如舊功臣子孫之孤寡者, 先王陵廟所在寺社, 一朝遽收之, 則頗有失望。 待數年, 視歲之豊歉、國之調度, 漸次爲之, 則人情不駭, 事體得宜。" 御書曰:</paragraph>
+            <paragraph align="center">
+              <quotation>姑停此事, 觀今年農事更啓。</quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      

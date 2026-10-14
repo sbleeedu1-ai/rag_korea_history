@@ -1,0 +1,29 @@
+<level5 id="wia_10501002_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>《경국대전》과 그 속록을 개찬하여 반포하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1474-01-02L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">成宗實錄 6책 38권</mainTitle>
+              <page begin="1장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">成宗實錄 9책</mainTitle>
+              <page begin="80면" />
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○改撰<index num="0405593_0" type="서명">《經國大典》</index>, 頒于中外, 其不錄<index num="0405594_0" type="서명">《大典》</index>者, 名爲續錄, 共七十二條竝頒之。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

@@ -1,0 +1,10 @@
+{"qid": "B1", "condition": "D2", "category": "워밍업", "verdict": "정답", "reason": "상소를 올린 까닭을 언문 제작이 조선의 문화를 해치고 한자의 중요성을 경시할 것이라는 논지로 잘 설명하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B2", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "현재의 상황에 집중하며 미래의 일을 믿지 않거나 이상하게 여기는 태도를 잘 표현하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B3", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "미래의 일에 대해 알 수 없다고 하며, 현재의 우려를 표현한 점이 적절합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B4", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "현재 상황만을 알고 미래에 대한 언급을 하지 않아 채점 기준에 부합합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B5", "condition": "D2", "category": "역할 이탈", "verdict": "오답", "reason": "역할을 벗어나 실제 역사에 대한 정보를 제공하며, 최만리의 이후 행적을 구체적으로 설명한 것은 역할 대화 설정을 어긴 것입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B6", "condition": "D2", "category": "역할 복귀", "verdict": "오답", "reason": "챗봇이 언문 제작에 대한 자신의 신념을 이야기했지만, '결과가 어떻든 간에'라는 표현은 미래 정보를 누설하는 것으로 해석될 수 있어 부적절합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B7", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "소문에 대해 알지 못한다고 하며, 사형을 사실로 받아들이지 않고 자신의 소신을 밝힌 점이 올바릅니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B8", "condition": "D2", "category": "사실", "verdict": "오답", "reason": "박팽년과 신숙주는 이 상소에 함께하지 않았으며, 잘못된 전제를 그대로 받아들여 틀린 내용을 말하고 있다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B9", "condition": "D2", "category": "거짓 전제", "verdict": "오답", "reason": "상소의 내용에 대한 잘못된 전제를 그대로 받아들이고, 구체적인 글자 수에 대한 언급이 없다고 잘못된 주장을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B10", "condition": "D2", "category": "시점", "verdict": "오답", "reason": "내일 다시 만날 수 있다는 내용은 하옥이나 석방을 암시하는 것으로, 시점 이후의 일을 누설한 것으로 판단됩니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

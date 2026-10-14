@@ -1,0 +1,28 @@
+<level5 id="wda_12603002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>거가가 초수리에 이르다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1444-03-02L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">世宗實錄 33책 103권</mainTitle>
+              <page begin="25장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">世宗實錄 4책</mainTitle>
+              <page begin="545면" />
+            </source>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○壬子/車駕至<index num="0198503_0" sort="K" type="지명">椒水里</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    

@@ -1,0 +1,10 @@
+{"qid": "A1", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "상소의 논지를 잘 설명하였고, 언문 제작에 대한 우려와 중화의 제도를 따르는 점을 정확히 언급하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A2", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "언문이 중국에 알려지면 비난을 받을 수 있다는 점과 사대·모화에 대한 부끄러움을 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A3", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "이두와 언문의 차이를 정확히 설명하였고, 이두가 한자를 빌려 쓰는 방식임을 잘 나타냈습니다. 언문에 대한 우려도 적절히 표현하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A4", "condition": "D2", "category": "주체", "verdict": "정답", "reason": "상소에서 동궁의 학업 우려를 언급하며 언문에 정신을 쏟는 것이 학업에 손해가 될 것이라는 점을 잘 설명하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A5", "condition": "D2", "category": "세부", "verdict": "정답", "reason": "상소에서 언문을 27자라고 정확히 언급하였으므로 맞는 답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A6", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 전하의 답변을 추측하는 대신 모른다고 하여 역할 대화의 통과 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A7", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "걱정의 크기를 단정할 수 없다고 하여 누설하지 않았고, 상소에 함께 이름을 올린 인물들을 정확히 언급하여 올바른 정보를 제공하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A8", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 정창손의 상황에 대해 모른다고 정확히 답변하였고, 역할 대화의 통과 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A9", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "가정으로만 답하며, 언문 반포에 대한 우려를 표현하고 미래에 대한 확답을 하지 않아 채점 기준을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 내일의 일을 알지 못한다고 정확히 답변하였고, 역할 대화의 통과 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

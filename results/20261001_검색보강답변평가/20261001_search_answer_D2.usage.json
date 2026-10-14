@@ -1,0 +1,4703 @@
+{
+  "budget_usd": 0.5,
+  "calculated_or_reserved_usd": 0.28046938,
+  "blocked": false,
+  "events": [
+    {
+      "model": "text-embedding-3-large",
+      "reserved_usd": 0.0016932500000000003,
+      "status": "성공",
+      "input_tokens": 1811,
+      "output_tokens": 0,
+      "calculated_usd": 0.00023543000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066271,
+      "status": "성공",
+      "input_tokens": 5038,
+      "output_tokens": 302,
+      "calculated_usd": 0.0006548
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06461875,
+      "status": "성공",
+      "input_tokens": 1297,
+      "output_tokens": 126,
+      "calculated_usd": 0.00019270000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0674075,
+      "status": "성공",
+      "input_tokens": 7575,
+      "output_tokens": 38,
+      "calculated_usd": 0.0007765
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064577625,
+      "status": "성공",
+      "input_tokens": 1151,
+      "output_tokens": 35,
+      "calculated_usd": 0.00013260000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065974625,
+      "status": "성공",
+      "input_tokens": 4600,
+      "output_tokens": 292,
+      "calculated_usd": 0.000606
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0646275,
+      "status": "성공",
+      "input_tokens": 1290,
+      "output_tokens": 79,
+      "calculated_usd": 0.0001685
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066555875,
+      "status": "성공",
+      "input_tokens": 5987,
+      "output_tokens": 50,
+      "calculated_usd": 0.0006237
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064536625,
+      "status": "성공",
+      "input_tokens": 1105,
+      "output_tokens": 58,
+      "calculated_usd": 0.0001395
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0680125,
+      "status": "성공",
+      "input_tokens": 9142,
+      "output_tokens": 43,
+      "calculated_usd": 0.0009357
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064964125,
+      "status": "성공",
+      "input_tokens": 2015,
+      "output_tokens": 50,
+      "calculated_usd": 0.0002265
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0663865,
+      "status": "성공",
+      "input_tokens": 5526,
+      "output_tokens": 54,
+      "calculated_usd": 0.0005796
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064699625,
+      "status": "성공",
+      "input_tokens": 1539,
+      "output_tokens": 36,
+      "calculated_usd": 0.0001719
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068080125,
+      "status": "성공",
+      "input_tokens": 9258,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009508
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065031625,
+      "status": "성공",
+      "input_tokens": 2161,
+      "output_tokens": 65,
+      "calculated_usd": 0.0002486
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06985175,
+      "status": "성공",
+      "input_tokens": 13781,
+      "output_tokens": 50,
+      "calculated_usd": 0.0014031000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065104125,
+      "status": "성공",
+      "input_tokens": 2530,
+      "output_tokens": 340,
+      "calculated_usd": 0.000423
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06696225,
+      "status": "성공",
+      "input_tokens": 6902,
+      "output_tokens": 20,
+      "calculated_usd": 0.0007002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064479375,
+      "status": "성공",
+      "input_tokens": 975,
+      "output_tokens": 38,
+      "calculated_usd": 0.0001165
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066717875,
+      "status": "성공",
+      "input_tokens": 6410,
+      "output_tokens": 54,
+      "calculated_usd": 0.000668
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0646415,
+      "status": "성공",
+      "input_tokens": 1350,
+      "output_tokens": 31,
+      "calculated_usd": 0.0001505
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068359875,
+      "status": "성공",
+      "input_tokens": 9933,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010203
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0646685,
+      "status": "성공",
+      "input_tokens": 1485,
+      "output_tokens": 70,
+      "calculated_usd": 0.0001835
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067625,
+      "status": "성공",
+      "input_tokens": 8476,
+      "output_tokens": 314,
+      "calculated_usd": 0.0010046
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064616875,
+      "status": "성공",
+      "input_tokens": 1301,
+      "output_tokens": 44,
+      "calculated_usd": 0.00015209999999999998
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067910625,
+      "status": "성공",
+      "input_tokens": 9052,
+      "output_tokens": 54,
+      "calculated_usd": 0.0009322
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0650685,
+      "status": "성공",
+      "input_tokens": 2330,
+      "output_tokens": 59,
+      "calculated_usd": 0.0002625
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06612225,
+      "status": "성공",
+      "input_tokens": 4769,
+      "output_tokens": 54,
+      "calculated_usd": 0.0005039
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064651375,
+      "status": "성공",
+      "input_tokens": 1349,
+      "output_tokens": 92,
+      "calculated_usd": 0.0001809
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066320375,
+      "status": "성공",
+      "input_tokens": 5323,
+      "output_tokens": 54,
+      "calculated_usd": 0.0005593000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06473475,
+      "status": "성공",
+      "input_tokens": 1518,
+      "output_tokens": 83,
+      "calculated_usd": 0.0001933
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068116375,
+      "status": "성공",
+      "input_tokens": 9390,
+      "output_tokens": 21,
+      "calculated_usd": 0.0009495
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064913,
+      "status": "성공",
+      "input_tokens": 1920,
+      "output_tokens": 46,
+      "calculated_usd": 0.000215
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068404,
+      "status": "성공",
+      "input_tokens": 9884,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010154
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06480175,
+      "status": "성공",
+      "input_tokens": 1758,
+      "output_tokens": 62,
+      "calculated_usd": 0.0002068
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066934,
+      "status": "성공",
+      "input_tokens": 6902,
+      "output_tokens": 54,
+      "calculated_usd": 0.0007172000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0645775,
+      "status": "성공",
+      "input_tokens": 1223,
+      "output_tokens": 48,
+      "calculated_usd": 0.0001463
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0659075,
+      "status": "성공",
+      "input_tokens": 4281,
+      "output_tokens": 54,
+      "calculated_usd": 0.0004551
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064593625,
+      "status": "성공",
+      "input_tokens": 1236,
+      "output_tokens": 53,
+      "calculated_usd": 0.00015010000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06902125,
+      "status": "성공",
+      "input_tokens": 11523,
+      "output_tokens": 54,
+      "calculated_usd": 0.0011792999999999999
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064699875,
+      "status": "성공",
+      "input_tokens": 1476,
+      "output_tokens": 58,
+      "calculated_usd": 0.00017659999999999998
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06722475,
+      "status": "성공",
+      "input_tokens": 7333,
+      "output_tokens": 54,
+      "calculated_usd": 0.0007603000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064768625,
+      "status": "성공",
+      "input_tokens": 1539,
+      "output_tokens": 58,
+      "calculated_usd": 0.0001829
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06674925,
+      "status": "성공",
+      "input_tokens": 6217,
+      "output_tokens": 54,
+      "calculated_usd": 0.0006487
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06458875,
+      "status": "성공",
+      "input_tokens": 1206,
+      "output_tokens": 47,
+      "calculated_usd": 0.00014410000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068847125,
+      "status": "성공",
+      "input_tokens": 10929,
+      "output_tokens": 54,
+      "calculated_usd": 0.0011199
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064680125,
+      "status": "성공",
+      "input_tokens": 1411,
+      "output_tokens": 168,
+      "calculated_usd": 0.0002251
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067570625,
+      "status": "성공",
+      "input_tokens": 7962,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008232000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064877375,
+      "status": "성공",
+      "input_tokens": 1797,
+      "output_tokens": 76,
+      "calculated_usd": 0.0002177
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068728125,
+      "status": "성공",
+      "input_tokens": 10496,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010766
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06512175,
+      "status": "성공",
+      "input_tokens": 2345,
+      "output_tokens": 93,
+      "calculated_usd": 0.000281
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067388125,
+      "status": "성공",
+      "input_tokens": 7818,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008088
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06479475,
+      "status": "성공",
+      "input_tokens": 1630,
+      "output_tokens": 166,
+      "calculated_usd": 0.000246
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067774125,
+      "status": "성공",
+      "input_tokens": 8622,
+      "output_tokens": 53,
+      "calculated_usd": 0.0008887000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065248,
+      "status": "성공",
+      "input_tokens": 2699,
+      "output_tokens": 76,
+      "calculated_usd": 0.00030790000000000006
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0671785,
+      "status": "성공",
+      "input_tokens": 7111,
+      "output_tokens": 54,
+      "calculated_usd": 0.0007381
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064677375,
+      "status": "성공",
+      "input_tokens": 1437,
+      "output_tokens": 50,
+      "calculated_usd": 0.0001687
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066451625,
+      "status": "성공",
+      "input_tokens": 5475,
+      "output_tokens": 324,
+      "calculated_usd": 0.0007095
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06445825,
+      "status": "성공",
+      "input_tokens": 935,
+      "output_tokens": 88,
+      "calculated_usd": 0.0001375
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06874975,
+      "status": "성공",
+      "input_tokens": 10923,
+      "output_tokens": 542,
+      "calculated_usd": 0.0013633
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064909875,
+      "status": "성공",
+      "input_tokens": 1987,
+      "output_tokens": 138,
+      "calculated_usd": 0.00026770000000000006
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0684535,
+      "status": "성공",
+      "input_tokens": 10028,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010298000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06516925,
+      "status": "성공",
+      "input_tokens": 2543,
+      "output_tokens": 166,
+      "calculated_usd": 0.0003373
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067369625,
+      "status": "성공",
+      "input_tokens": 7583,
+      "output_tokens": 54,
+      "calculated_usd": 0.0007853000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064525,
+      "status": "성공",
+      "input_tokens": 1028,
+      "output_tokens": 198,
+      "calculated_usd": 0.0002018
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066817,
+      "status": "성공",
+      "input_tokens": 6492,
+      "output_tokens": 426,
+      "calculated_usd": 0.0008622
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064751625,
+      "status": "성공",
+      "input_tokens": 1581,
+      "output_tokens": 66,
+      "calculated_usd": 0.0001911
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067302375,
+      "status": "성공",
+      "input_tokens": 7534,
+      "output_tokens": 317,
+      "calculated_usd": 0.0009119000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064676625,
+      "status": "성공",
+      "input_tokens": 1419,
+      "output_tokens": 99,
+      "calculated_usd": 0.00019140000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067976,
+      "status": "성공",
+      "input_tokens": 9039,
+      "output_tokens": 11,
+      "calculated_usd": 0.0009094000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064622625,
+      "status": "성공",
+      "input_tokens": 1295,
+      "output_tokens": 171,
+      "calculated_usd": 0.000215
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.069495625,
+      "status": "성공",
+      "input_tokens": 12770,
+      "output_tokens": 51,
+      "calculated_usd": 0.0013025
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06533725,
+      "status": "성공",
+      "input_tokens": 2992,
+      "output_tokens": 301,
+      "calculated_usd": 0.0004497
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067713125,
+      "status": "성공",
+      "input_tokens": 8422,
+      "output_tokens": 11,
+      "calculated_usd": 0.0008477000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06458725,
+      "status": "성공",
+      "input_tokens": 1228,
+      "output_tokens": 238,
+      "calculated_usd": 0.00024180000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0671945,
+      "status": "성공",
+      "input_tokens": 7247,
+      "output_tokens": 11,
+      "calculated_usd": 0.0007302000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06500075,
+      "status": "성공",
+      "input_tokens": 2108,
+      "output_tokens": 80,
+      "calculated_usd": 0.0002508
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067575125,
+      "status": "성공",
+      "input_tokens": 8140,
+      "output_tokens": 423,
+      "calculated_usd": 0.0010255
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0647775,
+      "status": "성공",
+      "input_tokens": 1678,
+      "output_tokens": 209,
+      "calculated_usd": 0.0002723
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068461875,
+      "status": "성공",
+      "input_tokens": 10068,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010338
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064902125,
+      "status": "성공",
+      "input_tokens": 1863,
+      "output_tokens": 367,
+      "calculated_usd": 0.0003698
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0672055,
+      "status": "성공",
+      "input_tokens": 7370,
+      "output_tokens": 21,
+      "calculated_usd": 0.0007475
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064688125,
+      "status": "성공",
+      "input_tokens": 1457,
+      "output_tokens": 115,
+      "calculated_usd": 0.0002032
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06715225,
+      "status": "성공",
+      "input_tokens": 7300,
+      "output_tokens": 54,
+      "calculated_usd": 0.000757
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064582,
+      "status": "성공",
+      "input_tokens": 1215,
+      "output_tokens": 172,
+      "calculated_usd": 0.0002075
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067738125,
+      "status": "성공",
+      "input_tokens": 8554,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008824000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064739875,
+      "status": "성공",
+      "input_tokens": 1552,
+      "output_tokens": 58,
+      "calculated_usd": 0.0001842
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066744,
+      "status": "성공",
+      "input_tokens": 6521,
+      "output_tokens": 54,
+      "calculated_usd": 0.0006791
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064434875,
+      "status": "성공",
+      "input_tokens": 874,
+      "output_tokens": 39,
+      "calculated_usd": 0.00010690000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067187875,
+      "status": "성공",
+      "input_tokens": 7133,
+      "output_tokens": 291,
+      "calculated_usd": 0.0008588000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065017375,
+      "status": "성공",
+      "input_tokens": 2047,
+      "output_tokens": 119,
+      "calculated_usd": 0.0002642
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067498875,
+      "status": "성공",
+      "input_tokens": 8073,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008343000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06472275,
+      "status": "성공",
+      "input_tokens": 1523,
+      "output_tokens": 122,
+      "calculated_usd": 0.0002133
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0682475,
+      "status": "성공",
+      "input_tokens": 9900,
+      "output_tokens": 20,
+      "calculated_usd": 0.001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064731,
+      "status": "성공",
+      "input_tokens": 1536,
+      "output_tokens": 78,
+      "calculated_usd": 0.00019260000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06694775,
+      "status": "성공",
+      "input_tokens": 6726,
+      "output_tokens": 21,
+      "calculated_usd": 0.0006831000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0646595,
+      "status": "성공",
+      "input_tokens": 1339,
+      "output_tokens": 49,
+      "calculated_usd": 0.0001584
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06779275,
+      "status": "성공",
+      "input_tokens": 8601,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008871
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064828875,
+      "status": "성공",
+      "input_tokens": 1807,
+      "output_tokens": 132,
+      "calculated_usd": 0.00024670000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0664425,
+      "status": "성공",
+      "input_tokens": 5550,
+      "output_tokens": 54,
+      "calculated_usd": 0.000582
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064601375,
+      "status": "성공",
+      "input_tokens": 1265,
+      "output_tokens": 42,
+      "calculated_usd": 0.0001475
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0684275,
+      "status": "성공",
+      "input_tokens": 10078,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010348000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064539375,
+      "status": "성공",
+      "input_tokens": 1104,
+      "output_tokens": 54,
+      "calculated_usd": 0.0001374
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0676945,
+      "status": "성공",
+      "input_tokens": 8272,
+      "output_tokens": 21,
+      "calculated_usd": 0.0008377
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064824875,
+      "status": "성공",
+      "input_tokens": 1718,
+      "output_tokens": 131,
+      "calculated_usd": 0.00023730000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06939625,
+      "status": "성공",
+      "input_tokens": 12183,
+      "output_tokens": 20,
+      "calculated_usd": 0.0012282999999999999
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065126125,
+      "status": "성공",
+      "input_tokens": 2384,
+      "output_tokens": 165,
+      "calculated_usd": 0.0003209
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066818875,
+      "status": "성공",
+      "input_tokens": 6693,
+      "output_tokens": 54,
+      "calculated_usd": 0.0006963000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06464175,
+      "status": "성공",
+      "input_tokens": 1316,
+      "output_tokens": 37,
+      "calculated_usd": 0.0001501
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06797325,
+      "status": "성공",
+      "input_tokens": 9104,
+      "output_tokens": 54,
+      "calculated_usd": 0.0009374000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064918,
+      "status": "성공",
+      "input_tokens": 2012,
+      "output_tokens": 145,
+      "calculated_usd": 0.00027370000000000004
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.069547625,
+      "status": "성공",
+      "input_tokens": 12805,
+      "output_tokens": 316,
+      "calculated_usd": 0.0014385
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065343,
+      "status": "성공",
+      "input_tokens": 2941,
+      "output_tokens": 363,
+      "calculated_usd": 0.0004756
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067401875,
+      "status": "성공",
+      "input_tokens": 7887,
+      "output_tokens": 51,
+      "calculated_usd": 0.0008142000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0647365,
+      "status": "성공",
+      "input_tokens": 1534,
+      "output_tokens": 37,
+      "calculated_usd": 0.0001719
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06749675,
+      "status": "성공",
+      "input_tokens": 8101,
+      "output_tokens": 44,
+      "calculated_usd": 0.0008321
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064461625,
+      "status": "성공",
+      "input_tokens": 938,
+      "output_tokens": 62,
+      "calculated_usd": 0.00012480000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0679185,
+      "status": "성공",
+      "input_tokens": 8967,
+      "output_tokens": 20,
+      "calculated_usd": 0.0009067000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064854375,
+      "status": "성공",
+      "input_tokens": 1828,
+      "output_tokens": 52,
+      "calculated_usd": 0.0002088
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068142875,
+      "status": "성공",
+      "input_tokens": 9473,
+      "output_tokens": 230,
+      "calculated_usd": 0.0010623000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065017,
+      "status": "성공",
+      "input_tokens": 2163,
+      "output_tokens": 67,
+      "calculated_usd": 0.0002498
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068647625,
+      "status": "성공",
+      "input_tokens": 10580,
+      "output_tokens": 11,
+      "calculated_usd": 0.0010635
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064676375,
+      "status": "성공",
+      "input_tokens": 1395,
+      "output_tokens": 189,
+      "calculated_usd": 0.000234
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06787275,
+      "status": "성공",
+      "input_tokens": 8792,
+      "output_tokens": 332,
+      "calculated_usd": 0.0010452
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064769875,
+      "status": "성공",
+      "input_tokens": 1590,
+      "output_tokens": 127,
+      "calculated_usd": 0.0002225
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068315,
+      "status": "성공",
+      "input_tokens": 9891,
+      "output_tokens": 492,
+      "calculated_usd": 0.0012350999999999998
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064770875,
+      "status": "성공",
+      "input_tokens": 1612,
+      "output_tokens": 347,
+      "calculated_usd": 0.00033470000000000006
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06757425,
+      "status": "성공",
+      "input_tokens": 8154,
+      "output_tokens": 11,
+      "calculated_usd": 0.0008209000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0645305,
+      "status": "성공",
+      "input_tokens": 1082,
+      "output_tokens": 83,
+      "calculated_usd": 0.00014969999999999998
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06683475,
+      "status": "성공",
+      "input_tokens": 6611,
+      "output_tokens": 354,
+      "calculated_usd": 0.0008381
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0647985,
+      "status": "성공",
+      "input_tokens": 1742,
+      "output_tokens": 130,
+      "calculated_usd": 0.00023920000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066800375,
+      "status": "성공",
+      "input_tokens": 6329,
+      "output_tokens": 444,
+      "calculated_usd": 0.0008549000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064790625,
+      "status": "성공",
+      "input_tokens": 1634,
+      "output_tokens": 216,
+      "calculated_usd": 0.0002714
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067194375,
+      "status": "성공",
+      "input_tokens": 7150,
+      "output_tokens": 422,
+      "calculated_usd": 0.000926
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064498625,
+      "status": "성공",
+      "input_tokens": 1033,
+      "output_tokens": 154,
+      "calculated_usd": 0.00018030000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06652675,
+      "status": "성공",
+      "input_tokens": 6148,
+      "output_tokens": 327,
+      "calculated_usd": 0.0007783000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064583875,
+      "status": "성공",
+      "input_tokens": 1366,
+      "output_tokens": 42,
+      "calculated_usd": 0.00015759999999999998
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0666935,
+      "status": "성공",
+      "input_tokens": 6192,
+      "output_tokens": 570,
+      "calculated_usd": 0.0009042000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064555,
+      "status": "성공",
+      "input_tokens": 1161,
+      "output_tokens": 50,
+      "calculated_usd": 0.00014110000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067853,
+      "status": "성공",
+      "input_tokens": 8911,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009161
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06502075,
+      "status": "성공",
+      "input_tokens": 2316,
+      "output_tokens": 105,
+      "calculated_usd": 0.0002841
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067962125,
+      "status": "성공",
+      "input_tokens": 9139,
+      "output_tokens": 472,
+      "calculated_usd": 0.0011499000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064658875,
+      "status": "성공",
+      "input_tokens": 1375,
+      "output_tokens": 169,
+      "calculated_usd": 0.000222
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06610725,
+      "status": "성공",
+      "input_tokens": 4801,
+      "output_tokens": 54,
+      "calculated_usd": 0.0005071
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064721875,
+      "status": "성공",
+      "input_tokens": 1479,
+      "output_tokens": 84,
+      "calculated_usd": 0.0001899
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066451625,
+      "status": "성공",
+      "input_tokens": 5618,
+      "output_tokens": 251,
+      "calculated_usd": 0.0006873000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06483825,
+      "status": "성공",
+      "input_tokens": 1742,
+      "output_tokens": 86,
+      "calculated_usd": 0.00021720000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067784875,
+      "status": "성공",
+      "input_tokens": 8620,
+      "output_tokens": 54,
+      "calculated_usd": 0.000889
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064513375,
+      "status": "성공",
+      "input_tokens": 1058,
+      "output_tokens": 305,
+      "calculated_usd": 0.0002583
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067786,
+      "status": "성공",
+      "input_tokens": 8877,
+      "output_tokens": 21,
+      "calculated_usd": 0.0008982
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064704375,
+      "status": "성공",
+      "input_tokens": 1560,
+      "output_tokens": 128,
+      "calculated_usd": 0.00022
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067717,
+      "status": "성공",
+      "input_tokens": 8349,
+      "output_tokens": 32,
+      "calculated_usd": 0.0008509000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06497025,
+      "status": "성공",
+      "input_tokens": 1963,
+      "output_tokens": 144,
+      "calculated_usd": 0.0002683
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0680845,
+      "status": "성공",
+      "input_tokens": 9022,
+      "output_tokens": 54,
+      "calculated_usd": 0.0009292
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064838125,
+      "status": "성공",
+      "input_tokens": 1718,
+      "output_tokens": 129,
+      "calculated_usd": 0.00023630000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067595625,
+      "status": "성공",
+      "input_tokens": 8125,
+      "output_tokens": 314,
+      "calculated_usd": 0.0009695
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0646365,
+      "status": "성공",
+      "input_tokens": 1280,
+      "output_tokens": 74,
+      "calculated_usd": 0.000165
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0676795,
+      "status": "성공",
+      "input_tokens": 8280,
+      "output_tokens": 54,
+      "calculated_usd": 0.000855
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0649275,
+      "status": "성공",
+      "input_tokens": 1971,
+      "output_tokens": 97,
+      "calculated_usd": 0.0002456
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068654,
+      "status": "성공",
+      "input_tokens": 10453,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010723
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06515775,
+      "status": "성공",
+      "input_tokens": 2532,
+      "output_tokens": 107,
+      "calculated_usd": 0.00030670000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0664415,
+      "status": "성공",
+      "input_tokens": 5569,
+      "output_tokens": 54,
+      "calculated_usd": 0.0005838999999999999
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064748625,
+      "status": "성공",
+      "input_tokens": 1595,
+      "output_tokens": 96,
+      "calculated_usd": 0.0002075
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06695675,
+      "status": "성공",
+      "input_tokens": 6752,
+      "output_tokens": 54,
+      "calculated_usd": 0.0007022
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06465475,
+      "status": "성공",
+      "input_tokens": 1364,
+      "output_tokens": 253,
+      "calculated_usd": 0.0002629
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066556,
+      "status": "성공",
+      "input_tokens": 5826,
+      "output_tokens": 423,
+      "calculated_usd": 0.0007941000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064514,
+      "status": "성공",
+      "input_tokens": 1026,
+      "output_tokens": 139,
+      "calculated_usd": 0.00017210000000000004
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06737425,
+      "status": "성공",
+      "input_tokens": 7770,
+      "output_tokens": 54,
+      "calculated_usd": 0.000804
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065012625,
+      "status": "성공",
+      "input_tokens": 2157,
+      "output_tokens": 134,
+      "calculated_usd": 0.00028270000000000004
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068564625,
+      "status": "성공",
+      "input_tokens": 10210,
+      "output_tokens": 11,
+      "calculated_usd": 0.0010265
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065022625,
+      "status": "성공",
+      "input_tokens": 2117,
+      "output_tokens": 156,
+      "calculated_usd": 0.00028970000000000005
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068374375,
+      "status": "성공",
+      "input_tokens": 10150,
+      "output_tokens": 11,
+      "calculated_usd": 0.0010205
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065065875,
+      "status": "성공",
+      "input_tokens": 2323,
+      "output_tokens": 55,
+      "calculated_usd": 0.0002598
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068017875,
+      "status": "성공",
+      "input_tokens": 9152,
+      "output_tokens": 408,
+      "calculated_usd": 0.0011192
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06483225,
+      "status": "성공",
+      "input_tokens": 1792,
+      "output_tokens": 229,
+      "calculated_usd": 0.00029370000000000004
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067701125,
+      "status": "성공",
+      "input_tokens": 8288,
+      "output_tokens": 11,
+      "calculated_usd": 0.0008343000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064821625,
+      "status": "성공",
+      "input_tokens": 1758,
+      "output_tokens": 104,
+      "calculated_usd": 0.0002278
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066907875,
+      "status": "성공",
+      "input_tokens": 6455,
+      "output_tokens": 11,
+      "calculated_usd": 0.000651
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065033125,
+      "status": "성공",
+      "input_tokens": 2181,
+      "output_tokens": 33,
+      "calculated_usd": 0.0002346
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068211375,
+      "status": "성공",
+      "input_tokens": 9742,
+      "output_tokens": 53,
+      "calculated_usd": 0.0010007
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064936125,
+      "status": "성공",
+      "input_tokens": 2045,
+      "output_tokens": 71,
+      "calculated_usd": 0.00024
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068096,
+      "status": "성공",
+      "input_tokens": 9272,
+      "output_tokens": 21,
+      "calculated_usd": 0.0009377000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064715625,
+      "status": "성공",
+      "input_tokens": 1546,
+      "output_tokens": 83,
+      "calculated_usd": 0.00019610000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0678395,
+      "status": "성공",
+      "input_tokens": 9033,
+      "output_tokens": 328,
+      "calculated_usd": 0.0010673000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0649985,
+      "status": "성공",
+      "input_tokens": 2370,
+      "output_tokens": 197,
+      "calculated_usd": 0.0003355
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0667615,
+      "status": "성공",
+      "input_tokens": 6312,
+      "output_tokens": 53,
+      "calculated_usd": 0.0006577
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064460375,
+      "status": "성공",
+      "input_tokens": 941,
+      "output_tokens": 133,
+      "calculated_usd": 0.00016060000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067186125,
+      "status": "성공",
+      "input_tokens": 7474,
+      "output_tokens": 50,
+      "calculated_usd": 0.0007724000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06514,
+      "status": "성공",
+      "input_tokens": 2599,
+      "output_tokens": 70,
+      "calculated_usd": 0.0002949
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068149375,
+      "status": "성공",
+      "input_tokens": 9565,
+      "output_tokens": 450,
+      "calculated_usd": 0.0011815
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065034625,
+      "status": "성공",
+      "input_tokens": 2195,
+      "output_tokens": 94,
+      "calculated_usd": 0.0002665
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.069284375,
+      "status": "성공",
+      "input_tokens": 11769,
+      "output_tokens": 54,
+      "calculated_usd": 0.0012039000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064809,
+      "status": "성공",
+      "input_tokens": 1677,
+      "output_tokens": 180,
+      "calculated_usd": 0.00025770000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06744025,
+      "status": "성공",
+      "input_tokens": 7807,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008077000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0648815,
+      "status": "성공",
+      "input_tokens": 1863,
+      "output_tokens": 102,
+      "calculated_usd": 0.00023730000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066830625,
+      "status": "성공",
+      "input_tokens": 6435,
+      "output_tokens": 54,
+      "calculated_usd": 0.0006705
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064514,
+      "status": "성공",
+      "input_tokens": 1058,
+      "output_tokens": 287,
+      "calculated_usd": 0.0002493
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06805225,
+      "status": "성공",
+      "input_tokens": 9341,
+      "output_tokens": 54,
+      "calculated_usd": 0.0009611
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0647505,
+      "status": "성공",
+      "input_tokens": 1665,
+      "output_tokens": 177,
+      "calculated_usd": 0.000255
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06788725,
+      "status": "성공",
+      "input_tokens": 8887,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009137
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064904625,
+      "status": "성공",
+      "input_tokens": 1846,
+      "output_tokens": 152,
+      "calculated_usd": 0.00026060000000000005
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067576875,
+      "status": "성공",
+      "input_tokens": 7981,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008251
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064835625,
+      "status": "성공",
+      "input_tokens": 1715,
+      "output_tokens": 123,
+      "calculated_usd": 0.000233
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06759675,
+      "status": "성공",
+      "input_tokens": 8063,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008333
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064632375,
+      "status": "성공",
+      "input_tokens": 1276,
+      "output_tokens": 76,
+      "calculated_usd": 0.00016560000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0689625,
+      "status": "성공",
+      "input_tokens": 11009,
+      "output_tokens": 54,
+      "calculated_usd": 0.0011279
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06504625,
+      "status": "성공",
+      "input_tokens": 2245,
+      "output_tokens": 139,
+      "calculated_usd": 0.000294
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.069483375,
+      "status": "성공",
+      "input_tokens": 12291,
+      "output_tokens": 439,
+      "calculated_usd": 0.0014486000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06510625,
+      "status": "성공",
+      "input_tokens": 2337,
+      "output_tokens": 110,
+      "calculated_usd": 0.0002887
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0666975,
+      "status": "성공",
+      "input_tokens": 6160,
+      "output_tokens": 54,
+      "calculated_usd": 0.000643
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06474525,
+      "status": "성공",
+      "input_tokens": 1587,
+      "output_tokens": 176,
+      "calculated_usd": 0.00024670000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066522125,
+      "status": "성공",
+      "input_tokens": 5840,
+      "output_tokens": 263,
+      "calculated_usd": 0.0007155
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064547125,
+      "status": "성공",
+      "input_tokens": 1129,
+      "output_tokens": 122,
+      "calculated_usd": 0.0001739
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067214625,
+      "status": "성공",
+      "input_tokens": 7337,
+      "output_tokens": 541,
+      "calculated_usd": 0.0010042
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064589125,
+      "status": "성공",
+      "input_tokens": 1178,
+      "output_tokens": 207,
+      "calculated_usd": 0.0002213
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06759225,
+      "status": "성공",
+      "input_tokens": 8322,
+      "output_tokens": 347,
+      "calculated_usd": 0.0010057
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064803875,
+      "status": "성공",
+      "input_tokens": 1680,
+      "output_tokens": 149,
+      "calculated_usd": 0.0002425
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067249375,
+      "status": "성공",
+      "input_tokens": 7377,
+      "output_tokens": 522,
+      "calculated_usd": 0.0009987000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064689375,
+      "status": "성공",
+      "input_tokens": 1381,
+      "output_tokens": 269,
+      "calculated_usd": 0.0002726
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06880375,
+      "status": "성공",
+      "input_tokens": 11220,
+      "output_tokens": 11,
+      "calculated_usd": 0.0011275
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065332875,
+      "status": "성공",
+      "input_tokens": 2900,
+      "output_tokens": 289,
+      "calculated_usd": 0.0004345
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067554875,
+      "status": "성공",
+      "input_tokens": 8254,
+      "output_tokens": 11,
+      "calculated_usd": 0.0008309000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064515375,
+      "status": "성공",
+      "input_tokens": 1055,
+      "output_tokens": 126,
+      "calculated_usd": 0.0001685
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06802275,
+      "status": "성공",
+      "input_tokens": 9036,
+      "output_tokens": 11,
+      "calculated_usd": 0.0009091
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064835,
+      "status": "성공",
+      "input_tokens": 1744,
+      "output_tokens": 35,
+      "calculated_usd": 0.0001919
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06812225,
+      "status": "성공",
+      "input_tokens": 9149,
+      "output_tokens": 52,
+      "calculated_usd": 0.0009409
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064872125,
+      "status": "성공",
+      "input_tokens": 1854,
+      "output_tokens": 62,
+      "calculated_usd": 0.0002164
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067995625,
+      "status": "성공",
+      "input_tokens": 9100,
+      "output_tokens": 54,
+      "calculated_usd": 0.000937
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064788375,
+      "status": "성공",
+      "input_tokens": 1714,
+      "output_tokens": 132,
+      "calculated_usd": 0.0002374
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067769625,
+      "status": "성공",
+      "input_tokens": 8576,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008846
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06453025,
+      "status": "성공",
+      "input_tokens": 1082,
+      "output_tokens": 228,
+      "calculated_usd": 0.00022219999999999998
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06750425,
+      "status": "성공",
+      "input_tokens": 7890,
+      "output_tokens": 50,
+      "calculated_usd": 0.000814
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064833625,
+      "status": "성공",
+      "input_tokens": 1819,
+      "output_tokens": 115,
+      "calculated_usd": 0.00023940000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068724375,
+      "status": "성공",
+      "input_tokens": 10568,
+      "output_tokens": 50,
+      "calculated_usd": 0.0010818
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065109125,
+      "status": "성공",
+      "input_tokens": 2270,
+      "output_tokens": 273,
+      "calculated_usd": 0.0003635
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067115875,
+      "status": "성공",
+      "input_tokens": 6981,
+      "output_tokens": 50,
+      "calculated_usd": 0.0007231000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065269875,
+      "status": "성공",
+      "input_tokens": 2539,
+      "output_tokens": 158,
+      "calculated_usd": 0.00033289999999999996
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067943,
+      "status": "성공",
+      "input_tokens": 8962,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009212000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065419125,
+      "status": "성공",
+      "input_tokens": 2740,
+      "output_tokens": 237,
+      "calculated_usd": 0.0003925
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068122625,
+      "status": "성공",
+      "input_tokens": 9154,
+      "output_tokens": 631,
+      "calculated_usd": 0.0012309
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065437,
+      "status": "성공",
+      "input_tokens": 2714,
+      "output_tokens": 167,
+      "calculated_usd": 0.0003549
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06718575,
+      "status": "성공",
+      "input_tokens": 7226,
+      "output_tokens": 50,
+      "calculated_usd": 0.0007476000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06550625,
+      "status": "성공",
+      "input_tokens": 2798,
+      "output_tokens": 121,
+      "calculated_usd": 0.00034030000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067819875,
+      "status": "성공",
+      "input_tokens": 8535,
+      "output_tokens": 54,
+      "calculated_usd": 0.0008805
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06542775,
+      "status": "성공",
+      "input_tokens": 2550,
+      "output_tokens": 48,
+      "calculated_usd": 0.000279
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067562375,
+      "status": "성공",
+      "input_tokens": 7999,
+      "output_tokens": 50,
+      "calculated_usd": 0.0008249
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06532475,
+      "status": "성공",
+      "input_tokens": 2264,
+      "output_tokens": 239,
+      "calculated_usd": 0.00034589999999999995
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06823375,
+      "status": "성공",
+      "input_tokens": 9468,
+      "output_tokens": 431,
+      "calculated_usd": 0.0011623000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065884875,
+      "status": "성공",
+      "input_tokens": 3379,
+      "output_tokens": 186,
+      "calculated_usd": 0.0004309
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06829925,
+      "status": "성공",
+      "input_tokens": 9527,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009777
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065877,
+      "status": "성공",
+      "input_tokens": 3274,
+      "output_tokens": 177,
+      "calculated_usd": 0.0004159
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067764,
+      "status": "성공",
+      "input_tokens": 8235,
+      "output_tokens": 446,
+      "calculated_usd": 0.0010465
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065750875,
+      "status": "성공",
+      "input_tokens": 2921,
+      "output_tokens": 116,
+      "calculated_usd": 0.0003501
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06750425,
+      "status": "성공",
+      "input_tokens": 7890,
+      "output_tokens": 350,
+      "calculated_usd": 0.000964
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064998875,
+      "status": "성공",
+      "input_tokens": 2107,
+      "output_tokens": 130,
+      "calculated_usd": 0.00027570000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06852325,
+      "status": "성공",
+      "input_tokens": 9984,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010254
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06488575,
+      "status": "성공",
+      "input_tokens": 1823,
+      "output_tokens": 325,
+      "calculated_usd": 0.00034480000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0679865,
+      "status": "성공",
+      "input_tokens": 8852,
+      "output_tokens": 310,
+      "calculated_usd": 0.0010402
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065233875,
+      "status": "성공",
+      "input_tokens": 2424,
+      "output_tokens": 129,
+      "calculated_usd": 0.0003069
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0678335,
+      "status": "성공",
+      "input_tokens": 8466,
+      "output_tokens": 533,
+      "calculated_usd": 0.0011131
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06533175,
+      "status": "성공",
+      "input_tokens": 2648,
+      "output_tokens": 219,
+      "calculated_usd": 0.0003743
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066966625,
+      "status": "성공",
+      "input_tokens": 6611,
+      "output_tokens": 11,
+      "calculated_usd": 0.0006666
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06509575,
+      "status": "성공",
+      "input_tokens": 2026,
+      "output_tokens": 81,
+      "calculated_usd": 0.00024310000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067199375,
+      "status": "성공",
+      "input_tokens": 7203,
+      "output_tokens": 287,
+      "calculated_usd": 0.0008638000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06485975,
+      "status": "성공",
+      "input_tokens": 1463,
+      "output_tokens": 188,
+      "calculated_usd": 0.0002403
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0666715,
+      "status": "성공",
+      "input_tokens": 5962,
+      "output_tokens": 388,
+      "calculated_usd": 0.0007902
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065080875,
+      "status": "성공",
+      "input_tokens": 1899,
+      "output_tokens": 215,
+      "calculated_usd": 0.00029739999999999996
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067262875,
+      "status": "성공",
+      "input_tokens": 7421,
+      "output_tokens": 545,
+      "calculated_usd": 0.0010146
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065273125,
+      "status": "성공",
+      "input_tokens": 2223,
+      "output_tokens": 102,
+      "calculated_usd": 0.00027330000000000003
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0677015,
+      "status": "성공",
+      "input_tokens": 8603,
+      "output_tokens": 50,
+      "calculated_usd": 0.0008853000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065529875,
+      "status": "성공",
+      "input_tokens": 2781,
+      "output_tokens": 123,
+      "calculated_usd": 0.0003396
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06676425,
+      "status": "성공",
+      "input_tokens": 6268,
+      "output_tokens": 50,
+      "calculated_usd": 0.0006518000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06539575,
+      "status": "성공",
+      "input_tokens": 2369,
+      "output_tokens": 220,
+      "calculated_usd": 0.0003469
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0669805,
+      "status": "성공",
+      "input_tokens": 6604,
+      "output_tokens": 54,
+      "calculated_usd": 0.0006874000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06533,
+      "status": "성공",
+      "input_tokens": 2123,
+      "output_tokens": 28,
+      "calculated_usd": 0.0002263
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06781975,
+      "status": "성공",
+      "input_tokens": 8652,
+      "output_tokens": 277,
+      "calculated_usd": 0.0010037
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064744125,
+      "status": "성공",
+      "input_tokens": 1575,
+      "output_tokens": 200,
+      "calculated_usd": 0.0002575
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068487625,
+      "status": "성공",
+      "input_tokens": 10145,
+      "output_tokens": 54,
+      "calculated_usd": 0.0010415
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.064648125,
+      "status": "성공",
+      "input_tokens": 1260,
+      "output_tokens": 388,
+      "calculated_usd": 0.00032
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066662375,
+      "status": "성공",
+      "input_tokens": 5934,
+      "output_tokens": 50,
+      "calculated_usd": 0.0006184
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06495525,
+      "status": "성공",
+      "input_tokens": 1861,
+      "output_tokens": 204,
+      "calculated_usd": 0.0002881
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068129375,
+      "status": "성공",
+      "input_tokens": 9122,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009372
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0651905,
+      "status": "성공",
+      "input_tokens": 2271,
+      "output_tokens": 151,
+      "calculated_usd": 0.00030260000000000004
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067421125,
+      "status": "성공",
+      "input_tokens": 7841,
+      "output_tokens": 287,
+      "calculated_usd": 0.0009276
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065131375,
+      "status": "성공",
+      "input_tokens": 2090,
+      "output_tokens": 104,
+      "calculated_usd": 0.000261
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068064,
+      "status": "성공",
+      "input_tokens": 9132,
+      "output_tokens": 50,
+      "calculated_usd": 0.0009382
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0652705,
+      "status": "성공",
+      "input_tokens": 2386,
+      "output_tokens": 36,
+      "calculated_usd": 0.0002566
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068939,
+      "status": "성공",
+      "input_tokens": 11311,
+      "output_tokens": 50,
+      "calculated_usd": 0.0011561000000000002
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065498125,
+      "status": "성공",
+      "input_tokens": 2779,
+      "output_tokens": 317,
+      "calculated_usd": 0.00043640000000000004
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.067670875,
+      "status": "성공",
+      "input_tokens": 8351,
+      "output_tokens": 50,
+      "calculated_usd": 0.0008601
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065456375,
+      "status": "성공",
+      "input_tokens": 2610,
+      "output_tokens": 89,
+      "calculated_usd": 0.0003055
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.06741675,
+      "status": "성공",
+      "input_tokens": 7927,
+      "output_tokens": 650,
+      "calculated_usd": 0.0011177000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0655865,
+      "status": "성공",
+      "input_tokens": 2745,
+      "output_tokens": 105,
+      "calculated_usd": 0.000327
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.066331625,
+      "status": "성공",
+      "input_tokens": 5267,
+      "output_tokens": 606,
+      "calculated_usd": 0.0008297000000000001
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.065365125,
+      "status": "성공",
+      "input_tokens": 2249,
+      "output_tokens": 181,
+      "calculated_usd": 0.00031539999999999997
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.068712375,
+      "status": "성공",
+      "input_tokens": 10548,
+      "output_tokens": 318,
+      "calculated_usd": 0.0012138
+    },
+    {
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.0656725,
+      "status": "성공",
+      "input_tokens": 2792,
+      "output_tokens": 140,
+      "calculated_usd": 0.0003492
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111159,
+      "status": "성공",
+      "input_tokens": 1817,
+      "output_tokens": 44,
+      "calculated_usd": 0.00029895
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010965525,
+      "status": "성공",
+      "input_tokens": 1529,
+      "output_tokens": 43,
+      "calculated_usd": 0.00025515
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011105775,
+      "status": "성공",
+      "input_tokens": 1784,
+      "output_tokens": 54,
+      "calculated_usd": 0.0002999999999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01092315,
+      "status": "성공",
+      "input_tokens": 1523,
+      "output_tokens": 44,
+      "calculated_usd": 0.00025485
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115672125,
+      "status": "성공",
+      "input_tokens": 2449,
+      "output_tokens": 58,
+      "calculated_usd": 0.00040215
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111554625,
+      "status": "성공",
+      "input_tokens": 1918,
+      "output_tokens": 55,
+      "calculated_usd": 0.0003207
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117174,
+      "status": "성공",
+      "input_tokens": 2676,
+      "output_tokens": 53,
+      "calculated_usd": 0.0004332
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118098375,
+      "status": "성공",
+      "input_tokens": 2988,
+      "output_tokens": 62,
+      "calculated_usd": 0.0004854
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010826025,
+      "status": "성공",
+      "input_tokens": 1359,
+      "output_tokens": 51,
+      "calculated_usd": 0.00023444999999999998
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011092462499999999,
+      "status": "성공",
+      "input_tokens": 1777,
+      "output_tokens": 51,
+      "calculated_usd": 0.00029715000000000004
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011161837499999999,
+      "status": "성공",
+      "input_tokens": 1945,
+      "output_tokens": 59,
+      "calculated_usd": 0.00032714999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011064899999999999,
+      "status": "성공",
+      "input_tokens": 1747,
+      "output_tokens": 53,
+      "calculated_usd": 0.00029385
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117243375,
+      "status": "성공",
+      "input_tokens": 2747,
+      "output_tokens": 42,
+      "calculated_usd": 0.00043725
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011132775,
+      "status": "성공",
+      "input_tokens": 1813,
+      "output_tokens": 72,
+      "calculated_usd": 0.00031515
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011271525,
+      "status": "성공",
+      "input_tokens": 1989,
+      "output_tokens": 43,
+      "calculated_usd": 0.00032415
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114963375,
+      "status": "성공",
+      "input_tokens": 2341,
+      "output_tokens": 55,
+      "calculated_usd": 0.00038415
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011354399999999999,
+      "status": "성공",
+      "input_tokens": 2230,
+      "output_tokens": 43,
+      "calculated_usd": 0.00036030000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010976025,
+      "status": "성공",
+      "input_tokens": 1625,
+      "output_tokens": 58,
+      "calculated_usd": 0.00027855
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01103115,
+      "status": "성공",
+      "input_tokens": 1672,
+      "output_tokens": 47,
+      "calculated_usd": 0.000279
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011140275,
+      "status": "성공",
+      "input_tokens": 1836,
+      "output_tokens": 44,
+      "calculated_usd": 0.00030179999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011270025,
+      "status": "성공",
+      "input_tokens": 1941,
+      "output_tokens": 46,
+      "calculated_usd": 0.00031875
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010999275,
+      "status": "성공",
+      "input_tokens": 1609,
+      "output_tokens": 58,
+      "calculated_usd": 0.00027614999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011207024999999999,
+      "status": "성공",
+      "input_tokens": 1908,
+      "output_tokens": 53,
+      "calculated_usd": 0.000318
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114753375,
+      "status": "성공",
+      "input_tokens": 2243,
+      "output_tokens": 44,
+      "calculated_usd": 0.00036284999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01184865,
+      "status": "성공",
+      "input_tokens": 2816,
+      "output_tokens": 53,
+      "calculated_usd": 0.0004542
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011400525,
+      "status": "성공",
+      "input_tokens": 2153,
+      "output_tokens": 74,
+      "calculated_usd": 0.00036734999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0120168375,
+      "status": "성공",
+      "input_tokens": 3162,
+      "output_tokens": 59,
+      "calculated_usd": 0.0005097
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111490875,
+      "status": "성공",
+      "input_tokens": 1866,
+      "output_tokens": 59,
+      "calculated_usd": 0.00031529999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109098375,
+      "status": "성공",
+      "input_tokens": 1470,
+      "output_tokens": 47,
+      "calculated_usd": 0.0002487
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011553525,
+      "status": "성공",
+      "input_tokens": 2503,
+      "output_tokens": 50,
+      "calculated_usd": 0.00040544999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012473025,
+      "status": "성공",
+      "input_tokens": 3886,
+      "output_tokens": 56,
+      "calculated_usd": 0.0006165
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109874625,
+      "status": "성공",
+      "input_tokens": 1564,
+      "output_tokens": 47,
+      "calculated_usd": 0.0002628
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112870875,
+      "status": "성공",
+      "input_tokens": 2028,
+      "output_tokens": 51,
+      "calculated_usd": 0.0003348
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111819,
+      "status": "성공",
+      "input_tokens": 1890,
+      "output_tokens": 62,
+      "calculated_usd": 0.0003207
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011066399999999999,
+      "status": "성공",
+      "input_tokens": 1702,
+      "output_tokens": 41,
+      "calculated_usd": 0.0002799
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0121859625,
+      "status": "성공",
+      "input_tokens": 3463,
+      "output_tokens": 58,
+      "calculated_usd": 0.0005542499999999998
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110350875,
+      "status": "성공",
+      "input_tokens": 1676,
+      "output_tokens": 53,
+      "calculated_usd": 0.0002832
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116478375,
+      "status": "성공",
+      "input_tokens": 2554,
+      "output_tokens": 45,
+      "calculated_usd": 0.00041009999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113688375,
+      "status": "성공",
+      "input_tokens": 2209,
+      "output_tokens": 40,
+      "calculated_usd": 0.00035535
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116553375,
+      "status": "성공",
+      "input_tokens": 2520,
+      "output_tokens": 46,
+      "calculated_usd": 0.00040560000000000005
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112353375,
+      "status": "성공",
+      "input_tokens": 1968,
+      "output_tokens": 59,
+      "calculated_usd": 0.00033059999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011035274999999999,
+      "status": "성공",
+      "input_tokens": 1691,
+      "output_tokens": 60,
+      "calculated_usd": 0.00028964999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011218275,
+      "status": "성공",
+      "input_tokens": 1950,
+      "output_tokens": 42,
+      "calculated_usd": 0.00031769999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010737525,
+      "status": "성공",
+      "input_tokens": 1227,
+      "output_tokens": 53,
+      "calculated_usd": 0.00021584999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117078375,
+      "status": "성공",
+      "input_tokens": 2569,
+      "output_tokens": 69,
+      "calculated_usd": 0.00042674999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011238337499999999,
+      "status": "성공",
+      "input_tokens": 1986,
+      "output_tokens": 64,
+      "calculated_usd": 0.00033629999999999993
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011255774999999999,
+      "status": "성공",
+      "input_tokens": 2006,
+      "output_tokens": 56,
+      "calculated_usd": 0.0003345
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011118712499999999,
+      "status": "성공",
+      "input_tokens": 1764,
+      "output_tokens": 51,
+      "calculated_usd": 0.00029519999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114217125,
+      "status": "성공",
+      "input_tokens": 2313,
+      "output_tokens": 56,
+      "calculated_usd": 0.00038055
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01103265,
+      "status": "성공",
+      "input_tokens": 1690,
+      "output_tokens": 55,
+      "calculated_usd": 0.0002865
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109458375,
+      "status": "성공",
+      "input_tokens": 1530,
+      "output_tokens": 49,
+      "calculated_usd": 0.00025889999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114772125,
+      "status": "성공",
+      "input_tokens": 2299,
+      "output_tokens": 48,
+      "calculated_usd": 0.00037365
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011923274999999999,
+      "status": "성공",
+      "input_tokens": 2930,
+      "output_tokens": 53,
+      "calculated_usd": 0.0004713
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110729625,
+      "status": "성공",
+      "input_tokens": 1707,
+      "output_tokens": 50,
+      "calculated_usd": 0.00028605
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01159065,
+      "status": "성공",
+      "input_tokens": 2550,
+      "output_tokens": 62,
+      "calculated_usd": 0.0004197
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012280837499999999,
+      "status": "성공",
+      "input_tokens": 3568,
+      "output_tokens": 78,
+      "calculated_usd": 0.0005819999999999998
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112293375,
+      "status": "성공",
+      "input_tokens": 1951,
+      "output_tokens": 54,
+      "calculated_usd": 0.00032504999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010814962499999999,
+      "status": "성공",
+      "input_tokens": 1344,
+      "output_tokens": 51,
+      "calculated_usd": 0.00023219999999999998
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114007125,
+      "status": "성공",
+      "input_tokens": 2240,
+      "output_tokens": 67,
+      "calculated_usd": 0.0003762
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116549625,
+      "status": "성공",
+      "input_tokens": 2602,
+      "output_tokens": 43,
+      "calculated_usd": 0.00041610000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111939,
+      "status": "성공",
+      "input_tokens": 1895,
+      "output_tokens": 73,
+      "calculated_usd": 0.00032805000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011351024999999999,
+      "status": "성공",
+      "input_tokens": 2108,
+      "output_tokens": 41,
+      "calculated_usd": 0.0003408
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011339024999999999,
+      "status": "성공",
+      "input_tokens": 2102,
+      "output_tokens": 75,
+      "calculated_usd": 0.00036030000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010972837499999999,
+      "status": "성공",
+      "input_tokens": 1576,
+      "output_tokens": 98,
+      "calculated_usd": 0.00029519999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114040875,
+      "status": "성공",
+      "input_tokens": 2276,
+      "output_tokens": 56,
+      "calculated_usd": 0.000375
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011356087499999999,
+      "status": "성공",
+      "input_tokens": 2110,
+      "output_tokens": 57,
+      "calculated_usd": 0.0003507
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010899899999999999,
+      "status": "성공",
+      "input_tokens": 1459,
+      "output_tokens": 38,
+      "calculated_usd": 0.00024165000000000002
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110199,
+      "status": "성공",
+      "input_tokens": 1812,
+      "output_tokens": 46,
+      "calculated_usd": 0.0002994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109732125,
+      "status": "성공",
+      "input_tokens": 1607,
+      "output_tokens": 49,
+      "calculated_usd": 0.00027045
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117202125,
+      "status": "성공",
+      "input_tokens": 2836,
+      "output_tokens": 68,
+      "calculated_usd": 0.0004662
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011215275,
+      "status": "성공",
+      "input_tokens": 1957,
+      "output_tokens": 65,
+      "calculated_usd": 0.00033255000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114382125,
+      "status": "성공",
+      "input_tokens": 2259,
+      "output_tokens": 56,
+      "calculated_usd": 0.00037245
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011383275,
+      "status": "성공",
+      "input_tokens": 2182,
+      "output_tokens": 66,
+      "calculated_usd": 0.00036690000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110448375,
+      "status": "성공",
+      "input_tokens": 1687,
+      "output_tokens": 47,
+      "calculated_usd": 0.00028125
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112724625,
+      "status": "성공",
+      "input_tokens": 2124,
+      "output_tokens": 72,
+      "calculated_usd": 0.00036179999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116740875,
+      "status": "성공",
+      "input_tokens": 2512,
+      "output_tokens": 50,
+      "calculated_usd": 0.0004068
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011466525,
+      "status": "성공",
+      "input_tokens": 2247,
+      "output_tokens": 44,
+      "calculated_usd": 0.00036344999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011133525,
+      "status": "성공",
+      "input_tokens": 1784,
+      "output_tokens": 40,
+      "calculated_usd": 0.0002916
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011585775,
+      "status": "성공",
+      "input_tokens": 2466,
+      "output_tokens": 48,
+      "calculated_usd": 0.0003987
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011903025,
+      "status": "성공",
+      "input_tokens": 3001,
+      "output_tokens": 52,
+      "calculated_usd": 0.00048134999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011266087499999999,
+      "status": "성공",
+      "input_tokens": 2042,
+      "output_tokens": 46,
+      "calculated_usd": 0.00033390000000000004
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113973375,
+      "status": "성공",
+      "input_tokens": 2222,
+      "output_tokens": 70,
+      "calculated_usd": 0.0003753
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010988025,
+      "status": "성공",
+      "input_tokens": 1577,
+      "output_tokens": 61,
+      "calculated_usd": 0.00027315
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011729024999999999,
+      "status": "성공",
+      "input_tokens": 2724,
+      "output_tokens": 65,
+      "calculated_usd": 0.0004476
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116999625,
+      "status": "성공",
+      "input_tokens": 2582,
+      "output_tokens": 51,
+      "calculated_usd": 0.0004179
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011744587499999999,
+      "status": "성공",
+      "input_tokens": 2748,
+      "output_tokens": 40,
+      "calculated_usd": 0.0004362
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113939625,
+      "status": "성공",
+      "input_tokens": 2219,
+      "output_tokens": 40,
+      "calculated_usd": 0.00035685
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113617125,
+      "status": "성공",
+      "input_tokens": 2156,
+      "output_tokens": 49,
+      "calculated_usd": 0.00035279999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116849625,
+      "status": "성공",
+      "input_tokens": 2585,
+      "output_tokens": 49,
+      "calculated_usd": 0.00041715
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01154415,
+      "status": "성공",
+      "input_tokens": 2486,
+      "output_tokens": 49,
+      "calculated_usd": 0.00040229999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112829625,
+      "status": "성공",
+      "input_tokens": 2068,
+      "output_tokens": 41,
+      "calculated_usd": 0.0003348
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011699774999999999,
+      "status": "성공",
+      "input_tokens": 2965,
+      "output_tokens": 54,
+      "calculated_usd": 0.00047714999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010861837499999999,
+      "status": "성공",
+      "input_tokens": 1433,
+      "output_tokens": 55,
+      "calculated_usd": 0.00024795
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011871337499999999,
+      "status": "성공",
+      "input_tokens": 3071,
+      "output_tokens": 52,
+      "calculated_usd": 0.00049185
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117625875,
+      "status": "성공",
+      "input_tokens": 2745,
+      "output_tokens": 53,
+      "calculated_usd": 0.00044355
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011645774999999999,
+      "status": "성공",
+      "input_tokens": 2566,
+      "output_tokens": 94,
+      "calculated_usd": 0.00044129999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011458275,
+      "status": "성공",
+      "input_tokens": 2319,
+      "output_tokens": 52,
+      "calculated_usd": 0.00037904999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110500875,
+      "status": "성공",
+      "input_tokens": 1698,
+      "output_tokens": 56,
+      "calculated_usd": 0.0002883
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113740875,
+      "status": "성공",
+      "input_tokens": 2269,
+      "output_tokens": 48,
+      "calculated_usd": 0.00036915
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115810875,
+      "status": "성공",
+      "input_tokens": 2399,
+      "output_tokens": 59,
+      "calculated_usd": 0.00039524999999999993
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011460525,
+      "status": "성공",
+      "input_tokens": 2238,
+      "output_tokens": 47,
+      "calculated_usd": 0.00036389999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111310875,
+      "status": "성공",
+      "input_tokens": 1782,
+      "output_tokens": 75,
+      "calculated_usd": 0.0003123
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117502125,
+      "status": "성공",
+      "input_tokens": 2717,
+      "output_tokens": 50,
+      "calculated_usd": 0.00043755000000000004
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118282125,
+      "status": "성공",
+      "input_tokens": 2821,
+      "output_tokens": 53,
+      "calculated_usd": 0.00045494999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011308275,
+      "status": "성공",
+      "input_tokens": 2115,
+      "output_tokens": 51,
+      "calculated_usd": 0.00034785
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01105665,
+      "status": "성공",
+      "input_tokens": 1722,
+      "output_tokens": 84,
+      "calculated_usd": 0.00030869999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111003375,
+      "status": "성공",
+      "input_tokens": 1726,
+      "output_tokens": 59,
+      "calculated_usd": 0.00029429999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114262125,
+      "status": "성공",
+      "input_tokens": 2267,
+      "output_tokens": 73,
+      "calculated_usd": 0.00038385000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011219024999999999,
+      "status": "성공",
+      "input_tokens": 1889,
+      "output_tokens": 54,
+      "calculated_usd": 0.00031574999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0121735875,
+      "status": "성공",
+      "input_tokens": 3393,
+      "output_tokens": 52,
+      "calculated_usd": 0.00054015
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0108974625,
+      "status": "성공",
+      "input_tokens": 1446,
+      "output_tokens": 58,
+      "calculated_usd": 0.0002517
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113920875,
+      "status": "성공",
+      "input_tokens": 2152,
+      "output_tokens": 47,
+      "calculated_usd": 0.000351
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114513375,
+      "status": "성공",
+      "input_tokens": 2272,
+      "output_tokens": 52,
+      "calculated_usd": 0.000372
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113350875,
+      "status": "성공",
+      "input_tokens": 2168,
+      "output_tokens": 45,
+      "calculated_usd": 0.0003522
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110129625,
+      "status": "성공",
+      "input_tokens": 1592,
+      "output_tokens": 54,
+      "calculated_usd": 0.0002712
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011841525,
+      "status": "성공",
+      "input_tokens": 2811,
+      "output_tokens": 72,
+      "calculated_usd": 0.00046484999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01195215,
+      "status": "성공",
+      "input_tokens": 2973,
+      "output_tokens": 76,
+      "calculated_usd": 0.00049155
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012174525,
+      "status": "성공",
+      "input_tokens": 3240,
+      "output_tokens": 65,
+      "calculated_usd": 0.000525
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012098587499999999,
+      "status": "성공",
+      "input_tokens": 3166,
+      "output_tokens": 76,
+      "calculated_usd": 0.0005205
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0120789,
+      "status": "성공",
+      "input_tokens": 3147,
+      "output_tokens": 62,
+      "calculated_usd": 0.0005092499999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011935275,
+      "status": "성공",
+      "input_tokens": 2943,
+      "output_tokens": 49,
+      "calculated_usd": 0.00047085
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117562125,
+      "status": "성공",
+      "input_tokens": 2716,
+      "output_tokens": 63,
+      "calculated_usd": 0.0004452
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01251465,
+      "status": "성공",
+      "input_tokens": 3779,
+      "output_tokens": 56,
+      "calculated_usd": 0.0006004500000000001
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012458775,
+      "status": "성공",
+      "input_tokens": 3690,
+      "output_tokens": 60,
+      "calculated_usd": 0.0005895
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012195899999999999,
+      "status": "성공",
+      "input_tokens": 3316,
+      "output_tokens": 46,
+      "calculated_usd": 0.000525
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011384024999999999,
+      "status": "성공",
+      "input_tokens": 2190,
+      "output_tokens": 51,
+      "calculated_usd": 0.0003591
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118599,
+      "status": "성공",
+      "input_tokens": 2800,
+      "output_tokens": 53,
+      "calculated_usd": 0.00045180000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011948775,
+      "status": "성공",
+      "input_tokens": 3019,
+      "output_tokens": 42,
+      "calculated_usd": 0.00047804999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011531587499999999,
+      "status": "성공",
+      "input_tokens": 2405,
+      "output_tokens": 61,
+      "calculated_usd": 0.00039735000000000004
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011525025,
+      "status": "성공",
+      "input_tokens": 2425,
+      "output_tokens": 45,
+      "calculated_usd": 0.00039075
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115953375,
+      "status": "성공",
+      "input_tokens": 2472,
+      "output_tokens": 51,
+      "calculated_usd": 0.00040140000000000005
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011795775,
+      "status": "성공",
+      "input_tokens": 2740,
+      "output_tokens": 68,
+      "calculated_usd": 0.00045180000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0121597125,
+      "status": "성공",
+      "input_tokens": 3367,
+      "output_tokens": 62,
+      "calculated_usd": 0.00054225
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118659,
+      "status": "성공",
+      "input_tokens": 2895,
+      "output_tokens": 77,
+      "calculated_usd": 0.00048045
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011703525,
+      "status": "성공",
+      "input_tokens": 2623,
+      "output_tokens": 58,
+      "calculated_usd": 0.00042825
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011063775,
+      "status": "성공",
+      "input_tokens": 1685,
+      "output_tokens": 71,
+      "calculated_usd": 0.00029535
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114843375,
+      "status": "성공",
+      "input_tokens": 2313,
+      "output_tokens": 64,
+      "calculated_usd": 0.00038534999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011798025,
+      "status": "성공",
+      "input_tokens": 2751,
+      "output_tokens": 47,
+      "calculated_usd": 0.00044084999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116167125,
+      "status": "성공",
+      "input_tokens": 2508,
+      "output_tokens": 56,
+      "calculated_usd": 0.0004098
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117588375,
+      "status": "성공",
+      "input_tokens": 2808,
+      "output_tokens": 36,
+      "calculated_usd": 0.00044280000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012089962499999999,
+      "status": "성공",
+      "input_tokens": 3242,
+      "output_tokens": 90,
+      "calculated_usd": 0.0005403
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011926275,
+      "status": "성공",
+      "input_tokens": 3011,
+      "output_tokens": 45,
+      "calculated_usd": 0.00047864999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01206465,
+      "status": "성공",
+      "input_tokens": 3144,
+      "output_tokens": 56,
+      "calculated_usd": 0.0005052
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011699774999999999,
+      "status": "성공",
+      "input_tokens": 2679,
+      "output_tokens": 55,
+      "calculated_usd": 0.00043484999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0120839625,
+      "status": "성공",
+      "input_tokens": 3193,
+      "output_tokens": 53,
+      "calculated_usd": 0.00051075
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109930875,
+      "status": "성공",
+      "input_tokens": 1612,
+      "output_tokens": 44,
+      "calculated_usd": 0.0002682
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0108352125,
+      "status": "성공",
+      "input_tokens": 1329,
+      "output_tokens": 46,
+      "calculated_usd": 0.00022695
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011092462499999999,
+      "status": "성공",
+      "input_tokens": 1780,
+      "output_tokens": 55,
+      "calculated_usd": 0.0003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010922025,
+      "status": "성공",
+      "input_tokens": 1521,
+      "output_tokens": 43,
+      "calculated_usd": 0.00025395
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118218375,
+      "status": "성공",
+      "input_tokens": 2832,
+      "output_tokens": 51,
+      "calculated_usd": 0.0004554
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01118415,
+      "status": "성공",
+      "input_tokens": 1958,
+      "output_tokens": 61,
+      "calculated_usd": 0.0003303
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01153515,
+      "status": "성공",
+      "input_tokens": 2443,
+      "output_tokens": 52,
+      "calculated_usd": 0.00039765
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117895875,
+      "status": "성공",
+      "input_tokens": 2959,
+      "output_tokens": 51,
+      "calculated_usd": 0.00047445
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0108250875,
+      "status": "성공",
+      "input_tokens": 1358,
+      "output_tokens": 50,
+      "calculated_usd": 0.0002337
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110620875,
+      "status": "성공",
+      "input_tokens": 1725,
+      "output_tokens": 53,
+      "calculated_usd": 0.00029055
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011234962499999999,
+      "status": "성공",
+      "input_tokens": 2046,
+      "output_tokens": 63,
+      "calculated_usd": 0.0003447
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011064525,
+      "status": "성공",
+      "input_tokens": 1749,
+      "output_tokens": 55,
+      "calculated_usd": 0.00029534999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117333375,
+      "status": "성공",
+      "input_tokens": 2764,
+      "output_tokens": 47,
+      "calculated_usd": 0.0004428
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111333375,
+      "status": "성공",
+      "input_tokens": 1815,
+      "output_tokens": 65,
+      "calculated_usd": 0.00031125
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011266275,
+      "status": "성공",
+      "input_tokens": 1987,
+      "output_tokens": 44,
+      "calculated_usd": 0.00032445
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114993375,
+      "status": "성공",
+      "input_tokens": 2345,
+      "output_tokens": 50,
+      "calculated_usd": 0.00038175
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112454625,
+      "status": "성공",
+      "input_tokens": 2001,
+      "output_tokens": 57,
+      "calculated_usd": 0.00033434999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010986899999999999,
+      "status": "성공",
+      "input_tokens": 1643,
+      "output_tokens": 58,
+      "calculated_usd": 0.00028125
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010988775,
+      "status": "성공",
+      "input_tokens": 1604,
+      "output_tokens": 48,
+      "calculated_usd": 0.0002694
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011136525,
+      "status": "성공",
+      "input_tokens": 1831,
+      "output_tokens": 64,
+      "calculated_usd": 0.00031304999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112582125,
+      "status": "성공",
+      "input_tokens": 1920,
+      "output_tokens": 59,
+      "calculated_usd": 0.0003234
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011432775,
+      "status": "성공",
+      "input_tokens": 2219,
+      "output_tokens": 53,
+      "calculated_usd": 0.00036465
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115494,
+      "status": "성공",
+      "input_tokens": 2389,
+      "output_tokens": 58,
+      "calculated_usd": 0.00039315
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01143165,
+      "status": "성공",
+      "input_tokens": 2230,
+      "output_tokens": 50,
+      "calculated_usd": 0.0003645
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011883524999999999,
+      "status": "성공",
+      "input_tokens": 2874,
+      "output_tokens": 53,
+      "calculated_usd": 0.0004629
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011399587499999999,
+      "status": "성공",
+      "input_tokens": 2149,
+      "output_tokens": 56,
+      "calculated_usd": 0.00035595
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012014775,
+      "status": "성공",
+      "input_tokens": 3159,
+      "output_tokens": 48,
+      "calculated_usd": 0.00050265
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011167087499999999,
+      "status": "성공",
+      "input_tokens": 1884,
+      "output_tokens": 55,
+      "calculated_usd": 0.0003156
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109012125,
+      "status": "성공",
+      "input_tokens": 1459,
+      "output_tokens": 70,
+      "calculated_usd": 0.00026085
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011834962499999999,
+      "status": "성공",
+      "input_tokens": 2840,
+      "output_tokens": 48,
+      "calculated_usd": 0.0004548
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0124810875,
+      "status": "성공",
+      "input_tokens": 3894,
+      "output_tokens": 56,
+      "calculated_usd": 0.0006177
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109899,
+      "status": "성공",
+      "input_tokens": 1563,
+      "output_tokens": 58,
+      "calculated_usd": 0.00026925
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01117965,
+      "status": "성공",
+      "input_tokens": 1865,
+      "output_tokens": 57,
+      "calculated_usd": 0.00031395
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011325149999999999,
+      "status": "성공",
+      "input_tokens": 2086,
+      "output_tokens": 57,
+      "calculated_usd": 0.0003471
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011043525,
+      "status": "성공",
+      "input_tokens": 1674,
+      "output_tokens": 47,
+      "calculated_usd": 0.0002793
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0122489625,
+      "status": "성공",
+      "input_tokens": 3562,
+      "output_tokens": 51,
+      "calculated_usd": 0.0005649
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111153375,
+      "status": "성공",
+      "input_tokens": 1741,
+      "output_tokens": 52,
+      "calculated_usd": 0.00029235
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116439,
+      "status": "성공",
+      "input_tokens": 2522,
+      "output_tokens": 53,
+      "calculated_usd": 0.00041010000000000005
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011349525,
+      "status": "성공",
+      "input_tokens": 2111,
+      "output_tokens": 56,
+      "calculated_usd": 0.00035025
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0119005875,
+      "status": "성공",
+      "input_tokens": 2897,
+      "output_tokens": 47,
+      "calculated_usd": 0.00046275
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114835875,
+      "status": "성공",
+      "input_tokens": 2324,
+      "output_tokens": 50,
+      "calculated_usd": 0.0003786
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109289625,
+      "status": "성공",
+      "input_tokens": 1524,
+      "output_tokens": 60,
+      "calculated_usd": 0.00026460000000000003
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110904,
+      "status": "성공",
+      "input_tokens": 1754,
+      "output_tokens": 42,
+      "calculated_usd": 0.00028829999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112237125,
+      "status": "성공",
+      "input_tokens": 1964,
+      "output_tokens": 44,
+      "calculated_usd": 0.00032099999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117097125,
+      "status": "성공",
+      "input_tokens": 2567,
+      "output_tokens": 49,
+      "calculated_usd": 0.00041444999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010861275,
+      "status": "성공",
+      "input_tokens": 1426,
+      "output_tokens": 42,
+      "calculated_usd": 0.00023909999999999998
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011263275,
+      "status": "성공",
+      "input_tokens": 2018,
+      "output_tokens": 53,
+      "calculated_usd": 0.0003345
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01103565,
+      "status": "성공",
+      "input_tokens": 1621,
+      "output_tokens": 55,
+      "calculated_usd": 0.00027614999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112840875,
+      "status": "성공",
+      "input_tokens": 2052,
+      "output_tokens": 67,
+      "calculated_usd": 0.000348
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011064712499999999,
+      "status": "성공",
+      "input_tokens": 1718,
+      "output_tokens": 59,
+      "calculated_usd": 0.00029309999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011148525,
+      "status": "성공",
+      "input_tokens": 1840,
+      "output_tokens": 49,
+      "calculated_usd": 0.0003054
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01148565,
+      "status": "성공",
+      "input_tokens": 2316,
+      "output_tokens": 46,
+      "calculated_usd": 0.000375
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012017212499999999,
+      "status": "성공",
+      "input_tokens": 3146,
+      "output_tokens": 65,
+      "calculated_usd": 0.0005109
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011073524999999999,
+      "status": "성공",
+      "input_tokens": 1707,
+      "output_tokens": 65,
+      "calculated_usd": 0.00029505
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011588587499999999,
+      "status": "성공",
+      "input_tokens": 2546,
+      "output_tokens": 69,
+      "calculated_usd": 0.00042329999999999993
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116497125,
+      "status": "성공",
+      "input_tokens": 2562,
+      "output_tokens": 55,
+      "calculated_usd": 0.0004173
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011316525,
+      "status": "성공",
+      "input_tokens": 2060,
+      "output_tokens": 54,
+      "calculated_usd": 0.0003414
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010821899999999999,
+      "status": "성공",
+      "input_tokens": 1354,
+      "output_tokens": 52,
+      "calculated_usd": 0.00023429999999999998
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111217125,
+      "status": "성공",
+      "input_tokens": 1800,
+      "output_tokens": 61,
+      "calculated_usd": 0.0003066
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011659649999999999,
+      "status": "성공",
+      "input_tokens": 2612,
+      "output_tokens": 67,
+      "calculated_usd": 0.000432
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110004,
+      "status": "성공",
+      "input_tokens": 1602,
+      "output_tokens": 57,
+      "calculated_usd": 0.0002745
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011343899999999999,
+      "status": "성공",
+      "input_tokens": 2092,
+      "output_tokens": 41,
+      "calculated_usd": 0.00033840000000000004
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01122315,
+      "status": "성공",
+      "input_tokens": 1926,
+      "output_tokens": 59,
+      "calculated_usd": 0.00032429999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011246025,
+      "status": "성공",
+      "input_tokens": 1930,
+      "output_tokens": 59,
+      "calculated_usd": 0.0003249
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01139415,
+      "status": "성공",
+      "input_tokens": 2263,
+      "output_tokens": 41,
+      "calculated_usd": 0.00036405
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.010976212499999999,
+      "status": "성공",
+      "input_tokens": 1540,
+      "output_tokens": 50,
+      "calculated_usd": 0.000261
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01130865,
+      "status": "성공",
+      "input_tokens": 2013,
+      "output_tokens": 48,
+      "calculated_usd": 0.00033075
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112540875,
+      "status": "성공",
+      "input_tokens": 2279,
+      "output_tokens": 46,
+      "calculated_usd": 0.00036945
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109177125,
+      "status": "성공",
+      "input_tokens": 1541,
+      "output_tokens": 49,
+      "calculated_usd": 0.00026054999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012006524999999999,
+      "status": "성공",
+      "input_tokens": 3259,
+      "output_tokens": 59,
+      "calculated_usd": 0.00052425
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011257462499999999,
+      "status": "성공",
+      "input_tokens": 2069,
+      "output_tokens": 71,
+      "calculated_usd": 0.00035295
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011464275,
+      "status": "성공",
+      "input_tokens": 2308,
+      "output_tokens": 50,
+      "calculated_usd": 0.0003762
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011399025,
+      "status": "성공",
+      "input_tokens": 2207,
+      "output_tokens": 78,
+      "calculated_usd": 0.00037785
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110009625,
+      "status": "성공",
+      "input_tokens": 1634,
+      "output_tokens": 41,
+      "calculated_usd": 0.0002697
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112777125,
+      "status": "성공",
+      "input_tokens": 2128,
+      "output_tokens": 81,
+      "calculated_usd": 0.0003678
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01109865,
+      "status": "성공",
+      "input_tokens": 1741,
+      "output_tokens": 54,
+      "calculated_usd": 0.00029354999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114745875,
+      "status": "성공",
+      "input_tokens": 2262,
+      "output_tokens": 41,
+      "calculated_usd": 0.0003639
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011150775,
+      "status": "성공",
+      "input_tokens": 1810,
+      "output_tokens": 39,
+      "calculated_usd": 0.00029489999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011841525,
+      "status": "성공",
+      "input_tokens": 2799,
+      "output_tokens": 51,
+      "calculated_usd": 0.00045044999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0119002125,
+      "status": "성공",
+      "input_tokens": 2989,
+      "output_tokens": 54,
+      "calculated_usd": 0.00048074999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011261775,
+      "status": "성공",
+      "input_tokens": 2040,
+      "output_tokens": 56,
+      "calculated_usd": 0.0003396
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01140015,
+      "status": "성공",
+      "input_tokens": 2231,
+      "output_tokens": 71,
+      "calculated_usd": 0.00037725
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109863375,
+      "status": "성공",
+      "input_tokens": 1574,
+      "output_tokens": 65,
+      "calculated_usd": 0.0002751
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01142115,
+      "status": "성공",
+      "input_tokens": 2256,
+      "output_tokens": 58,
+      "calculated_usd": 0.00037319999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114849,
+      "status": "성공",
+      "input_tokens": 2299,
+      "output_tokens": 73,
+      "calculated_usd": 0.00038865
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01148715,
+      "status": "성공",
+      "input_tokens": 2390,
+      "output_tokens": 47,
+      "calculated_usd": 0.00038669999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115147125,
+      "status": "성공",
+      "input_tokens": 2372,
+      "output_tokens": 49,
+      "calculated_usd": 0.0003852
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011358525,
+      "status": "성공",
+      "input_tokens": 2152,
+      "output_tokens": 47,
+      "calculated_usd": 0.000351
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0116860875,
+      "status": "성공",
+      "input_tokens": 2588,
+      "output_tokens": 49,
+      "calculated_usd": 0.00041759999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011319712499999999,
+      "status": "성공",
+      "input_tokens": 2173,
+      "output_tokens": 43,
+      "calculated_usd": 0.00035175
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0112915875,
+      "status": "성공",
+      "input_tokens": 2073,
+      "output_tokens": 68,
+      "calculated_usd": 0.00035175
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117078375,
+      "status": "성공",
+      "input_tokens": 2979,
+      "output_tokens": 83,
+      "calculated_usd": 0.00049665
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01096815,
+      "status": "성공",
+      "input_tokens": 1574,
+      "output_tokens": 59,
+      "calculated_usd": 0.0002715
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011890275,
+      "status": "성공",
+      "input_tokens": 3135,
+      "output_tokens": 59,
+      "calculated_usd": 0.00050565
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011104837499999999,
+      "status": "성공",
+      "input_tokens": 1862,
+      "output_tokens": 49,
+      "calculated_usd": 0.00030869999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117112125,
+      "status": "성공",
+      "input_tokens": 2716,
+      "output_tokens": 68,
+      "calculated_usd": 0.0004482
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114768375,
+      "status": "성공",
+      "input_tokens": 2346,
+      "output_tokens": 52,
+      "calculated_usd": 0.0003831
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011025525,
+      "status": "성공",
+      "input_tokens": 1662,
+      "output_tokens": 48,
+      "calculated_usd": 0.0002781
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011581837499999999,
+      "status": "성공",
+      "input_tokens": 2595,
+      "output_tokens": 47,
+      "calculated_usd": 0.00041745
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111954,
+      "status": "성공",
+      "input_tokens": 1866,
+      "output_tokens": 47,
+      "calculated_usd": 0.00030809999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114858375,
+      "status": "성공",
+      "input_tokens": 2277,
+      "output_tokens": 62,
+      "calculated_usd": 0.00037875
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0111414,
+      "status": "성공",
+      "input_tokens": 1796,
+      "output_tokens": 44,
+      "calculated_usd": 0.0002958
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011726025,
+      "status": "성공",
+      "input_tokens": 2656,
+      "output_tokens": 72,
+      "calculated_usd": 0.00044159999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012154087499999999,
+      "status": "성공",
+      "input_tokens": 3283,
+      "output_tokens": 51,
+      "calculated_usd": 0.00052305
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113118375,
+      "status": "성공",
+      "input_tokens": 2122,
+      "output_tokens": 60,
+      "calculated_usd": 0.0003543
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0109267125,
+      "status": "성공",
+      "input_tokens": 1516,
+      "output_tokens": 68,
+      "calculated_usd": 0.0002682
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110193375,
+      "status": "성공",
+      "input_tokens": 1687,
+      "output_tokens": 62,
+      "calculated_usd": 0.00029025
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0113950875,
+      "status": "성공",
+      "input_tokens": 2217,
+      "output_tokens": 53,
+      "calculated_usd": 0.00036435000000000005
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011477025,
+      "status": "성공",
+      "input_tokens": 2276,
+      "output_tokens": 43,
+      "calculated_usd": 0.0003672
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012164587499999999,
+      "status": "성공",
+      "input_tokens": 3377,
+      "output_tokens": 43,
+      "calculated_usd": 0.0005323499999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114730875,
+      "status": "성공",
+      "input_tokens": 2298,
+      "output_tokens": 50,
+      "calculated_usd": 0.0003747
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114142125,
+      "status": "성공",
+      "input_tokens": 2204,
+      "output_tokens": 45,
+      "calculated_usd": 0.00035759999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118619625,
+      "status": "성공",
+      "input_tokens": 2891,
+      "output_tokens": 38,
+      "calculated_usd": 0.00045645
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01204515,
+      "status": "성공",
+      "input_tokens": 3113,
+      "output_tokens": 68,
+      "calculated_usd": 0.00050775
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0110429625,
+      "status": "성공",
+      "input_tokens": 1659,
+      "output_tokens": 40,
+      "calculated_usd": 0.00027285000000000005
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011968462499999999,
+      "status": "성공",
+      "input_tokens": 2983,
+      "output_tokens": 47,
+      "calculated_usd": 0.00047565
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0120384,
+      "status": "성공",
+      "input_tokens": 3098,
+      "output_tokens": 75,
+      "calculated_usd": 0.0005097
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0122605875,
+      "status": "성공",
+      "input_tokens": 3369,
+      "output_tokens": 67,
+      "calculated_usd": 0.00054555
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0123955875,
+      "status": "성공",
+      "input_tokens": 3611,
+      "output_tokens": 48,
+      "calculated_usd": 0.0005704499999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012185212499999999,
+      "status": "성공",
+      "input_tokens": 3308,
+      "output_tokens": 44,
+      "calculated_usd": 0.0005226
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012036149999999999,
+      "status": "성공",
+      "input_tokens": 3097,
+      "output_tokens": 50,
+      "calculated_usd": 0.00049455
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0123667125,
+      "status": "성공",
+      "input_tokens": 3572,
+      "output_tokens": 53,
+      "calculated_usd": 0.0005675999999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0127462125,
+      "status": "성공",
+      "input_tokens": 4160,
+      "output_tokens": 61,
+      "calculated_usd": 0.0006606
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012653025,
+      "status": "성공",
+      "input_tokens": 3953,
+      "output_tokens": 55,
+      "calculated_usd": 0.0006259499999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0123219,
+      "status": "성공",
+      "input_tokens": 3511,
+      "output_tokens": 64,
+      "calculated_usd": 0.00056505
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011379525,
+      "status": "성공",
+      "input_tokens": 2175,
+      "output_tokens": 72,
+      "calculated_usd": 0.00036945
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011828024999999999,
+      "status": "성공",
+      "input_tokens": 2754,
+      "output_tokens": 50,
+      "calculated_usd": 0.0004431
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0114843375,
+      "status": "성공",
+      "input_tokens": 2289,
+      "output_tokens": 40,
+      "calculated_usd": 0.00036734999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011730525,
+      "status": "성공",
+      "input_tokens": 2633,
+      "output_tokens": 60,
+      "calculated_usd": 0.00043095
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115255875,
+      "status": "성공",
+      "input_tokens": 2391,
+      "output_tokens": 45,
+      "calculated_usd": 0.00038564999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115884,
+      "status": "성공",
+      "input_tokens": 2454,
+      "output_tokens": 82,
+      "calculated_usd": 0.00041729999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0117629625,
+      "status": "성공",
+      "input_tokens": 2796,
+      "output_tokens": 45,
+      "calculated_usd": 0.00044639999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011715149999999999,
+      "status": "성공",
+      "input_tokens": 2709,
+      "output_tokens": 64,
+      "calculated_usd": 0.00044474999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011687025,
+      "status": "성공",
+      "input_tokens": 2631,
+      "output_tokens": 72,
+      "calculated_usd": 0.00043785
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118424625,
+      "status": "성공",
+      "input_tokens": 2814,
+      "output_tokens": 58,
+      "calculated_usd": 0.0004569
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01133865,
+      "status": "성공",
+      "input_tokens": 2069,
+      "output_tokens": 80,
+      "calculated_usd": 0.00035834999999999996
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01127565,
+      "status": "성공",
+      "input_tokens": 2031,
+      "output_tokens": 54,
+      "calculated_usd": 0.00033705
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0118597125,
+      "status": "성공",
+      "input_tokens": 2849,
+      "output_tokens": 55,
+      "calculated_usd": 0.00046034999999999994
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011599275,
+      "status": "성공",
+      "input_tokens": 2506,
+      "output_tokens": 54,
+      "calculated_usd": 0.00040829999999999995
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0115094625,
+      "status": "성공",
+      "input_tokens": 2392,
+      "output_tokens": 37,
+      "calculated_usd": 0.000381
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012095775,
+      "status": "성공",
+      "input_tokens": 3267,
+      "output_tokens": 61,
+      "calculated_usd": 0.0005266499999999999
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.0119399625,
+      "status": "성공",
+      "input_tokens": 3047,
+      "output_tokens": 57,
+      "calculated_usd": 0.00049125
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.012016275,
+      "status": "성공",
+      "input_tokens": 3093,
+      "output_tokens": 59,
+      "calculated_usd": 0.00049935
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.011739712499999999,
+      "status": "성공",
+      "input_tokens": 2754,
+      "output_tokens": 60,
+      "calculated_usd": 0.00044909999999999997
+    },
+    {
+      "model": "gpt-4o-mini-2024-07-18",
+      "reserved_usd": 0.01219815,
+      "status": "성공",
+      "input_tokens": 3379,
+      "output_tokens": 54,
+      "calculated_usd": 0.00053925
+    }
+  ]
+}

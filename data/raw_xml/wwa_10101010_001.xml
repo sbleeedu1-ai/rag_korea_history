@@ -1,0 +1,28 @@
+<level5 id="wwa_10101010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사학(邪學) 엄금에 관해 대왕 대비가 하교하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1801-01-10L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">純祖實錄 2책 2권</mainTitle>
+              <page begin="4장 B면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純祖實錄 47책</mainTitle>
+              <page begin="354면" />
+            </source>
+            <subjectClass>사상-서학(西學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○丁亥/大王大妃敎曰: "先王每謂, 正學明, 則邪學自熄。 今聞所謂邪學依舊, 自京至于畿湖, 而日益熾盛云。 人之爲人, 以有人倫, 國之爲國, 以有敎化。 今之所謂邪學, 無父無君, 毁壞人倫, 背馳敎化, 自歸於夷狄禽獸, 彼蚩蚩之氓, 漸染詿誤, 若赤子之入井, 此豈不惻然而傷心乎? 監司、守令, 仔細曉諭, 使爲邪學者, 飜然改革, 不爲邪學者, 惕然懲戒, 無負我先王位育之豐功盛烈。 而如是嚴禁之後, 猶有不悛之類, 當以逆律從事。 守令各於其境內, 修明五家統之法, 其統內如有邪學之類, 則統首告官懲治, 當劓殄滅之, 俾無遺種。 以此下敎, 自廟堂申明知委於京外。" 先是, 西洋國, 有所謂<index num="1871735_0" sort="W" type="이름">耶蘇</index>天主之學, 蓋惑於堂獄之說, 不尊父母, 蔑理亂常, 異敎之最無倫者也。 其書自中國, 流傳於我東, 而或有浸溺詿誤者, 自<index num="1871736_0" sort="K" type="이름">正宗</index>朝, 嚴法禁之矣。 尙有漏網餘孽, 嘯聚講習, 轉相染汙, 多有見捉於捕廳者, 故有是敎。</paragraph>
+          </content>
+        </text>
+      </level5>
+      

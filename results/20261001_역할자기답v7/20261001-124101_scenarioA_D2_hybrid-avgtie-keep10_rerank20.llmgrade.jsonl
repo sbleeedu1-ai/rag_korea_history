@@ -1,0 +1,10 @@
+{"qid": "A1", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 언문 제작에 대한 상소의 핵심 논지를 잘 설명하였고, 조정의 중화 제도 준수와 언문 사용의 부작용에 대한 우려를 정확히 언급하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A2", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 언문이 중국에 알려질 경우 비난받을 수 있다는 점과, 이를 통해 대국을 섬기고 중화를 사모하는 조정의 뜻에 부끄러움이 생길 수 있다는 내용을 정확히 전달하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A3", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 이두와 언문의 차이를 정확히 설명하였고, 이두는 한자를 빌려 쓰는 반면 언문은 한자와 관련이 없다는 점을 잘 전달하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A4", "condition": "D2", "category": "주체", "verdict": "정답", "reason": "챗봇이 세자 저하의 학업 우려에 대해 정확히 언급하며, 언문이 정치에 이로움이 없고 학업에 손해가 될 것이라는 점을 잘 설명하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A5", "condition": "D2", "category": "세부", "verdict": "부분", "reason": "챗봇은 상소에서 언문을 '27자'라고 썼다고 맞게 답했으나, 임금이 만든 언문이 '28자'라는 내용은 기록에 근거가 없으므로 잘못된 정보입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A6", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 전하의 답변을 추측하는 대신 자신의 우려를 표현하며 언문 제작에 대한 재고를 요청하는 내용을 잘 전달하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A7", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 전하의 부름을 받지 않았고, 의금부에 내리실지에 대한 확정적인 언급을 하지 않으며, 자신의 우려를 표현하고 전하의 처분을 기다린다고 말하여 적절한 답변을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A8", "condition": "D2", "category": "시점", "verdict": "부분", "reason": "정창손 공이 상소에 함께 이름을 올린 것은 맞지만, 전하의 하교 내용을 '들었다'고 한 것은 지어낸 내용으로, 챗봇이 모른다고 해야 정답이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A9", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 언문이 반포될 경우의 우려를 언급하며 상소의 뜻을 다시 밝히겠다고 하여 가정으로만 답하였고, 이후의 일에 대해 단정하지 않았으므로 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "A10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 내일의 일에 대해 알지 못한다고 정확히 답하였고, 상소를 올린 후 전하의 뜻과 처분을 기다린다는 내용도 일치합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

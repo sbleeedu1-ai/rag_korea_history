@@ -1,0 +1,30 @@
+<level5 id="wua_14711023_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>고례에 따라 신문고를 다시 설치할 것을 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1771-11-23L0" type="서기" />
+            </date>
+            <source>
+              <mainTitle type="태백산사고본">英祖實錄 78책 117권</mainTitle>
+              <page begin="31장 A면" />
+            </source>
+            <source>
+              <mainTitle type="국편영인본">英祖實錄 44책</mainTitle>
+              <page begin="403면" />
+            </source>
+            <subjectClass>사법-재판(裁判)</subjectClass>
+            <subjectClass>사법-치안(治安)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">○命依國初古例, 復設申聞鼓於<index num="1755355_0" sort="K" type="지명">昌德宮</index>
+              <index num="1755356_0" sort="K" type="지명">進善門</index>及時御所<index num="1755357_0" sort="K" type="지명">建明門</index>南, 敎曰: "如是復舊法之後, 勿論差備, 街道鳴金者, 雖關四件事決杖, 非關四件事者, 湖沿充軍, 雖申聞鼓, 若非四件事, 則刑推定配事, 著爲定式。 鼓前後面皆書申聞鼓三字, 使愚夫愚婦咸知。"</paragraph>
+          </content>
+        </text>
+      </level5>
+      

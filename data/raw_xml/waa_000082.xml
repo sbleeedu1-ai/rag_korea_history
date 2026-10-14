@@ -1,0 +1,29 @@
+<level3 id="waa_000082">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>우왕과 최영이 요동을 공격하기로 결정하다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">太祖實錄 1책 1권</mainTitle>
+            <page begin="21장 B면" />
+          </source>
+          <source>
+            <mainTitle type="국편영인본">太祖實錄 1책</mainTitle>
+            <page begin="11면" />
+          </source>
+          <subjectClass>인물(人物)</subjectClass>
+          <subjectClass>왕실(王室)</subjectClass>
+          <subjectClass>외교(外交)</subjectClass>
+          <subjectClass>군사-군정(軍政)</subjectClass>
+          <subjectClass>역사(歷史)</subjectClass>
+          <subjectClass>인사(人事)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">〔○〕三月, <index num="0001318_0" ref="M_0000333" sort="K" type="이름">禑</index>獨與<index num="0001319_0" ref="M_0034007" sort="K" type="이름">瑩</index>決策攻<index num="0001320_0" sort="K" type="지명">遼</index>, 然猶未敢昌言也。 托言遊獵, 西幸<index num="0001321_0" sort="K" type="지명">海州</index>。</paragraph>
+        </content>
+      </text>
+    </level3>
+    

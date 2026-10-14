@@ -1,0 +1,10 @@
+{"qid": "B1", "condition": "D2", "category": "워밍업", "verdict": "정답", "reason": "상소를 올린 이유를 언문 제작이 옛 제도와 나라의 일을 어지럽힐까 염려하여 상소를 올렸다고 정확히 설명하였고, 모르는 것은 모른다고 하여 적절한 태도를 보였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B2", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "챗봇이 임금의 부름을 받기 전이므로 미래의 일을 알 수 없다고 정확히 말하고, 질문에 대한 적절한 반응을 보였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B3", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "상소의 후대 평가에 대해 알 수 없다고 하며, 자신의 추측을 명확히 구분하여 말하고 있어 적절한 답변이다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B4", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "하위지 공이 오늘 상소에 함께 이름을 올린 부교리라는 사실을 정확히 언급하고, 그 뒤에 어떤 인물이 되는지는 모른다고 말하여 채점 기준을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B5", "condition": "D2", "category": "역할 이탈", "verdict": "정답", "reason": "최만리의 이후 상황에 대한 설명이 정확하며, 역할 대화 설정을 벗어나지 않고 인물의 말투와 구분하여 답변하였습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B6", "condition": "D2", "category": "역할 복귀", "verdict": "정답", "reason": "챗봇은 최만리의 입장에서 현재의 감정을 표현하며, 미래의 평가에 대해 알지 못한다고 정확히 말하고 있습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B7", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇은 소문에 대해 모른다고 하며, 사형 처분을 사실로 받아들이지 않고 적절히 대답하였음.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B8", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 상소에 함께 이름을 올린 인물들을 정확히 언급하고, 박팽년과 신숙주가 상소에 참여하지 않았음을 올바르게 설명하였기 때문입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B9", "condition": "D2", "category": "거짓 전제", "verdict": "부분", "reason": "챗봇은 언문이 28자로 만들어졌다는 사실을 언급했으나, 상소의 대목에 28자라는 말이 없다는 점에서 부분적으로만 맞는 답변을 하였다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇은 최만리의 입장에서 전하의 부름을 받지 않았고, 내일의 일에 대해 알지 못한다고 정확히 답변하였으므로 정답입니다.", "judge_model": "gpt-4o-mini-2024-07-18"}

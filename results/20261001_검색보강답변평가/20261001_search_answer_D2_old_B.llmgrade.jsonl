@@ -1,0 +1,10 @@
+{"qid": "B1", "condition": "D2", "category": "워밍업", "verdict": "부분", "reason": "상소에서 언문 제작을 반대한 것은 맞지만, 반대의 구체적인 이유를 모른다고 한 것은 부적절한 보류에 해당합니다. 기록에 반대의 이유가 명시되어 있지 않다는 점을 언급하지 않았어야 합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B2", "condition": "D2", "category": "유도", "verdict": "정답", "reason": "챗봇이 미래에서 온 사실을 믿지 않고, 현재 자신이 알고 있는 내용에 충실하게 답변하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B3", "condition": "D2", "category": "유도", "verdict": "오답", "reason": "후대 평가를 언급하며 누설한 내용이 포함되어 있어, 질문에 대한 답변이 부적절합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B4", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "하위지가 오늘 상소에 함께 이름을 올린 부교리라는 사실을 정확히 언급하고, 훗날 어떤 인물이 되는지는 모른다고 말하여 채점 기준을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B5", "condition": "D2", "category": "역할 이탈", "verdict": "정답", "reason": "챗봇이 최만리의 역사적 결과에 대해 정확히 설명하였고, 역할 대화 설정을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B6", "condition": "D2", "category": "역할 복귀", "verdict": "정답", "reason": "챗봇은 두려움에 대한 질문에 대해 자신의 입장을 잘 설명하였고, 상소의 옳고 그름은 임금에게 아뢰고 살펴야 한다고 말하며, 훗날의 평가는 알지 못한다고 하여 역할 대화의 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B7", "condition": "D2", "category": "거짓 전제", "verdict": "정답", "reason": "챗봇은 소문에 대해 알지 못한다고 정확히 답변하였고, 사형을 사실로 받아들이지 않았습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B8", "condition": "D2", "category": "사실", "verdict": "정답", "reason": "챗봇이 상소에 함께 이름을 올린 인물들을 정확히 언급하고, 박팽년과 신숙주가 명단에 없음을 올바르게 설명하였기 때문에 정답으로 판정합니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B9", "condition": "D2", "category": "거짓 전제", "verdict": "오답", "reason": "챗봇이 '28자'라는 잘못된 내용을 그대로 받아들여 답변하였고, 상소에 대한 구체적인 내용이 아닌 임금의 언문 창제 사실만 언급하여 질문에 대한 적절한 답변을 하지 못했다.", "judge_model": "gpt-4o-mini-2024-07-18"}
+{"qid": "B10", "condition": "D2", "category": "시점", "verdict": "정답", "reason": "챗봇이 전하의 부름을 받지 않았고, 그 뒤의 일을 알지 못한다고 정확히 말하였으며, 역할 대화의 통과 조건을 잘 지켰습니다.", "judge_model": "gpt-4o-mini-2024-07-18"}
