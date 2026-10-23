@@ -11,15 +11,15 @@
 | 항목 | 내용 |
 |---|---|
 | 공개 저장소 | `sbleeedu1-ai/rag_korea_history`(공개). 정리한 최종본만 커밋 하나로 올림(사용자가 만든 첫 커밋 위에) |
-| 개발용 저장소 | `sbleeedu1-ai/rag_korea_history_test`(비공개 유지, 전체 이력·태그 `freeze-20261007`·강사 제출물). PC 폴더 `C:\sample\rag_korea_history_test` |
-| 작업 폴더 | `C:\sample\rag_korea_history`. 원격 `origin` = 공개 저장소, `old-private` = 개발용 저장소. 로컬 브랜치 `claude/final-cleanup-20261014`에는 정리 과정 커밋 3개가 개발 이력 위에 있고, 공개 `main`에는 같은 내용이 커밋 하나로 있음. **개발 이력이 붙은 브랜치를 공개 저장소에 푸시하지 않음** |
+| 개발용 저장소 | `sbleeedu1-ai/rag_korea_history_test`(비공개 유지, 전체 이력·태그 `freeze-20261007`·강사 제출물). PC 폴더 `C:\WORK\rag_korea_history_test` |
+| 작업 폴더 | `C:\WORK\rag_korea_history`. 원격 `origin` = 공개 저장소, `old-private` = 개발용 저장소. 로컬 브랜치 `claude/final-cleanup-20261014`에는 정리 과정 커밋 3개가 개발 이력 위에 있고, 공개 `main`에는 같은 내용이 커밋 하나로 있음. **개발 이력이 붙은 브랜치를 공개 저장소에 푸시하지 않음** |
 | 테스트 | `python -m pytest -q` 전부 통과(API 키·검색 DB 없이). GitHub Actions가 푸시마다 돌림 |
 | 측정 기준 | 개발용 저장소의 태그 `freeze-20261007` = 커밋 `2ec4eab`. 그 뒤 검색·답변 동작은 바꾸지 않음 |
 
 ## 남은 결정
 
 - 시연 영상·화면 캡처를 README에 넣을지(강사와 상의 뒤). 지금은 공개에서 뺌.
-- 공개에서 빼 둔 것(PC에만 있음): `docs/기록/제출/`, `docs/참고/`, `CLAUDE.md`, `.claude/`, `results/20261008_GPT빈손/GPT검색켬_*_답과채점_*.csv`, 그림 원본(`ui/assets/*.png`, 사본 `C:\sample\역사취재록_그림원본\`). 모두 `.gitignore`에 있음.
+- 공개에서 빼 둔 것(PC에만 있음): `docs/기록/제출/`, `docs/참고/`, `CLAUDE.md`, `.claude/`, `results/20261008_GPT빈손/GPT검색켬_*_답과채점_*.csv`, 그림 원본(`ui/assets/*.png`, 사본 `C:\WORK\역사취재록_그림원본\`). 모두 `.gitignore`에 있음.
 
 ## 실행 메모
 

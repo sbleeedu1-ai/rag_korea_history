@@ -6,7 +6,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-ROOT = Path(r"C:\sample\rag_korea_history_test\results")
+ROOT = Path(r"C:\WORK\rag_korea_history_test\results")
 LOW = ["20261007_전제판정나눔", "20261007_전제판정나눔_2회", "20261007_전제판정나눔_3회"]
 NONE = "20261013_리랭커none"
 SETS = [("단발 개발 67", "_single_D2_"), ("단발 v1 24", "_holdout_v1_2"), ("단발 v1b 24", "_holdout_v1b_"),

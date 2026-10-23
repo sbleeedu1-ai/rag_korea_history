@@ -3,7 +3,7 @@ import json
 import statistics
 import sys
 
-sys.path.insert(0, r"C:\sample\rag_korea_history_test")
+sys.path.insert(0, r"C:\WORK\rag_korea_history_test")
 from ui import episode, episode_gyeyu, runtime
 from sillok_rag.evidence import _squash
 
