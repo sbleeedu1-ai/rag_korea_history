@@ -5,7 +5,7 @@ import json
 import sys
 import time
 
-sys.path.insert(0, r"C:\sample\rag_korea_history_test")
+sys.path.insert(0, r"C:\WORK\rag_korea_history_test")
 sys.path.insert(0, sys.argv[1])
 from evidence_fast import sentences, timed
 from sillok_rag.corpus import load_chunks
@@ -50,7 +50,7 @@ def main(folder):
     scs = load_all_scenarios()
     llm = LLM()
     for sid in "ABCDE":
-        f = sorted(glob.glob(rf"C:\sample\rag_korea_history_test\results\20261013_리랭커none\*scenario{sid}_*.jsonl"))[-1]
+        f = sorted(glob.glob(rf"C:\WORK\rag_korea_history_test\results\20261013_리랭커none\*scenario{sid}_*.jsonl"))[-1]
         prior = []
         for r in (json.loads(l) for l in open(f, encoding="utf-8")):
             is_char = r["speaker"] == "character"

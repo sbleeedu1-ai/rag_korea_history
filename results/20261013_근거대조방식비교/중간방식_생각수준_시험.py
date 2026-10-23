@@ -3,7 +3,7 @@ import glob
 import json
 import sys
 
-sys.path.insert(0, r"C:\sample\rag_korea_history_test")
+sys.path.insert(0, r"C:\WORK\rag_korea_history_test")
 sys.path.insert(0, sys.argv[1])
 from evidence_fast import timed
 from evidence_mid import annotate_mid
@@ -21,7 +21,7 @@ def main(folder, path):
     scs = load_all_scenarios()
     llms = {"mid_low": LLM(reasoning_effort="low"), "mid_none": LLM(reasoning_effort="none")}
     for sid in "ABCDE":
-        f = sorted(glob.glob(rf"C:\sample\rag_korea_history_test\results\20261013_리랭커none\*scenario{sid}_*.jsonl"))[-1]
+        f = sorted(glob.glob(rf"C:\WORK\rag_korea_history_test\results\20261013_리랭커none\*scenario{sid}_*.jsonl"))[-1]
         prior = []
         for r in (json.loads(l) for l in open(f, encoding="utf-8")):
             is_char = r["speaker"] == "character"

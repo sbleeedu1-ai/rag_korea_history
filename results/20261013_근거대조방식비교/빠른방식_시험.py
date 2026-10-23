@@ -12,7 +12,7 @@ import re
 import sys
 import time
 
-sys.path.insert(0, r"C:\sample\rag_korea_history_test")
+sys.path.insert(0, r"C:\WORK\rag_korea_history_test")
 from sillok_rag.corpus import load_chunks
 from sillok_rag.evaluate import load_all_scenarios
 from sillok_rag.evidence import EVIDENCE_RULES, _squash, annotate, cards, evidence_messages, verify
@@ -107,7 +107,7 @@ def main(out_path):
     llm = LLM()   # 지금 근거 대조와 같은 설정(답변 모델·medium)
     rows_out = []
     for sid in "ABCDE":
-        f = sorted(glob.glob(rf"C:\sample\rag_korea_history_test\results\20261013_리랭커none\*scenario{sid}_*.jsonl"))[-1]
+        f = sorted(glob.glob(rf"C:\WORK\rag_korea_history_test\results\20261013_리랭커none\*scenario{sid}_*.jsonl"))[-1]
         rows = [json.loads(l) for l in open(f, encoding="utf-8")]
         prior = []
         for r in rows:
